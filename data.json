@@ -1,0 +1,752 @@
+{
+    "Self": {
+        "Personal Information": {
+            "text": "اسمي صالح وأنا من مصر، تحديداً من القاهرة، أبلغ من العمر أربعة وأربعين سنة، وأنا أعزب. عندي ولد وبنت، ابني اسمه محمود، وبنتي اسمها أميرة. أنا شخص اجتماعي ومحب للحياة، وأحب قضاء الوقت مع عائلتي وأصدقائي. كما أنني أحب السفر والتعرف على ثقافات جديدة. من هواياتي المفضلة القراءة، حيث أحب تعلم أشياء جديدة وتوسيع معرفتي. كما أنني أحب الكتابة، حيث أجد فيها وسيلة للتعبير عن أفكاري ومشاعري. أحب أيضًا ممارسة الرياضة، حيث أجد فيها وسيلة للتخلص من التوتر وتحسين صحتي. كما أنني أحب الرسم، حيث أجد فيه وسيلة للتعبير عن إبداعي. أعتقد أن الهوايات مهمة؛ لأنها تجعل حياتنا أكثر إثارة وفائدة. فهي تساعدنا على تعلم أشياء جديدة وتطوير مهاراتنا والإبداع. كما أنها تساعدنا على الاسترخاء والتخلص من التوتر. وأنا أتمنى أن استمر في تطوير هواياتي وتعلم أشياء جديدة في المستقبل. كما أتمنى أن أتمكن من استخدام هواياتي لمساعدة الآخرين.",
+            "script": "My name is Saleh and I am from Cairo. I am a social and life-loving person, and I enjoy spending time with my family and friends. I also love traveling and getting to know new cultures. One of my favorite hobbies is reading, where I enjoy learning new things and expanding my knowledge. I also love writing, as I find it a means to express my thoughts and feelings. I also enjoy exercising, as I find it a way to relieve stress and improve my health. I also like drawing, as I find it a way to express my creativity. I believe that hobbies are important because they make our lives more exciting and useful. They help us learn new things, develop our skills, and be creative. They also help us relax and relieve stress. I hope to continue developing my hobbies and learning new things in the future. I also hope to use my hobbies to help others.",
+            "vocabulary": [
+                {"arabic": "اجتماعي", "english": "Social"},
+                {"arabic": "محب للحياة", "english": "Loves life"},
+                {"arabic": "قضاء الوقت", "english": "Spending time"},
+                {"arabic": "ثقافات جديدة", "english": "New cultures"},
+                {"arabic": "هوايات", "english": "Hobbies"},
+                {"arabic": "القراءة", "english": "Reading"},
+                {"arabic": "توسيع", "english": "Expand"},
+                {"arabic": "كتابة", "english": "Writing"},
+                {"arabic": "تعبير", "english": "Expression"},
+                {"arabic": "ممارسة الرياضة", "english": "Exercising"},
+                {"arabic": "التخلص من التوتر", "english": "Relieve stress"},
+                {"arabic": "تحسين", "english": "Improve"},
+                {"arabic": "الرسم", "english": "Drawing"},
+                {"arabic": "إبداع", "english": "Creativity"},
+                {"arabic": "مهمة", "english": "Important"},
+                {"arabic": "إثارة", "english": "Excitement"},
+                {"arabic": "فائدة", "english": "Benefit"},
+                {"arabic": "استرخاء", "english": "Relaxation"},
+                {"arabic": "مستقبل", "english": "Future"},
+                {"arabic": "مساعدة الآخرين", "english": "Help others"}
+            ],
+            "questions": [
+                {
+                    "question": "What does Saleh consider essential for enhancing the quality of life?",
+                    "options": ["Regular travel", "Continuous learning and creativity", "High social status", "Financial security"],
+                    "correct": "b"
+                },
+                {
+                    "question": "How does Saleh view the relationship between hobbies and personal development?",
+                    "options": ["Hobbies are secondary to career development", "Hobbies provide opportunities for personal growth and stress relief", "Hobbies should be avoided to focus on professional goals", "Hobbies are primarily for entertainment"],
+                    "correct": "b"
+                },
+                {
+                    "question": "According to Saleh, what role does writing play in his life?",
+                    "options": ["It is a method for relaxation", "It serves as a medium for expressing his thoughts and feelings", "It helps him learn new cultures", "It is a way to enhance his physical fitness"],
+                    "correct": "b"
+                },
+                {
+                    "question": "What does Saleh hope to achieve with his hobbies in the future?",
+                    "options": ["To use them solely for personal enjoyment", "To stop pursuing new hobbies", "To leverage them for helping others and personal growth", "To focus exclusively on one hobby"],
+                    "correct": "c"
+                }
+            ]
+        }
+    ,
+        "Hobbies and Interests": {
+            "text": "عندما يتعلق الأمر بتعبير عن هوايتي المفضلة، لا يمكنني إلا أن أتحدث عن شغفي بالرسم. منذ الصغر، كانت الألوان والأقلام والأوراق جزءًا لا يتجزأ من حياتي. الرسم بالنسبة لي ليس مجرد هواية، بل هو وسيلة للتعبير عن مشاعري وأفكاري بطريقة فنية وجميلة. عندما أمسك بفرشاة الرسم، أجد نفسي في عالم آخر تمامًا. أستمتع بالتركيز والانغماس في اللوحة التي أقوم بإنشائها. بينما أقوم بمزج الألوان وتوزيعها على الورقة، أشعر بالسلام الداخلي والراحة. الرسم يساعدني على التعبير عن مشاعري بطريقة إبداعية وملهمة.من ناحية أخرى، يعتبر الرسم لي وسيلة للتعبير عن الجمال والإبداع في العالم من حولي. أجد الإلهام في الطبيعة والأشكال والألوان التي تحيط بي، وأحاول تجسيدها على الورق بأسلوبي الخاص. الرسم يساعدني على رؤية العالم بعيون فنان، ويجعلني أقدر الجمال في كل شيء من حولي. على سبيل المثال كذلك، يمكنني أن أقضي ساعات طويلة في استوديو الرسم، مستمتعًا بكل لحظة أقضيها وأنا أعبر عن نفسي بالطريقة التي أحبها. في النهاية كما، يمكنني القول بأن الرسم هو ليس فقط هواية بالنسبة لي، بل هو جزء لا يتجزأ من هويتي وطريقة تعبيري عن العالم من حولي.",
+        "script": "When it comes to expressing my favorite hobby, I can only talk about my passion for drawing. Since childhood, colors, pencils, and papers have been an integral part of my life. For me, drawing is not just a hobby; it is a way to express my feelings and thoughts in an artistic and beautiful manner. When I hold a paintbrush, I find myself in a completely different world. I enjoy focusing and immersing myself in the canvas I am creating. As I mix and distribute colors on the paper, I feel inner peace and comfort. Drawing helps me express my feelings in a creative and inspiring way. On the other hand, drawing is a means for me to express beauty and creativity in the world around me. I find inspiration in nature, shapes, and colors that surround me, and I try to capture them on paper in my own style. Drawing helps me see the world through an artist’s eyes and makes me appreciate beauty in everything around me. For example, I can spend long hours in the drawing studio, enjoying every moment as I express myself in the way I love. In the end, I can say that drawing is not just a hobby for me; it is an integral part of my identity and a way of expressing my view of the world around me.",
+        "vocabulary": [
+            {"arabic": "شغف", "english": "passion"},
+            {"arabic": "فنية", "english": "artistic"},
+            {"arabic": "الاندماج", "english": "immersion"},
+            {"arabic": "السلام الداخلي", "english": "inner peace"},
+            {"arabic": "ملهمة", "english": "inspiring"},
+            {"arabic": "الإبداع", "english": "creativity"},
+            {"arabic": "إلهام", "english": "inspiration"},
+            {"arabic": "استوديو", "english": "studio"},
+            {"arabic": "هويتي", "english": "identity"}
+        ],
+        "questions": [
+            {
+                "question": "How does the narrator describe their experience when using a paintbrush?",
+                "options": ["They feel detached from their surroundings", "They experience a profound sense of immersion and peace", "They become distracted and lose focus", "They feel frustrated with the process"],
+                "correct": "b"
+            },
+            {
+                "question": "What does the narrator believe about the role of drawing in their life?",
+                "options": ["It is a temporary distraction from daily life", "It is a means to express their identity and artistic vision", "It is primarily a social activity", "It is a way to gain professional recognition"],
+                "correct": "b"
+            },
+            {
+                "question": "According to the text, what inspires the narrator's artistic work?",
+                "options": ["Famous artists' techniques", "Nature, shapes, and colors around them", "Artistic trends and popular styles", "Feedback from other artists"],
+                "correct": "b"
+            },
+            {
+                "question": "How does spending time in the drawing studio affect the narrator?",
+                "options": ["They feel isolated from the outside world", "They enjoy every moment and express themselves fully", "They become bored after a short time", "They feel pressure to complete their work quickly"],
+                "correct": "b"
+            }
+        ]
+    
+        },
+        "Daily Routines": {
+            "text": "كطالبة في المدرسة الثانوية، يحتوي روتيني اليومي على مزيج من الأنشطة المدرسية والغير المدرسية والهوايات الشخصية. أستيقظ عادةً في الصباح الباكر، حوالي الساعة 6:30 صباحًا، للاستعداد للذهاب إلى المدرسة. بعد الاستحمام السريع وتناول الإفطار، أتوجه إلى المدرسة. وبمجرد وصولي ، أحضر دروسًا مختلفة طوال اليوم، بما في ذلك الرياضيات واللغة الإنجليزية والعلوم. كما أشارك أيضا في الأنشطة الغير المدرسية مثل نادي المناظرة وممارسة كرة القدم بعد المدرسة. وبعد يوم طويل من التعلم و الأنشطة الترفيهية، عادة ما أعود إلى المنزل وأكمل واجباتي المنزلية وأسترخي بقراءة كتاب أو مشاهدة فيلم قبل الذهاب إلى النوم حوالي الساعة 10 مساء. بالإضافة إلى التزاماتي الأكاديمية واللا مدرسية ، أحاول أيضًا أن أجد وقتًا لنفسي كل يوم. يتيح لي هذا الوقت الشخصي الاسترخاء والاستمتاع بممارسة هواياتي مثل العزف على الجيتار أو الرسم. كما أستغل هذا الوقت للتواصل مع عائلتي وأصدقائي، سواء كان ذلك بتناول العشاء معًا أو التحدث عبر الهاتف. وأخيراً، قبل النوم، أسترخي مع كتاب شيق أو بعض الموسيقى الهادئة. أنا أؤمن بأهمية النوم الجيد للصحة ، لذا أتأكد من حصولي على قسط كافٍ من الراحة للاستعداد لليوم التالي. بشكل عام، روتيني اليومي عبارة عن توازن بين التعليم والأنشطة والوقت الشخصي الذي يساعدني على النمو كطالب.",
+            "script": "As a high school student, my daily routine includes a mix of school activities, extracurriculars, and personal hobbies. I usually wake up early in the morning, around 6:30 AM, to get ready for school. After a quick shower and breakfast, I head to school. Upon arrival, I attend various classes throughout the day, including mathematics, English, and science. I also participate in extracurricular activities like the debate club and playing football after school. After a long day of learning and recreational activities, I usually return home, complete my homework, and relax by reading a book or watching a movie before going to bed around 10 PM. In addition to my academic and extracurricular commitments, I also try to find time for myself every day. This personal time allows me to relax and enjoy my hobbies like playing the guitar or drawing. I also use this time to connect with my family and friends, whether it’s having dinner together or chatting over the phone. Finally, before bed, I unwind with an interesting book or some soothing music. I believe in the importance of good sleep for health, so I make sure to get enough rest to prepare for the next day. Overall, my daily routine is a balance between education, activities, and personal time that helps me grow as a student.",
+            "vocabulary": [
+                {"arabic": "روتين يومي", "english": "Daily routine"},
+                {"arabic": "أنشطة مدرسية", "english": "School activities"},
+                {"arabic": "أنشطة غير مدرسية", "english": "Extracurricular activities"},
+                {"arabic": "هوايات شخصية", "english": "Personal hobbies"},
+                {"arabic": "استعداد", "english": "Preparation"},
+                {"arabic": "استرخاء", "english": "Relaxation"},
+                {"arabic": "واجبات منزلية", "english": "Homework"},
+                {"arabic": "العزف على الجيتار", "english": "Playing the guitar"},
+                {"arabic": "تواصل", "english": "Connect"},
+                {"arabic": "توازن", "english": "Balance"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the narrator's usual morning routine before heading to school?",
+                    "options": ["They spend time with family", "They engage in extracurricular activities", "They wake up early, shower, and have breakfast", "They study for upcoming exams"],
+                    "correct": "c"
+                },
+                {
+                    "question": "How does the narrator balance their daily activities?",
+                    "options": ["By focusing only on academic tasks", "By allocating equal time to school and extracurricular activities", "By balancing education, extracurriculars, and personal time", "By prioritizing social activities over personal hobbies"],
+                    "correct": "c"
+                },
+                {
+                    "question": "What does the narrator do in their personal time?",
+                    "options": ["They prepare for school", "They complete homework", "They relax by playing the guitar or drawing", "They attend additional classes"],
+                    "correct": "c"
+                },
+                {
+                    "question": "Why does the narrator believe good sleep is important?",
+                    "options": ["To ensure they can engage in more extracurricular activities", "To improve their academic performance", "To prepare for the next day and maintain health", "To spend more time with friends"],
+                    "correct": "c"
+                }
+            ]
+        }
+    }
+,
+"Family": {
+        "Family Members": {
+            "text": "أنا اسمي أحمد، وأنا أعيش في عائلة متميزة ومترابطة. عائلتي تتكون من خمسة أفراد، وكل واحد منا له دور خاص ومميز في حياة العائلة. أعيش مع والدي، والدتي، وأخي الكبير، وأختي الصغيرة، بالإضافة إلى جدتي التي تعيش معنا أيضًا. والدي، محمد، هو رجل متفانٍ في عمله وحنون على أسرته. يعمل كمهندس مدني ولديه شغف كبير بمهنته. رغم ساعات عمله الطويلة، يحرص دائمًا على قضاء الوقت مع عائلته في عطلات نهاية الأسبوع. يعشق السفر ويستمتع بزيارة الأماكن الجديدة معنا. عندما نذهب في نزهات عائلية، يكون هو من يخطط لكل التفاصيل، من مكان الزيارة إلى الأنشطة التي سنقوم بها. كما يحب أن يشاركنا قصصًا ممتعة عن تجاربه في السفر، وهو دائمًا مصدر إلهام لنا. والدتي، فاطمة، هي قلب العائلة وروحها. هي ربة منزل ولكنها تقوم بالكثير من الأعمال التطوعية في المجتمع المحلي. تمتاز بقدرتها على إعداد أشهى الأطباق، وتحب أن تجمع العائلة حول المائدة في كل وجبة. تهتم بتفاصيل كل مناسبة عائلية وتبذل جهدًا كبيرًا لضمان أن يكون كل شيء مثاليًا. وهي أيضًا معلمة رائعة لنا، تعلمنا الكثير من القيم والأخلاق الطيبة، وتحرص على تعليمنا مهارات حياتية قيمة. أخي، أحمد، هو أكبر مني بثلاث سنوات. هو طالب في الجامعة، ويدرس الهندسة المعمارية. يتمتع بذكاء حاد وشغف كبير بالمجال الذي يدرسه. على الرغم من انشغاله بالدراسة، إلا أنه دائمًا ما يجد الوقت لمساعدتي في حل مشاكلي الدراسية. هو أيضًا شغوف بالرياضة، ويشارك في فريق كرة القدم في الجامعة. عندما نكون معًا، نحب أن نتحدث عن مشاريعنا وهواياتنا، وهو دائمًا يقدم لي نصائح مفيدة ودعماً كبيراً. أختي الصغيرة، مريم، هي في المدرسة الابتدائية، وتتمتع بروح مرحة وحيوية. تحب الرسم والقراءة، ولديها خيال واسع ينعكس في أعمالها الفنية. كل يوم تجلب لنا شيئًا جديدًا من إبداعاتها، مما يضيف جوًا من الفرح والحيوية إلى المنزل. تحب أن تساعد والدتي في المطبخ وتتعلم منها كيفية إعداد الأطباق المختلفة. ونحن جميعًا نحرص على دعمها وتشجيعها في كل ما تقوم به. أما جدتي، فهي أعز ما لدينا في العائلة. هي سيدة حكيمة وذات تجربة حياة غنية. تعيش معنا منذ عدة سنوات بعد تقاعدها من عملها كمدرسة. تحب أن تروي لنا القصص عن الماضي وتعلمنا الكثير عن تقاليد العائلة. تجمعنا في كل مناسبة وتحرص على أن نكون قريبين من بعضنا البعض. هي مصدر الدفء والحب في المنزل، وتجعل كل لحظة في حياتنا أكثر قيمة.",
+            "script": "My name is Ahmed, and I live in a distinguished and close-knit family. My family consists of five members, each of whom has a special and unique role in family life. I live with my father, my mother, my older brother, my younger sister, and my grandmother who also lives with us. My father, Mohamed, is dedicated to his work and affectionate towards his family. He works as a civil engineer and has a great passion for his profession. Despite his long working hours, he always makes sure to spend time with his family on weekends. He loves traveling and enjoys visiting new places with us. When we go on family outings, he is the one who plans every detail, from the place we visit to the activities we will do. He also enjoys sharing exciting stories about his travel experiences, and he is always an inspiration to us. My mother, Fatima, is the heart and soul of the family. She is a homemaker but also does a lot of volunteer work in the local community. She excels at preparing delicious dishes and loves to gather the family around the table for every meal. She pays attention to every family occasion and puts in a lot of effort to ensure everything is perfect. She is also a wonderful teacher to us, teaching us many values and good morals, and making sure to teach us valuable life skills. My brother, Ahmed, is three years older than me. He is a university student studying architecture. He has a sharp intellect and a great passion for his field of study. Despite his busy study schedule, he always finds time to help me with my academic problems. He is also passionate about sports and participates in the university football team. When we are together, we enjoy discussing our projects and hobbies, and he always gives me useful advice and great support. My younger sister, Maryam, is in elementary school and has a cheerful and lively spirit. She loves drawing and reading, and her wide imagination is reflected in her artistic works. Every day, she brings us something new from her creations, adding a joyful and lively atmosphere to the home. She loves to help my mother in the kitchen and learns from her how to prepare various dishes. We all make sure to support and encourage her in everything she does. As for my grandmother, she is the dearest one in the family. She is a wise lady with a rich life experience. She has lived with us for several years after retiring from her job as a teacher. She loves to tell us stories about the past and teaches us a lot about family traditions. She brings us together on every occasion and makes sure we stay close to each other. She is the source of warmth and love in the home and makes every moment of our lives more valuable.",
+            "vocabulary": [
+                {"arabic": "عائلة متميزة", "english": "Distinguished family"},
+                {"arabic": "متناغمة", "english": "Close-knit"},
+                {"arabic": "مهندس مدني", "english": "Civil engineer"},
+                {"arabic": "شغف", "english": "Passion"},
+                {"arabic": "تطوع", "english": "Volunteer work"},
+                {"arabic": "ربة منزل", "english": "Homemaker"},
+                {"arabic": "ذكاء حاد", "english": "Sharp intellect"},
+                {"arabic": "هوايات", "english": "Hobbies"},
+                {"arabic": "روح مرحة", "english": "Cheerful spirit"},
+                {"arabic": "تقاليد", "english": "Traditions"},
+                {"arabic": "متفانٍ", "english": "Dedicated"},
+                {"arabic": "حنون", "english": "Affectionate"},
+                {"arabic": "تجربة حياة", "english": "Life experience"},
+                {"arabic": "الطهي", "english": "Cooking"},
+                {"arabic": "إبداعات", "english": "Creations"},
+                {"arabic": "أعمال تطوعية", "english": "Volunteer work"},
+                {"arabic": "تقاعد", "english": "Retirement"},
+                {"arabic": "قصص ممتعة", "english": "Exciting stories"},
+                {"arabic": "نزهات عائلية", "english": "Family outings"},
+                {"arabic": "تخطيط", "english": "Planning"},
+                {"arabic": "مصدر إلهام", "english": "Source of inspiration"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the primary role of Ahmed's father in the family?",
+                    "options": ["He is the main caregiver", "He is a civil engineer who plans family activities and travels", "He is the one who manages household chores", "He handles the family finances"],
+                    "correct": "b"
+                },
+                {
+                    "question": "How does Ahmed's mother contribute to the family?",
+                    "options": ["She focuses solely on household tasks", "She is involved in community volunteer work and prepares meals", "She manages the family business", "She is responsible for organizing family trips"],
+                    "correct": "b"
+                },
+                {
+                    "question": "What is unique about Ahmed's younger sister, Maryam?",
+                    "options": ["She is an avid reader and sports enthusiast", "She enjoys drawing, has a lively spirit, and brings creativity to the family", "She is focused on academic achievements", "She helps with financial planning for the family"],
+                    "correct": "b"
+                },
+                {
+                    "question": "What role does Ahmed's grandmother play in the family?",
+                    "options": ["She is a source of warmth and teaches family traditions", "She manages the family finances", "She takes care of daily household chores", "She plans family vacations"],
+                    "correct": "a"
+                }
+            ]
+        }
+    
+    ,
+    "Family Activities": {
+        "text": "تعد النشاطات العائلية جزءاً أساسياً من حياة أي أسرة، فهي تسهم في تقوية الروابط بين أفراد العائلة وتعزيز التواصل بينهم. بالنسبة لعائلتنا، فإن الوقت الذي نقضيه معاً هو من بين أكثر اللحظات التي نعتز بها ونستمتع بها. كل عطلة نهاية أسبوع، نحرص على تخصيص بعض الوقت للأنشطة العائلية التي تجمعنا بعيداً عن ضغوطات العمل والدراسة. نحن نحب أن نبدأ اليوم بنزهة صباحية في الحديقة القريبة من منزلنا. نلتقي في الحديقة، حيث نتمتع بالأجواء الجميلة ونستفيد من النشاط البدني الذي يتيح لنا التنفس بعمق وتجديد نشاطنا. أحياناً نلعب كرة القدم أو نقوم بجولة بالدراجات الهوائية، وهذه الأنشطة تمنحنا فرصة رائعة للتفاعل والاستمتاع بوقتنا معاً. بعد النزهة، نقوم بالعودة إلى المنزل لتناول وجبة الإفطار، وهي دائمًا فرصة لتبادل الأحاديث والقصص. نحب أن نعد الطعام معاً، حيث تساعدنا والدتي في إعداد الأطباق المفضلة لدى كل فرد من أفراد العائلة. هذه اللحظات ليست فقط فرصة لتناول الطعام، بل هي أيضاً فرصة لمشاركة الأفكار والخطط حول النشاطات المقبلة. واحدة من نشاطاتنا المفضلة هي تنظيم الرحلات العائلية إلى الأماكن السياحية. في كل مرة نقرر فيها زيارة مدينة جديدة أو موقع تاريخي، نقوم بتخطيط الرحلة بشكل دقيق. نحب زيارة المتاحف والحدائق الطبيعية، حيث نتمكن من اكتشاف أشياء جديدة والتعرف على ثقافات متنوعة. كما أننا نستمتع بالتصوير وتوثيق لحظاتنا المميزة، مما يتيح لنا الرجوع إليها واسترجاع ذكرياتنا الممتعة. أيام السبت الممطرة لا تمنعنا من الاستمتاع بوقتنا معاً. في مثل هذه الأيام، نحب أن نتجمع في غرفة المعيشة ونلعب الألعاب العائلية مثل الشدة أو الألواح. هذه الألعاب ليست مجرد وسيلة للترفيه، بل هي فرصة لتعلم مهارات جديدة وتعزيز روح التعاون بيننا. كما أن مشاهدة الأفلام العائلية أو قراءة الكتب بصوت عالٍ تعد نشاطات مفضلة لدينا في الأيام الممطرة. من الأنشطة الأخرى التي نحب القيام بها هي التحضير للمناسبات العائلية الخاصة. سواء كانت حفلات عيد الميلاد أو الاحتفالات بالنجاح، فإن تنظيم هذه الفعاليات يجلب لنا الكثير من الفرح. نحن نحرص على أن يكون لكل مناسبة طابع خاص بها، ونستمتع بتزيين المنزل وتجهيز الطعام وتخطيط الأنشطة التي ستقوم بها العائلة خلال المناسبة.",
+        "script": "Family activities are an essential part of any family's life, as they contribute to strengthening the bonds between family members and enhancing communication among them. For our family, the time we spend together is among the moments we cherish and enjoy the most. Every weekend, we make sure to allocate some time for family activities that bring us together away from work and study pressures. We love to start the day with a morning walk in the nearby park. We meet at the park, where we enjoy the beautiful atmosphere and benefit from the physical activity that allows us to breathe deeply and renew our energy. Sometimes we play football or go for a bike ride, and these activities give us a great opportunity to interact and enjoy our time together. After the walk, we return home for breakfast, which is always a chance to share conversations and stories. We love to prepare the food together, with my mother helping us prepare everyone's favorite dishes. These moments are not just a chance to eat but also an opportunity to share ideas and plans for upcoming activities. One of our favorite activities is organizing family trips to tourist destinations. Every time we decide to visit a new city or historical site, we plan the trip carefully. We enjoy visiting museums and natural parks, where we can discover new things and learn about different cultures. We also enjoy taking photos and documenting our special moments, allowing us to look back and recall our enjoyable memories. Rainy Saturdays don't stop us from enjoying our time together. On such days, we like to gather in the living room and play family games like cards or board games. These games are not just a means of entertainment but also an opportunity to learn new skills and enhance our spirit of cooperation. Watching family movies or reading books aloud are also our favorite activities on rainy days. Another activity we love is preparing for special family occasions. Whether it's birthday parties or success celebrations, organizing these events brings us a lot of joy. We make sure each occasion has its own special touch, and we enjoy decorating the house, preparing food, and planning the activities the family will engage in during the event.",
+        "vocabulary": [
+            {"arabic": "النشاطات العائلية", "english": "Family activities"},
+            {"arabic": "تقوية الروابط", "english": "Strengthening bonds"},
+            {"arabic": "تعزيز التواصل", "english": "Enhancing communication"},
+            {"arabic": "نزهة صباحية", "english": "Morning walk"},
+            {"arabic": "الحديقة", "english": "Park"},
+            {"arabic": "النشاط البدني", "english": "Physical activity"},
+            {"arabic": "كرة القدم", "english": "Football"},
+            {"arabic": "الدراجات الهوائية", "english": "Bicycles"},
+            {"arabic": "وجبة الإفطار", "english": "Breakfast"},
+            {"arabic": "الأطباق المفضلة", "english": "Favorite dishes"},
+            {"arabic": "الرحلات العائلية", "english": "Family trips"},
+            {"arabic": "الأماكن السياحية", "english": "Tourist destinations"},
+            {"arabic": "المتاحف", "english": "Museums"},
+            {"arabic": "الحدائق الطبيعية", "english": "Natural parks"},
+            {"arabic": "التصوير", "english": "Photography"},
+            {"arabic": "الذكريات", "english": "Memories"},
+            {"arabic": "الألعاب العائلية", "english": "Family games"},
+            {"arabic": "الشدة", "english": "Cards (game)"},
+            {"arabic": "الألواح", "english": "Board games"},
+            {"arabic": "حفلات عيد الميلاد", "english": "Birthday parties"},
+            {"arabic": "الاحتفالات بالنجاح", "english": "Success celebrations"},
+            {"arabic": "تزيين المنزل", "english": "Decorating the house"},
+            {"arabic": "تخطيط الأنشطة", "english": "Planning activities"},
+            {"arabic": "اللحظات المميزة", "english": "Special moments"},
+            {"arabic": "التواصل مع الأصدقاء", "english": "Socializing with friends"},
+            {"arabic": "الفعاليات", "english": "Events"},
+            {"arabic": "الأسرة", "english": "Family"},
+            {"arabic": "الاحتفالات", "english": "Celebrations"}
+        ],
+        "questions": [
+            {
+                "question": "What is the main purpose of family activities according to the text?",
+                "options": ["To enjoy individual hobbies", "To strengthen family bonds and enhance communication", "To manage household chores", "To prepare for special events"],
+                "correct": "b"
+            },
+            {
+                "question": "What is one activity the family enjoys on rainy Saturdays?",
+                "options": ["Going for a bike ride", "Playing family games like cards or board games", "Having a picnic in the park", "Going to a museum"],
+                "correct": "b"
+            },
+            {
+                "question": "How does the family typically start their weekend days?",
+                "options": ["By having a big breakfast", "By going on a morning walk in the park", "By watching movies together", "By planning their week ahead"],
+                "correct": "b"
+            },
+            {
+                "question": "What does the family do when they organize trips to tourist destinations?",
+                "options": ["Visit local parks and cafes", "Plan the trip carefully and visit museums and natural parks", "Spend time in the backyard", "Focus on relaxation at home"],
+                "correct": "b"
+            }
+        ]
+    }
+,
+       "Family Traditions": {
+            "text": "تعتبر التقاليد والعادات العائلية من العناصر الأساسية التي تشكل هوية العائلة وتعزز الروابط بين أفرادها. في عائلتنا، نولي أهمية كبيرة للتقاليد التي نحتفظ بها من جيل إلى جيل، والتي تساهم في خلق ذكريات دافئة ومؤثرة. من بين التقاليد التي نحرص على الحفاظ عليها هي وجبات العشاء العائلية الأسبوعية. كل يوم جمعة، يجتمع أفراد العائلة حول طاولة الطعام لتناول وجبة عشاء مميزة. هذه الوجبة ليست مجرد تناول الطعام، بل هي فرصة لتبادل الأخبار والقصص ومشاركة التحديثات عن حياتنا. يقوم كل فرد من أفراد العائلة بالمشاركة في إعداد الطعام، مما يجعل هذه اللحظات ممتعة ومليئة بالتعاون والمرح. في الأعياد والمناسبات الخاصة، لدينا تقليد جميل يتمثل في تنظيم حفلات عائلية. سواء كان ذلك بمناسبة عيد الميلاد، عيد الفطر، عيد الأضحى، أو أي مناسبة أخرى، نحرص على تزيين المنزل بشكل خاص وإعداد قائمة طعام تضم أطباقاً تقليدية. تشكل هذه المناسبات فرصة لنا للاحتفال معاً وتعزيز الروابط العائلية من خلال الألعاب والأنشطة التي تُضفي جوًا من الفرح والحيوية. تقاليدنا تشمل أيضاً الاهتمام بالاحتفالات الخاصة بالأطفال. في كل مناسبة نجاح دراسي أو عيد ميلاد، نقوم بتنظيم حفلات صغيرة تُشرك الأصدقاء والعائلة. هذه اللحظات تعزز من مشاعر الفخر والسعادة، وتُظهر الدعم والاهتمام بكل فرد من أفراد العائلة.",
+            "script": "Family traditions and customs are essential elements that shape the family's identity and strengthen the bonds among its members. In our family, we place great importance on the traditions we preserve from generation to generation, which help create warm and meaningful memories. Among the traditions we are committed to maintaining are the weekly family dinners. Every Friday, family members gather around the dinner table for a special meal. This meal is not just about eating but is an opportunity to exchange news and stories and share updates about our lives. Each family member participates in preparing the food, making these moments enjoyable and full of cooperation and fun. During holidays and special occasions, we have a beautiful tradition of organizing family parties. Whether it's for Christmas, Eid al-Fitr, Eid al-Adha, or any other occasion, we make sure to decorate the house specially and prepare a menu featuring traditional dishes. These occasions provide an opportunity for us to celebrate together and strengthen family bonds through games and activities that add joy and vitality to the atmosphere. Our traditions also include paying attention to special celebrations for children. On every academic achievement or birthday, we organize small parties involving friends and family. These moments enhance feelings of pride and happiness and show support and care for each family member.",
+            "vocabulary": [
+                {"arabic": "التقاليد والعادات", "english": "Traditions and customs"},
+                {"arabic": "هوية العائلة", "english": "Family identity"},
+                {"arabic": "ذكريات دافئة", "english": "Warm memories"},
+                {"arabic": "وجبات العشاء العائلية", "english": "Family dinners"},
+                {"arabic": "طاولة الطعام", "english": "Dinner table"},
+                {"arabic": "تبادل الأخبار", "english": "Exchanging news"},
+                {"arabic": "الأعياد", "english": "Holidays"},
+                {"arabic": "المناسبات الخاصة", "english": "Special occasions"},
+                {"arabic": "تزيين المنزل", "english": "Decorating the house"},
+                {"arabic": "الأطباق التقليدية", "english": "Traditional dishes"},
+                {"arabic": "الألعاب والأنشطة", "english": "Games and activities"},
+                {"arabic": "مشاعر الفخر والسعادة", "english": "Feelings of pride and happiness"},
+                {"arabic": "الاحتفالات الخاصة بالأطفال", "english": "Special celebrations for children"},
+                {"arabic": "نجاح دراسي", "english": "Academic achievement"},
+                {"arabic": "حفلات صغيرة", "english": "Small parties"},
+                {"arabic": "دعم واهتمام", "english": "Support and care"},
+                {"arabic": "الذكريات", "english": "Memories"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main purpose of the family traditions described in the text?",
+                    "options": ["To create individual memories", "To enhance family identity and bonds", "To prepare traditional dishes", "To organize special events for children"],
+                    "correct": "b"
+                },
+                {
+                    "question": "What is a typical activity the family does every Friday evening?",
+                    "options": ["Organizing a small party", "Preparing traditional dishes", "Gathering for a special dinner", "Decorating the house"],
+                    "correct": "c"
+                },
+                {
+                    "question": "How does the family celebrate special occasions like holidays?",
+                    "options": ["By having individual dinners", "By decorating the house and preparing traditional dishes", "By going on trips", "By organizing sports activities"],
+                    "correct": "b"
+                },
+                {
+                    "question": "What do the family members do during the weekly family dinners?",
+                    "options": ["Exchange stories and update each other", "Prepare individual meals", "Celebrate personal achievements", "Organize community events"],
+                    "correct": "a"
+                }
+            ]
+        }
+    },
+    "Work": {
+        "Job Descriptions": {
+            "text": "أنا عمر، وأنا مبرمج كمبيوتر. بدأت رحلتي في عالم البرمجة من خلال دراستي في الجامعة، حيث تخصصت في علوم الحاسوب. كانت سنوات الدراسة مليئة بالتحديات والإثارة، حيث تعلمت الأسس النظرية والعملية للبرمجة وتطوير البرمجيات. خلال سنواتي الدراسية، اكتسبت خبرة واسعة في مختلف لغات البرمجة والتقنيات الحديثة. درست لغات مثل جافا و بايثون، وC++، بالإضافة إلى التفاعل مع أدوات تطوير البرمجيات وإدارة قواعد البيانات. كان لدي شغف كبير بالبرمجة، مما دفعني إلى العمل على مشاريع فردية وجماعية، حيث قمت بتطوير تطبيقات وبرمجيات متنوعة. بعد التخرج، بدأت حياتي المهنية كمبرمج كمبيوتر، حيث عملت في مجموعة من الشركات التقنية. في كل وظيفة كنت أعمل بها، كنت أشارك في تطوير حلول برمجية مبتكرة لتحسين كفاءة الأعمال وتلبية احتياجات العملاء. كنت مسؤولاً عن تصميم وتنفيذ الأنظمة البرمجية، وتصحيح الأخطاء، وتقديم الدعم الفني للمستخدمين. أحد المشاريع التي أفتخر بها هو تطوير تطبيق ويب متكامل لإدارة المهام، والذي ساهم في تحسين سير العمل داخل المؤسسة التي كنت أعمل بها. كانت هذه التجربة فرصة لتطبيق مهاراتي في تصميم واجهات المستخدم وتجربة المستخدم، وكذلك في العمل مع فرق متعددة التخصصات لتحقيق أهداف المشروع.",
+            "script": "My name is Omar, and I am a computer programmer. I started my journey in the world of programming through my studies at the university, where I specialized in Computer Science. The years of study were filled with challenges and excitement, where I learned the theoretical and practical foundations of programming and software development. During my studies, I gained extensive experience in various programming languages and modern technologies. I studied languages such as Java, Python, and C++, in addition to working with software development tools and database management. I had a great passion for programming, which drove me to work on individual and group projects, where I developed various applications and software. After graduation, I began my professional career as a computer programmer, working in a range of tech companies. In each job I had, I was involved in developing innovative software solutions to improve business efficiency and meet customer needs. I was responsible for designing and implementing software systems, debugging, and providing technical support to users. One project I am proud of is developing a comprehensive web application for task management, which contributed to improving workflow within the organization I worked for. This experience was an opportunity to apply my skills in user interface and user experience design, as well as to work with multidisciplinary teams to achieve project goals.",
+            "vocabulary": [
+                {"arabic": "مبرمج كمبيوتر", "english": "Computer programmer"},
+                {"arabic": "علوم الحاسوب", "english": "Computer Science"},
+                {"arabic": "البرمجة وتطوير البرمجيات", "english": "Programming and software development"},
+                {"arabic": "لغات البرمجة", "english": "Programming languages"},
+                {"arabic": "أدوات تطوير البرمجيات", "english": "Software development tools"},
+                {"arabic": "إدارة قواعد البيانات", "english": "Database management"},
+                {"arabic": "مشاريع فردية وجماعية", "english": "Individual and group projects"},
+                {"arabic": "تطبيقات وبرمجيات", "english": "Applications and software"},
+                {"arabic": "حلول برمجية مبتكرة", "english": "Innovative software solutions"},
+                {"arabic": "كفاءة الأعمال", "english": "Business efficiency"},
+                {"arabic": "تصميم وتنفيذ الأنظمة البرمجية", "english": "Designing and implementing software systems"},
+                {"arabic": "تصحيح الأخطاء", "english": "Debugging"},
+                {"arabic": "الدعم الفني للمستخدمين", "english": "Technical support for users"},
+                {"arabic": "تطبيق ويب متكامل", "english": "Comprehensive web application"},
+                {"arabic": "إدارة المهام", "english": "Task management"},
+                {"arabic": "تصميم واجهات المستخدم", "english": "User interface design"},
+                {"arabic": "تجربة المستخدم", "english": "User experience"},
+                {"arabic": "فرق متعددة التخصصات", "english": "Multidisciplinary teams"},
+                {"arabic": "أهداف المشروع", "english": "Project goals"}
+            ],
+            "questions": [
+                {
+                    "question": "What was Omar's area of specialization at university?",
+                    "options": ["Computer Science", "Data Analysis", "Business Management", "Graphic Design"],
+                    "correct": "a"
+                },
+                {
+                    "question": "Which programming languages did Omar study during his studies?",
+                    "options": ["Java, Python, C++", "HTML, CSS, JavaScript", "Swift, Ruby, PHP", "Perl, R, MATLAB"],
+                    "correct": "a"
+                },
+                {
+                    "question": "What type of project did Omar develop that he is particularly proud of?",
+                    "options": ["A mobile application", "A comprehensive web application for task management", "A database management system", "An e-commerce platform"],
+                    "correct": "b"
+                },
+                {
+                    "question": "What was one of Omar's responsibilities in his job as a computer programmer?",
+                    "options": ["Developing hardware components", "Designing and implementing software systems", "Managing company finances", "Conducting market research"],
+                    "correct": "b"
+                }
+            ]
+        }
+,
+"Work Environment": {
+    "text": "بيئة العمل هي أحد العوامل الأساسية التي تؤثر بشكل كبير على إنتاجية الموظفين ورضاهم. في بيئة العمل المثالية، تكون هناك مجموعة من العناصر التي تساهم في خلق جو من التعاون والإبداع والتطوير المهني. أولاً، تبدأ بيئة العمل الجيدة من تصميم المكتب نفسه. المكاتب الحديثة غالباً ما تكون مصممة بطريقة تعزز الراحة والإنتاجية. توفر المكاتب المفتوحة مساحة للتفاعل والتعاون بين الزملاء، بينما توفر أيضًا مناطق هادئة للعمل الفردي المركّز. الأثاث المريح والإضاءة الجيدة من الأمور الأساسية التي تساعد في الحفاظ على صحة الموظفين وراحتهم أثناء العمل. ثانياً، تعتبر ثقافة العمل من أهم عناصر بيئة العمل. ثقافة العمل الإيجابية تعزز من روح الفريق وتساعد على بناء علاقات قوية بين الموظفين. في بيئة العمل الجيدة، يكون هناك احترام متبادل ودعم متواصل بين الزملاء. تشجع الشركات على الابتكار والإبداع، وتقدر جهود الموظفين من خلال التقدير والمكافآت المناسبة. ثالثاً، تساهم القيادة الفعّالة في تحسين بيئة العمل بشكل كبير. القادة الجيدون يقدمون التوجيه والدعم اللازمين، ويشجعون على التواصل المفتوح والشفاف. القيادة القوية تستمع إلى احتياجات الموظفين وتعمل على حل المشكلات التي قد تؤثر على بيئة العمل. رابعاً، تقدم الشركات التي تهتم ببيئة العمل برامج تدريب وتطوير مستمر. هذه البرامج تساعد الموظفين على تحسين مهاراتهم والتعرف على أحدث الاتجاهات والتقنيات في مجالهم. كما توفر الشركات الفرص للتدريب والتطور المهني، مما يعزز من رضا الموظفين ويحفزهم على تقديم أفضل ما لديهم.",
+    "script": "The work environment is one of the key factors that significantly affect employee productivity and satisfaction. In an ideal work environment, there are several elements that contribute to creating an atmosphere of collaboration, creativity, and professional development. Firstly, a good work environment starts with the office design itself. Modern offices are often designed in a way that promotes comfort and productivity. Open offices provide space for interaction and collaboration among colleagues, while also offering quiet areas for focused individual work. Comfortable furniture and good lighting are essential for maintaining employee health and comfort while working. Secondly, work culture is one of the most important elements of the work environment. A positive work culture fosters team spirit and helps build strong relationships among employees. In a good work environment, there is mutual respect and continuous support among colleagues. Companies encourage innovation and creativity and appreciate employee efforts through recognition and appropriate rewards. Thirdly, effective leadership significantly improves the work environment. Good leaders provide the necessary guidance and support, and encourage open and transparent communication. Strong leadership listens to employees' needs and addresses issues that may affect the work environment. Fourthly, companies that care about the work environment offer continuous training and development programs. These programs help employees improve their skills and stay updated with the latest trends and technologies in their field. Companies also provide opportunities for training and professional development, which enhances employee satisfaction and motivates them to perform their best.",
+    "vocabulary": [
+        {"arabic": "بيئة العمل", "english": "Work environment"},
+        {"arabic": "إنتاجية الموظفين", "english": "Employee productivity"},
+        {"arabic": "تصميم المكتب", "english": "Office design"},
+        {"arabic": "الأثاث المريح", "english": "Comfortable furniture"},
+        {"arabic": "الإضاءة الجيدة", "english": "Good lighting"},
+        {"arabic": "ثقافة العمل", "english": "Work culture"},
+        {"arabic": "الاحترام المتبادل", "english": "Mutual respect"},
+        {"arabic": "الدعم المتواصل", "english": "Continuous support"},
+        {"arabic": "الابتكار والإبداع", "english": "Innovation and creativity"},
+        {"arabic": "التقدير والمكافآت", "english": "Recognition and rewards"},
+        {"arabic": "القيادة الفعّالة", "english": "Effective leadership"},
+        {"arabic": "التواصل المفتوح والشفاف", "english": "Open and transparent communication"},
+        {"arabic": "برامج تدريب وتطوير مستمر", "english": "Continuous training and development programs"},
+        {"arabic": "تحسين المهارات", "english": "Improving skills"},
+        {"arabic": "أحدث الاتجاهات والتقنيات", "english": "Latest trends and technologies"},
+        {"arabic": "التدريب والتطور المهني", "english": "Training and professional development"}
+    ],
+    "questions": [
+        {
+            "question": "What is one of the key factors affecting employee productivity and satisfaction?",
+            "options": ["Office design", "Marketing strategies", "Company size", "Product variety"],
+            "correct": "a"
+        },
+        {
+            "question": "What does a positive work culture contribute to?",
+            "options": ["Employee turnover", "Team spirit and strong relationships", "Higher costs", "External partnerships"],
+            "correct": "b"
+        },
+        {
+            "question": "What is one responsibility of effective leadership?",
+            "options": ["Managing company finances", "Providing guidance and support", "Overseeing marketing campaigns", "Handling customer service"],
+            "correct": "b"
+        },
+        {
+            "question": "What do continuous training and development programs help employees with?",
+            "options": ["Improving skills and staying updated with trends", "Managing company budgets", "Organizing company events", "Developing new products"],
+            "correct": "a"
+        }
+    ]
+}
+,
+        "Work Culture": {
+        "text": "ثقافة العمل هي مجموعة القيم والمعتقدات والسلوكيات التي تحدد كيفية تعامل الأفراد مع بعضهم البعض وكيفية إتمام الأعمال داخل منظمة. تشكل ثقافة العمل أساس العلاقات بين الموظفين، وتؤثر بشكل كبير على الروح المعنوية والإنتاجية والتفوق العام للمؤسسة. أولاً، تُعتبر ثقافة العمل الإيجابية من أبرز سمات المؤسسات الناجحة. في هذه الثقافة، يكون هناك احترام متبادل بين جميع الأفراد، سواء كانوا زملاء أو قادة. يتم تشجيع التعاون والتواصل الفعال، مما يساهم في بناء علاقات قوية ومستدامة. يشعر الموظفون بالراحة في التعبير عن آرائهم ومشاركة أفكارهم، مما يعزز من روح الفريق ويساهم في حل المشكلات بطرق مبتكرة. ثانياً، تلعب القيادة دوراً محورياً في تشكيل ثقافة العمل. القادة الجيدون ليسوا فقط أولئك الذين يوجهون الفرق ويوجهونها نحو تحقيق الأهداف، بل هم أيضاً من يشكلون نموذجاً للسلوكيات التي يتوقعونها من الموظفين. القيادة الفعالة تعزز من الشفافية والمشاركة، وتعمل على خلق بيئة تشجع على التطور والنمو. القادة الذين يستمعون إلى فرقهم ويشجعونهم على تحسين مهاراتهم يعززون من ثقافة العمل الإيجابية. ثالثاً، تشجع ثقافة العمل الإيجابية على الابتكار والإبداع. في بيئة عمل تدعم التجريب وتقبل الأخطاء كجزء من عملية التعلم، يشعر الموظفون بالثقة لتقديم أفكار جديدة ومبتكرة. هذه الثقافة تدفع الشركات إلى تبني التغيير والتطور بشكل مستمر، مما يساعدها على البقاء في طليعة المنافسة في السوق.",
+        "script": "Work culture is a set of values, beliefs, and behaviors that define how individuals interact with each other and how work is accomplished within an organization. It forms the basis of relationships among employees and significantly impacts morale, productivity, and overall organizational excellence. Firstly, a positive work culture is one of the hallmarks of successful organizations. In this culture, there is mutual respect among all individuals, whether they are colleagues or leaders. Collaboration and effective communication are encouraged, which helps build strong and lasting relationships. Employees feel comfortable expressing their opinions and sharing their ideas, which enhances team spirit and contributes to problem-solving in innovative ways. Secondly, leadership plays a crucial role in shaping work culture. Good leaders are not only those who direct teams towards achieving goals but also those who model the behaviors they expect from employees. Effective leadership promotes transparency and participation, creating an environment that encourages development and growth. Leaders who listen to their teams and encourage them to improve their skills enhance a positive work culture. Thirdly, a positive work culture fosters innovation and creativity. In a work environment that supports experimentation and accepts mistakes as part of the learning process, employees feel confident to present new and innovative ideas. This culture drives companies to embrace change and continuous development, helping them stay at the forefront of market competition.",
+        "vocabulary": [
+            {"arabic": "ثقافة العمل", "english": "Work culture"},
+            {"arabic": "قيم", "english": "Values"},
+            {"arabic": "معتقدات", "english": "Beliefs"},
+            {"arabic": "سلوكيات", "english": "Behaviors"},
+            {"arabic": "احترام متبادل", "english": "Mutual respect"},
+            {"arabic": "تعاون", "english": "Collaboration"},
+            {"arabic": "تواصل فعال", "english": "Effective communication"},
+            {"arabic": "روح الفريق", "english": "Team spirit"},
+            {"arabic": "الابتكار والإبداع", "english": "Innovation and creativity"},
+            {"arabic": "القيادة الفعالة", "english": "Effective leadership"},
+            {"arabic": "الشفافية", "english": "Transparency"},
+            {"arabic": "المشاركة", "english": "Participation"},
+            {"arabic": "تطوير ونمو", "english": "Development and growth"},
+            {"arabic": "تقبل الأخطاء", "english": "Acceptance of mistakes"},
+            {"arabic": "التجريب", "english": "Experimentation"}
+        ],
+        "questions": [
+            {
+                "question": "What does work culture influence within an organization?",
+                "options": ["Employee salary", "Employee interactions and work processes", "Company location", "Product pricing"],
+                "correct": "b"
+            },
+            {
+                "question": "What is a key characteristic of a positive work culture?",
+                "options": ["High employee turnover", "Mutual respect and effective communication", "Strict hierarchies", "Limited collaboration"],
+                "correct": "b"
+            },
+            {
+                "question": "How does effective leadership contribute to work culture?",
+                "options": ["By focusing solely on financial goals", "By modeling expected behaviors and promoting transparency", "By minimizing team communication", "By enforcing strict rules without feedback"],
+                "correct": "b"
+            },
+            {
+                "question": "What does a positive work culture encourage in employees?",
+                "options": ["Avoiding risks", "Sticking strictly to routines", "Innovation and creativity", "Maintaining a passive role"],
+                "correct": "c"
+            }
+        ]
+    }
+},
+    "Education": {
+        "School Subjects": {
+            "text": "This is the text for the School Subjects lesson.",
+            "script": "This is the script for the School Subjects lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 19", "english": "Meaning 19"},
+                {"arabic": "كلمة 20", "english": "Meaning 20"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "c"
+                }
+            ]
+        },
+        "Academic Activities": {
+            "text": "This is the text for the Academic Activities lesson.",
+            "script": "This is the script for the Academic Activities lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 21", "english": "Meaning 21"},
+                {"arabic": "كلمة 22", "english": "Meaning 22"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "d"
+                }
+            ]
+        },
+        "Educational Systems": {
+            "text": "This is the text for the Educational Systems lesson.",
+            "script": "This is the script for the Educational Systems lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 23", "english": "Meaning 23"},
+                {"arabic": "كلمة 24", "english": "Meaning 24"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "a"
+                }
+            ]
+        }
+    },
+    "Travel": {
+        "Travel Plans": {
+            "text": "This is the text for the Travel Plans lesson.",
+            "script": "This is the script for the Travel Plans lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 25", "english": "Meaning 25"},
+                {"arabic": "كلمة 26", "english": "Meaning 26"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "b"
+                }
+            ]
+        },
+        "Directions and Locations": {
+            "text": "This is the text for the Directions and Locations lesson.",
+            "script": "This is the script for the Directions and Locations lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 27", "english": "Meaning 27"},
+                {"arabic": "كلمة 28", "english": "Meaning 28"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "c"
+                }
+            ]
+        },
+        "Tourist Attractions": {
+            "text": "This is the text for the Tourist Attractions lesson.",
+            "script": "This is the script for the Tourist Attractions lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 29", "english": "Meaning 29"},
+                {"arabic": "كلمة 30", "english": "Meaning 30"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "d"
+                }
+            ]
+        }
+    },
+    "Economic Policies": {
+        "Monetary Policies": {
+            "text": "This is the text for the Monetary Policies lesson.",
+            "script": "This is the script for the Monetary Policies lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 31", "english": "Meaning 31"},
+                {"arabic": "كلمة 32", "english": "Meaning 32"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "a"
+                }
+            ]
+        },
+        "Fiscal Policies": {
+            "text": "This is the text for the Fiscal Policies lesson.",
+            "script": "This is the script for the Fiscal Policies lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 33", "english": "Meaning 33"},
+                {"arabic": "كلمة 34", "english": "Meaning 34"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "b"
+                }
+            ]
+        },
+        "Economic Theories": {
+            "text": "This is the text for the Economic Theories lesson.",
+            "script": "This is the script for the Economic Theories lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 35", "english": "Meaning 35"},
+                {"arabic": "كلمة 36", "english": "Meaning 36"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "c"
+                }
+            ]
+        }
+    },
+    "Political Issues": {
+        "Government Structures": {
+            "text": "This is the text for the Government Structures lesson.",
+            "script": "This is the script for the Government Structures lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 37", "english": "Meaning 37"},
+                {"arabic": "كلمة 38", "english": "Meaning 38"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "a"
+                }
+            ]
+        },
+        "Political Parties": {
+            "text": "This is the text for the Political Parties lesson.",
+            "script": "This is the script for the Political Parties lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 39", "english": "Meaning 39"},
+                {"arabic": "كلمة 40", "english": "Meaning 40"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "b"
+                }
+            ]
+        },
+        "Election Processes": {
+            "text": "This is the text for the Election Processes lesson.",
+            "script": "This is the script for the Election Processes lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 41", "english": "Meaning 41"},
+                {"arabic": "كلمة 42", "english": "Meaning 42"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "c"
+                }
+            ]
+        }
+    },
+    "Science and Technology": {
+        "Scientific Discoveries": {
+            "text": "This is the text for the Scientific Discoveries lesson.",
+            "script": "This is the script for the Scientific Discoveries lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 43", "english": "Meaning 43"},
+                {"arabic": "كلمة 44", "english": "Meaning 44"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "d"
+                }
+            ]
+        },
+        "Technological Advancements": {
+            "text": "This is the text for the Technological Advancements lesson.",
+            "script": "This is the script for the Technological Advancements lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 45", "english": "Meaning 45"},
+                {"arabic": "كلمة 46", "english": "Meaning 46"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "a"
+                }
+            ]
+        },
+        "Future Technologies": {
+            "text": "This is the text for the Future Technologies lesson.",
+            "script": "This is the script for the Future Technologies lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 47", "english": "Meaning 47"},
+                {"arabic": "كلمة 48", "english": "Meaning 48"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "b"
+                }
+            ]
+        }
+    },
+    "Military and Security": {
+        "Military Operations": {
+            "text": "This is the text for the Military Operations lesson.",
+            "script": "This is the script for the Military Operations lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 49", "english": "Meaning 49"},
+                {"arabic": "كلمة 50", "english": "Meaning 50"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "c"
+                }
+            ]
+        },
+        "Defense Policies": {
+            "text": "This is the text for the Defense Policies lesson.",
+            "script": "This is the script for the Defense Policies lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 51", "english": "Meaning 51"},
+                {"arabic": "كلمة 52", "english": "Meaning 52"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "d"
+                }
+            ]
+        },
+        "Security Threats": {
+            "text": "This is the text for the Security Threats lesson.",
+            "script": "This is the script for the Security Threats lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 53", "english": "Meaning 53"},
+                {"arabic": "كلمة 54", "english": "Meaning 54"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "a"
+                }
+            ]
+        }
+    },
+    "Cultural Topics": {
+        "Historical Events": {
+            "text": "This is the text for the Historical Events lesson.",
+            "script": "This is the script for the Historical Events lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 55", "english": "Meaning 55"},
+                {"arabic": "كلمة 56", "english": "Meaning 56"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "b"
+                }
+            ]
+        },
+        "Cultural Traditions": {
+            "text": "This is the text for the Cultural Traditions lesson.",
+            "script": "This is the script for the Cultural Traditions lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 57", "english": "Meaning 57"},
+                {"arabic": "كلمة 58", "english": "Meaning 58"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "d"
+                }
+            ]
+        },
+        "Modern Cultural Practices": {
+            "text": "This is the text for the Modern Cultural Practices lesson.",
+            "script": "This is the script for the Modern Cultural Practices lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 59", "english": "Meaning 59"},
+                {"arabic": "كلمة 60", "english": "Meaning 60"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "a"
+                }
+            ]
+        }
+    }
+}

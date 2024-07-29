@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Reading Comprehension App</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <img
+        src="https://m.media-amazon.com/images/I/71HIwvSHWSL._AC_UF894,1000_QL80_.jpg"
+        alt="Special Forces"
+        class="hero-image"
+      />
+      <h1>Reading Comprehension Booster</h1>
+      <div id="domain-section">
+        <h2>Choose a Domain</h2>
+        <ul id="domain-list">
+          <!-- Domains will be dynamically added here -->
+        </ul>
+      </div>
+      <div id="subdomain-section" class="hidden">
+        <h2>Choose a Subdomain</h2>
+        <ul id="subdomain-list">
+          <!-- Subdomains will be dynamically added here -->
+        </ul>
+      </div>
+      <div id="lesson-section" class="hidden">
+        <!-- New instructions div -->
+        <div id="instructions" class="instructions">
+          <h2>Instructions</h2>
+          <ul>
+            <li>
+              Read the passage provided in the
+              <strong>Lesson Text</strong> section.
+            </li>
+            <li>
+              Go through the <strong>Vocabulary List</strong> to familiarize
+              yourself with important terms.
+            </li>
+            <li>
+              Attempt the <strong>Comprehension Questions</strong> based on the
+              passage.
+            </li>
+            <li>
+              Discuss your answers and understanding with your instructor. In
+              one one minute, summarize what you understood to your instructor.
+            </li>
+            <li>
+              Use the <strong>Show Details</strong> button to view the script
+              and additional information if needed.
+            </li>
+            <li>Refer to <strong>Translation</strong> when needed.</li>
+          </ul>
+        </div>
+        <div class="text-section">
+          <p id="lesson-text">
+            Read the following passage, go through the vocabularies, then try to
+            answer the question below. With your instructor, summarize what you
+            understood from the passage and check the answer with your
+            instructor.
+          </p>
+        </div>
+        <div id="vocabulary" class="hidden">
+          <h2>Vocabulary List</h2>
+          <!-- New translation note div -->
+
+          <table>
+            <tr>
+              <th>Arabic</th>
+              <th>English</th>
+            </tr>
+            <tr>
+              <td>كلمة 1</td>
+              <td>Meaning 1</td>
+            </tr>
+            <tr>
+              <td>كلمة 2</td>
+              <td>Meaning 2</td>
+            </tr>
+            <!-- Add more vocabulary words here -->
+          </table>
+        </div>
+        <div id="questions" class="hidden">
+          <h2>Comprehension Questions</h2>
+          <form id="quiz-form">
+            <div class="question">
+              <p>1. What is the main topic of the text?</p>
+              <label><input type="radio" name="q1" value="a" /> Option A</label>
+              <br />
+              <label><input type="radio" name="q1" value="b" /> Option B</label>
+              <br />
+              <label><input type="radio" name="q1" value="c" /> Option C</label>
+              <br />
+              <label><input type="radio" name="q1" value="d" /> Option D</label>
+            </div>
+            <!-- Add more questions here -->
+            <button type="button" id="submit-quiz-btn">Submit</button>
+          </form>
+        </div>
+        <div id="script" class="hidden">
+          <p>This is the script of the text. It will be displayed here.</p>
+        </div>
+        <button id="show-script-btn">Show Details</button>
+        <button id="next-lesson-btn" class="hidden">Next Lesson</button>
+      </div>
+    </div>
+    <audio id="click-sound" src="mouse-click-153941.mp3"></audio>
+    <audio id="hover-sound" src="sounds/hover-sound.mp3"></audio>
+    <script src="script.js"></script>
+  </body>
+</html>
