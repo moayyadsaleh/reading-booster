@@ -422,67 +422,265 @@
 },
     "Education": {
         "School Subjects": {
-            "text": "This is the text for the School Subjects lesson.",
-            "script": "This is the script for the School Subjects lesson.",
+            "text": "التربية والتعليم والدراسة هي الركائز الأساسية التي تقوم عليها المجتمعات الناجحة والمتقدمة. فهي ليست مجرد عملية نقل المعرفة والمهارات من جيل إلى جيل، بل هي أيضاً وسيلة لبناء شخصيات الأفراد وتطوير قدراتهم الفكرية والاجتماعية. التربية تبدأ من المنزل حيث يكون للأبوين الدور الأول في تشكيل قيم وأخلاق الطفل. يقوم الآباء والأمهات بتوجيه أبنائهم وتزويدهم بالقيم الأساسية مثل الاحترام، المسؤولية، والعمل الجاد. هذه القيم تكون بمثابة الأساس الذي يستند إليه التعليم المدرسي، مما يساهم في خلق بيئة تعليمية محفزة وداعمة. التعليم هو المرحلة التالية التي تأتي بعد التربية المنزلية. في المدارس، يتعلم الطلاب المواد الأكاديمية الأساسية مثل الرياضيات، العلوم، اللغة، والتاريخ. لكن التعليم لا يقتصر فقط على هذه المواد، بل يشمل أيضاً تنمية المهارات الحياتية مثل التفكير النقدي، حل المشكلات، والعمل الجماعي. المدارس تعمل على إعداد الطلاب ليكونوا مواطنين فاعلين ومسؤولين في المجتمع. الدراسة هي العملية التي من خلالها يتعلم الطلاب ويكتسبون المعرفة. هي ليست فقط حضور الحصص الدراسية والاستماع إلى المعلمين، بل تشمل أيضاً البحث، القراءة، والمشاركة في الأنشطة التعليمية المختلفة. من خلال الدراسة، يكتسب الطلاب المعرفة التي تمكنهم من فهم العالم من حولهم والمساهمة في تحسينه. التعليم العالي يأتي بعد مرحلة المدرسة، حيث يختار الطلاب التخصصات التي تتوافق مع اهتماماتهم وقدراتهم. الجامعات والمعاهد توفر بيئة تعليمية متقدمة تساعد الطلاب على التعمق في مجالاتهم المختارة، وتزويدهم بالمهارات والمعرفة اللازمة لمواصلة مشوارهم المهني. التعليم العالي ليس فقط عن اكتساب المعرفة التقنية، بل هو أيضاً عن تطوير مهارات البحث والتحليل، والقدرة على التفكير بشكل مستقل ونقدي.",
+            "script": "Education is the foundation upon which successful and advanced societies are built. It is not just the process of transferring knowledge and skills from one generation to the next but also a means of building individuals' characters and developing their intellectual and social abilities. Education begins at home, where parents play the primary role in shaping the values and morals of a child. Parents guide their children and provide them with fundamental values such as respect, responsibility, and hard work. These values form the basis that supports school education, contributing to a stimulating and supportive educational environment. Schooling is the next phase that follows home education. In schools, students learn essential academic subjects such as mathematics, science, language, and history. But education is not limited to these subjects; it also includes developing life skills such as critical thinking, problem-solving, and teamwork. Schools prepare students to be active and responsible citizens in society. Studying is the process through which students learn and acquire knowledge. It is not just attending classes and listening to teachers; it also includes researching, reading, and participating in various educational activities. Through studying, students gain the knowledge that enables them to understand the world around them and contribute to its improvement. Higher education follows the school phase, where students choose specializations that align with their interests and abilities. Universities and institutes provide an advanced educational environment that helps students delve deeper into their chosen fields, equipping them with the skills and knowledge needed to pursue their professional careers. Higher education is not only about acquiring technical knowledge but also about developing research and analytical skills, and the ability to think independently and critically.",
             "vocabulary": [
-                {"arabic": "كلمة 19", "english": "Meaning 19"},
-                {"arabic": "كلمة 20", "english": "Meaning 20"}
+                {"arabic": "تربية", "english": "Upbringing"},
+                {"arabic": "تعليم", "english": "Education"},
+                {"arabic": "دراسة", "english": "Study"},
+                {"arabic": "قيم", "english": "Values"},
+                {"arabic": "أخلاق", "english": "Morals"},
+                {"arabic": "مسؤولية", "english": "Responsibility"},
+                {"arabic": "بيئة تعليمية", "english": "Educational environment"},
+                {"arabic": "مهارات حياتية", "english": "Life skills"},
+                {"arabic": "تفكير نقدي", "english": "Critical thinking"},
+                {"arabic": "حل المشكلات", "english": "Problem-solving"},
+                {"arabic": "عمل جماعي", "english": "Teamwork"},
+                {"arabic": "معرفة", "english": "Knowledge"},
+                {"arabic": "مرحلة المدرسة", "english": "School phase"},
+                {"arabic": "التعليم العالي", "english": "Higher education"},
+                {"arabic": "بحث وتحليل", "english": "Research and analysis"}
             ],
             "questions": [
                 {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "question": "What are the three main pillars of successful and advanced societies mentioned in the text?",
+                    "options": ["A. Wealth, Power, Technology", "B. Family, Friends, Community", "C. Upbringing, Education, Study", "D. Health, Employment, Security"],
+                    "correct": "c"
+                },
+                {
+                    "question": "Where does education begin according to the text?",
+                    "options": ["A. School", "B. University", "C. Community Center", "D. Home"],
+                    "correct": "d"
+                },
+                {
+                    "question": "What life skills are developed through education?",
+                    "options": ["A. Technical skills only", "B. Critical thinking, Problem-solving, Teamwork", "C. Financial management", "D. Physical fitness"],
+                    "correct": "b"
+                },
+                {
+                    "question": "What follows the school phase in education?",
+                    "options": ["A. Early childhood education", "B. Secondary education", "C. Higher education", "D. Vocational training"],
                     "correct": "c"
                 }
             ]
-        },
-        "Academic Activities": {
-            "text": "This is the text for the Academic Activities lesson.",
-            "script": "This is the script for the Academic Activities lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 21", "english": "Meaning 21"},
-                {"arabic": "كلمة 22", "english": "Meaning 22"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "d"
-                }
-            ]
-        },
-        "Educational Systems": {
-            "text": "This is the text for the Educational Systems lesson.",
-            "script": "This is the script for the Educational Systems lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 23", "english": "Meaning 23"},
-                {"arabic": "كلمة 24", "english": "Meaning 24"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "a"
-                }
-            ]
         }
-    },
+,"Academic Activities": {
+        "text": "النشاطات الأكاديمية تشكل جزءاً مهماً من الحياة التعليمية، حيث تسهم في تطوير قدرات الطلاب وتوسيع آفاقهم العلمية والثقافية. هذه النشاطات ليست مجرد وسائل لتعزيز المعرفة الأكاديمية، بل هي أيضاً فرص لتطوير المهارات الشخصية والاجتماعية. أولاً، تعتبر الأنشطة الأكاديمية مثل المحاضرات والندوات وورش العمل من أبرز الوسائل لتعميق فهم الطلاب للمواد الدراسية. من خلال حضور المحاضرات والاستماع إلى الخبراء في مجالات مختلفة، يمكن للطلاب الاطلاع على أحدث الأبحاث والتطورات في مجالاتهم الأكاديمية. الندوات توفر منصة للنقاش والتفاعل، مما يعزز من قدرات التفكير النقدي والتحليلي لدى الطلاب. ثانياً، البحث العلمي هو أحد النشاطات الأكاديمية الأساسية التي تتيح للطلاب استكشاف مجالات جديدة وتطوير حلول مبتكرة للمشكلات القائمة. يشارك الطلاب في مشاريع بحثية تحت إشراف أساتذتهم، مما يساعدهم على اكتساب مهارات البحث والتحليل. من خلال تقديم أبحاثهم في المؤتمرات الأكاديمية ونشرها في المجلات العلمية، يمكن للطلاب المساهمة في تطور المعرفة الإنسانية. ثالثاً، تشجع النشاطات الأكاديمية مثل المسابقات العلمية والمعارض الطلابية على التنافس البناء وتطوير المهارات التطبيقية. يتيح للطلاب عرض مشروعاتهم وأفكارهم المبتكرة أمام لجان تحكيم مختصة، مما يعزز من ثقتهم بأنفسهم ويشجعهم على السعي لتحقيق التفوق. هذه المسابقات تفتح أيضاً آفاقاً للتعاون مع زملائهم وتبادل الأفكار والخبرات. رابعاً، الأنشطة الأكاديمية الثقافية مثل النوادي الأدبية والجمعيات الطلابية تسهم في تعزيز الوعي الثقافي والاجتماعي لدى الطلاب. من خلال المشاركة في هذه النوادي، يمكن للطلاب تطوير مهارات الكتابة والإلقاء وتنظيم الفعاليات الثقافية. الجمعيات الطلابية توفر فرصة للطلاب للتفاعل مع مجتمعاتهم والمساهمة في حل المشكلات الاجتماعية من خلال الأنشطة التطوعية والخدمية.",
+        "script": "Academic activities are an important part of educational life, as they contribute to developing students' abilities and expanding their scientific and cultural horizons. These activities are not just means to enhance academic knowledge, but also opportunities to develop personal and social skills. First, academic activities such as lectures, seminars, and workshops are among the main ways to deepen students' understanding of their subjects. By attending lectures and listening to experts in various fields, students can learn about the latest research and developments in their academic fields. Seminars provide a platform for discussion and interaction, enhancing students' critical and analytical thinking skills. Second, scientific research is one of the basic academic activities that allow students to explore new fields and develop innovative solutions to existing problems. Students participate in research projects under the supervision of their professors, which helps them acquire research and analytical skills. By presenting their research at academic conferences and publishing it in scientific journals, students can contribute to the advancement of human knowledge. Third, academic activities such as science competitions and student exhibitions encourage constructive competition and the development of practical skills. These competitions also open up opportunities for collaboration with peers and the exchange of ideas and experiences. Fourth, cultural academic activities such as literary clubs and student associations contribute to enhancing students' cultural and social awareness. By participating in these clubs, students can develop writing and speaking skills and organize cultural events. Student associations provide an opportunity for students to interact with their communities and contribute to solving social problems through volunteer and service activities.",
+        "vocabulary": [
+            {"arabic": "نشاطات أكاديمية", "english": "Academic activities"},
+            {"arabic": "محاضرات", "english": "Lectures"},
+            {"arabic": "ندوات", "english": "Seminars"},
+            {"arabic": "ورش عمل", "english": "Workshops"},
+            {"arabic": "بحث علمي", "english": "Scientific research"},
+            {"arabic": "مشاريع بحثية", "english": "Research projects"},
+            {"arabic": "مؤتمرات أكاديمية", "english": "Academic conferences"},
+            {"arabic": "مجلات علمية", "english": "Scientific journals"},
+            {"arabic": "مسابقات علمية", "english": "Science competitions"},
+            {"arabic": "معارض طلابية", "english": "Student exhibitions"},
+            {"arabic": "تنافس بناء", "english": "Constructive competition"},
+            {"arabic": "مهارات تطبيقية", "english": "Practical skills"},
+            {"arabic": "نوادي أدبية", "english": "Literary clubs"},
+            {"arabic": "جمعيات طلابية", "english": "Student associations"},
+            {"arabic": "وعي ثقافي", "english": "Cultural awareness"},
+            {"arabic": "مهارات الكتابة", "english": "Writing skills"},
+            {"arabic": "تنظيم الفعاليات الثقافية", "english": "Organizing cultural events"},
+            {"arabic": "نشاطات تطوعية", "english": "Volunteer activities"},
+            {"arabic": "خدمية", "english": "Service activities"}
+        ],
+        "questions": [
+            {
+                "question": "What are the main types of academic activities mentioned in the text?",
+                "options": ["A. Sports and games", "B. Lectures, seminars, workshops", "C. Travel and tourism", "D. Art and music"],
+                "correct": "b"
+            },
+            {
+                "question": "What is the role of scientific research in academic activities?",
+                "options": ["A. Entertainment", "B. Exploring new fields and developing solutions", "C. Physical training", "D. Fundraising"],
+                "correct": "b"
+            },
+            {
+                "question": "What do science competitions and student exhibitions encourage?",
+                "options": ["A. Laziness", "B. Constructive competition and practical skills", "C. Conflict", "D. Isolation"],
+                "correct": "b"
+            },
+            {
+                "question": "What do cultural academic activities like literary clubs and student associations enhance?",
+                "options": ["A. Physical strength", "B. Cultural and social awareness", "C. Financial skills", "D. Dietary habits"],
+                "correct": "b"
+            }
+        ]
+    }
+,
+"Educational Systems": {
+    "text": "تعتبر الأنظمة التعليمية من أهم الركائز التي تعتمد عليها المجتمعات لتحقيق التنمية والتطور. تختلف الأنظمة التعليمية من بلد لآخر بناءً على الثقافة والسياسات والموارد المتاحة، ولكنها تشترك جميعاً في الهدف الأساسي وهو تزويد الأفراد بالمعرفة والمهارات اللازمة لتحقيق النجاح في الحياة. يتكون النظام التعليمي عادةً من عدة مراحل تبدأ من التعليم الأساسي وتستمر حتى التعليم العالي. في معظم الدول، يبدأ الأطفال تعليمهم في مرحلة رياض الأطفال أو التعليم الابتدائي، حيث يتعلمون الأساسيات مثل القراءة والكتابة والحساب. هذه المرحلة تعتبر الأساس الذي يبنى عليه التعليم اللاحق، حيث تُغرس في الطلاب القيم الأساسية ومهارات التعلم الأساسية. تأتي مرحلة التعليم الثانوي التي تشمل المدارس المتوسطة والثانوية. في هذه المرحلة، يتعمق الطلاب في دراسة المواد الأكاديمية المتقدمة مثل الرياضيات والعلوم واللغات والتاريخ. كما تبدأ المدارس في تقديم مسارات تخصصية تتيح للطلاب اختيار المجالات التي يهتمون بها، مثل العلوم الإنسانية أو العلوم التطبيقية. التعليم الثانوي يهدف إلى تجهيز الطلاب للمرحلة التالية من تعليمهم أو دخول سوق العمل. يشمل التعليم العالي الجامعات والمعاهد التقنية والكليات. في هذه المرحلة، يحصل الطلاب على الفرصة للتخصص في مجالات دراسية محددة واكتساب مهارات مهنية متقدمة. الجامعات تقدم برامج دراسات البكالوريوس، والماجستير، والدكتوراه، مما يتيح للطلاب إجراء أبحاث متقدمة والمساهمة في تطوير المعرفة في مجالاتهم. التعليم العالي يلعب دوراً حاسماً في تعزيز الابتكار والتنمية الاقتصادية من خلال تخريج كوادر مؤهلة ومدربة. تختلف النظم التعليمية من بلد لآخر في طريقة تقييم الطلاب وتوجيههم. في بعض الأنظمة، يعتمد التقييم على الامتحانات النهائية والمشاريع العملية، بينما تعتمد أنظمة أخرى على التقييم المستمر والأعمال الفصلية. بعض الدول تتيح للطلاب الانتقال بين المسارات الأكاديمية والمهنية بناءً على اهتماماتهم وقدراتهم، مما يوفر مرونة أكبر في التعليم.",
+    "script": "Educational systems are one of the most important pillars that societies rely on to achieve development and progress. Educational systems vary from country to country based on culture, policies, and available resources, but they all share the primary goal of providing individuals with the knowledge and skills necessary to succeed in life. The educational system usually consists of several stages, starting from basic education and continuing to higher education. In most countries, children begin their education in kindergarten or primary school, where they learn the basics such as reading, writing, and arithmetic. This stage is considered the foundation upon which later education is built, instilling basic values and learning skills in students. Then comes the secondary education stage, which includes middle and high schools. At this stage, students delve deeper into advanced academic subjects such as mathematics, science, languages, and history. Schools also start offering specialized tracks that allow students to choose fields they are interested in, such as humanities or applied sciences. Secondary education aims to prepare students for the next stage of their education or entry into the job market. Higher education includes universities, technical institutes, and colleges. At this stage, students have the opportunity to specialize in specific fields of study and acquire advanced professional skills. Universities offer bachelor's, master's, and doctoral programs, allowing students to conduct advanced research and contribute to the development of knowledge in their fields. Higher education plays a crucial role in promoting innovation and economic development by graduating qualified and trained personnel. Educational systems differ from one country to another in the way they assess and guide students. In some systems, assessment is based on final exams and practical projects, while other systems rely on continuous assessment and coursework. Some countries allow students to transition between academic and vocational tracks based on their interests and abilities, providing greater flexibility in education.",
+    "vocabulary": [
+        {"arabic": "الأنظمة التعليمية", "english": "Educational systems"},
+        {"arabic": "التعليم الأساسي", "english": "Basic education"},
+        {"arabic": "رياض الأطفال", "english": "Kindergarten"},
+        {"arabic": "التعليم الابتدائي", "english": "Primary education"},
+        {"arabic": "القراءة", "english": "Reading"},
+        {"arabic": "الكتابة", "english": "Writing"},
+        {"arabic": "الحساب", "english": "Arithmetic"},
+        {"arabic": "القيم الأساسية", "english": "Basic values"},
+        {"arabic": "مهارات التعلم", "english": "Learning skills"},
+        {"arabic": "التعليم الثانوي", "english": "Secondary education"},
+        {"arabic": "المدارس المتوسطة", "english": "Middle schools"},
+        {"arabic": "المدارس الثانوية", "english": "High schools"},
+        {"arabic": "مواد أكاديمية متقدمة", "english": "Advanced academic subjects"},
+        {"arabic": "الرياضيات", "english": "Mathematics"},
+        {"arabic": "العلوم", "english": "Science"},
+        {"arabic": "اللغات", "english": "Languages"},
+        {"arabic": "التاريخ", "english": "History"},
+        {"arabic": "مسارات تخصصية", "english": "Specialized tracks"},
+        {"arabic": "العلوم الإنسانية", "english": "Humanities"},
+        {"arabic": "العلوم التطبيقية", "english": "Applied sciences"},
+        {"arabic": "التعليم العالي", "english": "Higher education"},
+        {"arabic": "الجامعات", "english": "Universities"},
+        {"arabic": "المعاهد التقنية", "english": "Technical institutes"},
+        {"arabic": "الكليات", "english": "Colleges"},
+        {"arabic": "برامج دراسات البكالوريوس", "english": "Bachelor's programs"},
+        {"arabic": "الماجستير", "english": "Master's programs"},
+        {"arabic": "الدكتوراه", "english": "Doctoral programs"},
+        {"arabic": "البحث المتقدم", "english": "Advanced research"},
+        {"arabic": "التقييم المستمر", "english": "Continuous assessment"},
+        {"arabic": "الأعمال الفصلية", "english": "Coursework"}
+    ],
+    "questions": [
+        {
+            "question": "How do educational systems ensure the development of both academic and non-academic skills in students?",
+            "options": [
+                "A. By focusing solely on academic subjects such as mathematics and science",
+                "B. Through a combination of basic values, learning skills, and specialized tracks",
+                "C. By providing continuous assessment and coursework only",
+                "D. By excluding vocational tracks from the curriculum"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "What role does higher education play in fostering innovation according to the text?",
+            "options": [
+                "A. It prepares students for basic education",
+                "B. It allows students to conduct advanced research and contribute to knowledge",
+                "C. It only provides technical skills",
+                "D. It limits students to traditional academic subjects"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "In what ways do different countries' educational systems vary in their assessment methods?",
+            "options": [
+                "A. Some countries rely solely on final exams while others use continuous assessment and coursework",
+                "B. All countries use the same assessment methods",
+                "C. Assessment methods are based on student age rather than country policies",
+                "D. Assessment methods do not significantly impact student outcomes"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "Why is the transition between academic and vocational tracks important in some educational systems?",
+            "options": [
+                "A. It provides flexibility for students based on their interests and abilities",
+                "B. It ensures all students follow the same educational path",
+                "C. It limits students' exposure to vocational training",
+                "D. It disregards the need for specialization in education"
+            ],
+            "correct": "a"
+        }
+    ]
+}
+},
     "Travel": {
         "Travel Plans": {
-            "text": "This is the text for the Travel Plans lesson.",
-            "script": "This is the script for the Travel Plans lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 25", "english": "Meaning 25"},
-                {"arabic": "كلمة 26", "english": "Meaning 26"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "b"
-                }
-            ]
-        },
+        "text": "أنا خالد، وأود أن أشارككم خططي للسفر التي طالما حلمت بها. السفر بالنسبة لي هو فرصة لاكتشاف العالم، والتعرف على ثقافات جديدة، وتجربة مغامرات لا تُنسى. هذا العام، قررت أن أحقق بعضاً من هذه الأحلام وأن أخطط لرحلة مميزة تجمع بين الاستكشاف والاسترخاء. أولاً، سأبدأ رحلتي في أوروبا، حيث سأزور باريس، المدينة التي تشتهر بجمالها ورومانسيتها. سأقضي بضعة أيام في استكشاف المعالم الشهيرة مثل برج إيفل، ومتحف اللوفر، وكنيسة نوتردام. بالطبع، سأخصص وقتاً للتجول في الشوارع الجميلة وتجربة الأطعمة الفرنسية الشهية في المقاهي والمطاعم المحلية. بعد باريس، سأنتقل إلى إيطاليا، حيث أخطط لزيارة روما وفلورنسا والبندقية. في روما، سأستمتع بزيارة الكولوسيوم والفاتيكان والساحات التاريخية. أما في فلورنسا، فسأغمر نفسي في الفنون والثقافة من خلال زيارة المتاحف والكنائس العريقة. وأخيراً، سأقضي وقتاً ساحراً في البندقية، المدينة العائمة، حيث سأركب الجندول وأستمتع بجمال القنوات والجسور. من أوروبا، سأنتقل إلى آسيا، حيث سأزور اليابان. أنا متحمس للغاية لاكتشاف هذا البلد الذي يجمع بين التقاليد القديمة والتكنولوجيا الحديثة. سأبدأ رحلتي في طوكيو، المدينة النابضة بالحياة، حيث سأزور المعابد والأسواق والمطاعم. بعد ذلك، سأنتقل إلى كيوتو، المدينة التي تشتهر بحدائقها الجميلة ومعابدها التاريخية. سأقضي بعض الوقت أيضاً في زيارة هيروشيما ونارا، للاستفادة من تجارب تاريخية وثقافية غنية. في نهاية رحلتي، سأقضي بضعة أيام في جزر المالديف للاسترخاء والتمتع بالشواطئ الرملية البيضاء والمياه الفيروزية. سأستمتع بالغطس واستكشاف الحياة البحرية، وسأخصص وقتاً للاسترخاء والابتعاد عن صخب الحياة اليومية.",
+        "script": "I am Khaled, and I would like to share my travel plans that I have always dreamed of. For me, travel is an opportunity to explore the world, learn about new cultures, and experience unforgettable adventures. This year, I have decided to fulfill some of these dreams and plan a special trip that combines exploration and relaxation. First, I will start my journey in Europe, where I will visit Paris, a city famous for its beauty and romance. I will spend a few days exploring famous landmarks such as the Eiffel Tower, the Louvre Museum, and Notre Dame Cathedral. Of course, I will also dedicate time to strolling through beautiful streets and enjoying delicious French cuisine at local cafes and restaurants. After Paris, I will move on to Italy, where I plan to visit Rome, Florence, and Venice. In Rome, I will enjoy visiting the Colosseum, the Vatican, and historical squares. In Florence, I will immerse myself in arts and culture by visiting ancient museums and churches. Finally, I will spend enchanting time in Venice, the floating city, where I will ride a gondola and enjoy the beauty of its canals and bridges. From Europe, I will move on to Asia, where I will visit Japan. I am very excited to explore this country that combines ancient traditions with modern technology. I will start my journey in Tokyo, a vibrant city, where I will visit temples, markets, and restaurants. After that, I will travel to Kyoto, a city known for its beautiful gardens and historical temples. I will also spend some time visiting Hiroshima and Nara to gain rich historical and cultural experiences. At the end of my trip, I will spend a few days in the Maldives to relax and enjoy the white sandy beaches and turquoise waters. I will enjoy snorkeling and exploring marine life, and I will dedicate time to relaxing and escaping from the hustle and bustle of daily life.",
+        "vocabulary": [
+            {"arabic": "السفر", "english": "travel"},
+            {"arabic": "اكتشاف", "english": "discovery"},
+            {"arabic": "ثقافات", "english": "cultures"},
+            {"arabic": "مغامرات", "english": "adventures"},
+            {"arabic": "باريس", "english": "Paris"},
+            {"arabic": "رومانسيتها", "english": "romanticism"},
+            {"arabic": "برج إيفل", "english": "Eiffel Tower"},
+            {"arabic": "متحف اللوفر", "english": "Louvre Museum"},
+            {"arabic": "كنيسة نوتردام", "english": "Notre Dame Cathedral"},
+            {"arabic": "شوارع", "english": "streets"},
+            {"arabic": "الأطعمة الفرنسية", "english": "French cuisine"},
+            {"arabic": "المقاهي", "english": "cafes"},
+            {"arabic": "روما", "english": "Rome"},
+            {"arabic": "فلورنسا", "english": "Florence"},
+            {"arabic": "البندقية", "english": "Venice"},
+            {"arabic": "الكولوسيوم", "english": "Colosseum"},
+            {"arabic": "الفاتيكان", "english": "Vatican"},
+            {"arabic": "الساحات التاريخية", "english": "historical squares"},
+            {"arabic": "الفنون", "english": "arts"},
+            {"arabic": "الثقافة", "english": "culture"},
+            {"arabic": "المتاحف", "english": "museums"},
+            {"arabic": "الكنائس العريقة", "english": "ancient churches"},
+            {"arabic": "الجندول", "english": "gondola"},
+            {"arabic": "القنوات", "english": "canals"},
+            {"arabic": "الجسور", "english": "bridges"},
+            {"arabic": "اليابان", "english": "Japan"},
+            {"arabic": "التقاليد", "english": "traditions"},
+            {"arabic": "التكنولوجيا", "english": "technology"},
+            {"arabic": "طوكيو", "english": "Tokyo"},
+            {"arabic": "المعابد", "english": "temples"},
+            {"arabic": "الأسواق", "english": "markets"},
+            {"arabic": "كيوتو", "english": "Kyoto"},
+            {"arabic": "الحدائق", "english": "gardens"},
+            {"arabic": "هيروشيما", "english": "Hiroshima"},
+            {"arabic": "نارا", "english": "Nara"},
+            {"arabic": "جزر المالديف", "english": "Maldives"},
+            {"arabic": "الشواطئ الرملية", "english": "sandy beaches"},
+            {"arabic": "المياه الفيروزية", "english": "turquoise waters"},
+            {"arabic": "الغطس", "english": "snorkeling"},
+            {"arabic": "الحياة البحرية", "english": "marine life"}
+        ],
+        "questions": [
+            {
+                "question": "What motivates Khaled to travel and what does he aim to achieve through his travels?",
+                "options": [
+                    "A. He wants to escape his daily routine and relax",
+                    "B. He wants to discover the world, learn about new cultures, and experience unforgettable adventures",
+                    "C. He is interested in visiting only historical sites",
+                    "D. He plans to conduct business meetings in different countries"
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "Why does Khaled choose to visit Paris as his first destination in Europe?",
+                "options": [
+                    "A. To visit friends and family",
+                    "B. To explore famous landmarks and enjoy French cuisine",
+                    "C. To attend a business conference",
+                    "D. To participate in a cultural exchange program"
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "In addition to sightseeing, what other activities does Khaled plan to do in Japan?",
+                "options": [
+                    "A. He plans to relax on the beaches",
+                    "B. He wants to learn the Japanese language",
+                    "C. He plans to visit temples, markets, and enjoy Japanese cuisine",
+                    "D. He aims to work temporarily in Tokyo"
+                ],
+                "correct": "c"
+            },
+            {
+                "question": "What is the significance of Khaled's visit to the Maldives at the end of his journey?",
+                "options": [
+                    "A. He wants to explore the cultural heritage of the Maldives",
+                    "B. He plans to engage in underwater photography",
+                    "C. He aims to relax and enjoy the beaches, snorkeling, and marine life",
+                    "D. He is visiting for a professional conference"
+                ],
+                "correct": "c"
+            }
+        ]
+    }
+,
         "Directions and Locations": {
             "text": "This is the text for the Directions and Locations lesson.",
             "script": "This is the script for the Directions and Locations lesson.",
