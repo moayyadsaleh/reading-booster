@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const nextLessonBtn = document.getElementById("next-lesson-btn");
       const hoverSound = document.getElementById("hover-sound");
       const clickSound = document.getElementById("click-sound");
+      const instructionsSection = document.getElementById("instructions"); // Add this line
       let currentDomain = "";
       let currentSubdomainIndex = 0;
 
@@ -50,10 +51,12 @@ document.addEventListener("DOMContentLoaded", function () {
               Object.keys(domains[currentDomain])[currentSubdomainIndex]
             ]
           );
+          scrollToInstructions();
         } else {
           alert("You have completed all the lessons in this domain.");
           lessonSection.classList.add("hidden");
           subdomainSection.classList.remove("hidden");
+          scrollToSubdomain();
         }
         nextLessonBtn.classList.add("hidden");
         playClickSound();
@@ -69,6 +72,7 @@ document.addEventListener("DOMContentLoaded", function () {
           li.addEventListener("click", () => {
             currentSubdomainIndex = index;
             showLesson(domains[domain][subdomain]);
+            scrollToInstructions(); // Scroll to instructions when clicking subdomain
             playClickSound();
           });
           li.addEventListener("mouseover", playHoverSound);
@@ -107,6 +111,14 @@ document.addEventListener("DOMContentLoaded", function () {
         lessonSection.classList.remove("hidden");
       }
 
+      function scrollToInstructions() {
+        instructionsSection.scrollIntoView({ behavior: "smooth" });
+      }
+
+      function scrollToSubdomain() {
+        subdomainSection.scrollIntoView({ behavior: "smooth" });
+      }
+
       Object.keys(domains).forEach((domain) => {
         const li = document.createElement("li");
         li.textContent = domain;
@@ -134,6 +146,7 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
 });
+
 document.addEventListener("DOMContentLoaded", () => {
   const flashcardBtn = document.getElementById("flashcard-btn");
   const flashcardCreatePage = document.getElementById("flashcard-create-page");
