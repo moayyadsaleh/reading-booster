@@ -1,7 +1,7 @@
 /* General styles for the body */
 body {
   font-family: "Arial", sans-serif;
-  background-color: #f0f0f0; /* Light gray background */
+  background-color: #f5f5f5; /* Slightly lighter gray background */
   margin: 0;
   padding: 0;
 }
@@ -12,9 +12,9 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #fff; /* White background for the container */
+  background-color: #ffffff; /* White background for the container */
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Enhanced shadow for depth */
 }
 
 /* Heading styles */
@@ -22,7 +22,7 @@ h1,
 h2 {
   color: #0033a0; /* Primary blue */
   text-align: center;
-  font-size: 2em; /* Increase font size for headings */
+  font-size: 1.8em; /* Slightly smaller font size for headings */
 }
 
 #domain-section,
@@ -42,13 +42,13 @@ table {
 #domain-list li,
 #subdomain-list li {
   background-color: #0033a0; /* Primary blue */
-  color: #fff;
-  margin: 5px 0;
-  padding: 15px; /* Increased padding for better readability */
-  border-radius: 5px;
+  color: #ffffff;
+  margin: 8px 0; /* Slightly increased margin */
+  padding: 15px; /* Decreased padding for a tighter look */
+  border-radius: 6px; /* Slightly more rounded corners */
   cursor: pointer;
   text-align: center;
-  font-size: 1.2em; /* Larger font size for list items */
+  font-size: 1.1em; /* Smaller font size for list items */
 }
 
 #domain-list li:hover,
@@ -63,38 +63,38 @@ table {
 
 audio {
   width: 100%;
-  max-width: 600px;
+  max-width: 650px; /* Slightly larger max-width for audio */
 }
 
 #show-script-btn {
   display: block;
   margin: 20px auto;
-  padding: 15px 25px; /* Increased padding for better button size */
-  background-color: #008000; /* Accent green */
-  color: #fff;
+  padding: 10px 20px; /* Decreased padding for a tighter button */
+  background-color: #4caf50; /* Accent green */
+  color: #ffffff;
   border: none;
-  border-radius: 5px;
+  border-radius: 8px; /* Slightly more rounded corners */
   cursor: pointer;
-  font-size: 1.2em; /* Larger font size for button text */
+  font-size: 1.1em; /* Smaller font size for button text */
 }
 
 #show-script-btn:hover {
-  background-color: #006400; /* Darker green */
+  background-color: #388e3c; /* Darker green */
 }
 
 #script {
   margin: 20px 0;
-  padding: 15px; /* Increased padding for better readability */
-  background-color: #e0e0e0; /* Light gray */
-  border-radius: 5px;
-  font-size: 1.2em; /* Larger font size for script text */
+  padding: 15px; /* Decreased padding for better readability */
+  background-color: #f0f0f0; /* Light gray */
+  border-radius: 6px; /* Slightly more rounded corners */
+  font-size: 1.1em; /* Smaller font size for script text */
 }
 
 #vocabulary h2,
 #questions h2 {
   text-align: left;
   color: #0033a0; /* Primary blue */
-  font-size: 1.5em; /* Larger font size for section headings */
+  font-size: 1.4em; /* Smaller font size for section headings */
 }
 
 table {
@@ -111,14 +111,14 @@ td {
 
 th,
 td {
-  padding: 15px; /* Increased padding for better readability */
+  padding: 15px; /* Decreased padding for better readability */
   text-align: left;
-  font-size: 1.2em; /* Larger font size for table cells */
+  font-size: 1.1em; /* Smaller font size for table cells */
 }
 
 th {
   background-color: #0033a0; /* Primary blue */
-  color: #fff;
+  color: #ffffff;
 }
 
 #quiz-form {
@@ -126,44 +126,31 @@ th {
 }
 
 .question {
-  margin: 10px 0;
+  margin: 15px 0; /* Increased margin between questions */
 }
 
 .question p {
-  margin: 0 0 10px;
-  font-size: 1.2em; /* Larger font size for question text */
+  margin: 0 0 10px; /* Decreased margin below paragraphs */
+  font-size: 1.1em; /* Smaller font size for question text */
 }
 
 .question label {
   display: block;
-  margin: 5px 0;
-  font-size: 1.2em; /* Larger font size for labels */
+  margin: 10px 0; /* Increased margin for labels */
+  font-size: 1.1em; /* Smaller font size for labels */
 }
 
 #submit-quiz-btn,
 #next-lesson-btn {
   display: block; /* Ensure the button is set to block */
   margin: 20px auto;
-  padding: 15px 25px;
+  padding: 10px 20px; /* Decreased padding for a tighter button */
   background-color: #d32f2f; /* Accent red */
-  color: #fff;
+  color: #ffffff;
   border: none;
-  border-radius: 5px;
+  border-radius: 8px; /* Slightly more rounded corners */
   cursor: pointer;
-  font-size: 1.2em; /* Larger font size for button text */
-}
-
-#submit-quiz-btn,
-#next-lesson-btn {
-  display: block; /* Ensure the button is set to block */
-  margin: 20px auto;
-  padding: 15px 25px;
-  background-color: #d32f2f; /* Accent red */
-  color: #fff;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 1.2em; /* Larger font size for button text */
+  font-size: 1.1em; /* Smaller font size for button text */
 }
 
 /* Hide elements with class 'hidden' */
@@ -175,13 +162,12 @@ th {
 .hero-image {
   width: 100%;
   height: auto;
-  max-height: 400px; /* Adjust the max-height as needed */
-  object-fit: cover; /* Maintain aspect ratio while covering the container */
+  max-height: 500px; /* Adjusted to a more manageable size */
+  object-fit: contain; /* Ensures the entire image fits within the container */
   border-radius: 8px; /* Rounded corners to match the container */
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Shadow for a more pronounced effect */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
   margin-bottom: 20px; /* Space below the image */
-  border: 5px solid #0033a0; /* Primary blue border around the image */
-  max-width: 100%; /* Ensure the image does not exceed its container’s width */
+  border: 3px solid #0033a0; /* Primary blue border around the image */
 }
 
 /* Styles for Arabic text section */
@@ -190,20 +176,21 @@ th {
 }
 
 #lesson-text {
-  font-size: 1.5em; /* Increase font size for lesson text */
+  font-size: 1.4em; /* Smaller font size for lesson text */
 }
 
 #vocabulary td,
 #vocabulary th {
-  font-size: 1.2em; /* Larger font size for vocabulary text */
+  font-size: 1.1em; /* Smaller font size for vocabulary text */
 }
+
 /* Styles for the instructions section */
 #instructions {
   margin: 20px 0;
-  padding: 15px;
-  background-color: #f9f9f9; /* Light background for contrast */
+  padding: 15px; /* Decreased padding for better readability */
+  background-color: #f5f5f5; /* Light background for contrast */
   border: 1px solid #ddd; /* Subtle border for definition */
-  border-radius: 5px; /* Rounded corners */
+  border-radius: 6px; /* Slightly more rounded corners */
 }
 
 #instructions h2 {
@@ -212,21 +199,199 @@ th {
 
 #instructions ul {
   list-style-type: disc;
-  margin-left: 20px; /* Indent list items */
+  margin-left: 25px; /* Increased indent for list items */
 }
 
 #instructions li {
-  margin-bottom: 10px;
-  font-size: 1.2em; /* Larger font size for readability */
-}
-/* Existing styles */
-#vocabulary td,
-#vocabulary th {
-  font-size: 1.2em; /* Larger font size for vocabulary text */
-  text-align: center; /* Center text horizontally */
+  margin-bottom: 10px; /* Decreased margin below list items */
+  font-size: 1.1em; /* Smaller font size for readability */
 }
 
 /* Add a style for vocabulary rows if needed */
 #vocabulary tr {
   text-align: center; /* Center text horizontally for table rows */
+}
+
+/* Flashcard button */
+#flashcard-btn {
+  margin: 20px;
+  padding: 8px 16px; /* Decreased padding for a tighter button */
+  font-size: 14px; /* Smaller font size for button text */
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#flashcard-btn:hover {
+  background-color: #0056b3;
+}
+
+/* Flashcard section */
+#flashcards-section {
+  margin: 20px;
+}
+
+.flashcard {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 10px 0;
+  padding: 10px;
+  position: relative;
+  width: 200px;
+  height: 100px;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.flashcard-front,
+.flashcard-back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+  transition: transform 0.6s;
+}
+
+.flashcard-back {
+  background-color: #f8f9fa;
+  transform: rotateY(180deg);
+}
+
+.flashcard:hover .flashcard-front {
+  transform: rotateY(180deg);
+}
+
+.flashcard:hover .flashcard-back {
+  transform: rotateY(0deg);
+}
+
+/* Flashcard form */
+#flashcard-form {
+  margin: 20px;
+}
+
+#flashcard-form label {
+  display: block;
+  margin-bottom: 8px; /* Decreased margin for labels */
+}
+
+#flashcard-form input {
+  width: calc(100% - 20px);
+  padding: 8px;
+  margin-bottom: 8px; /* Decreased margin for inputs */
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+#save-flashcard-btn {
+  padding: 8px 16px; /* Decreased padding for a tighter button */
+  font-size: 14px; /* Smaller font size for button text */
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#save-flashcard-btn:hover {
+  background-color: #218838;
+}
+
+/* Hide elements */
+.hidden {
+  display: none;
+}
+
+/* Flashcard section */
+#flashcards-section {
+  margin: 20px;
+}
+
+.flashcard {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 10px 0;
+  padding: 10px;
+  position: relative;
+  width: 200px;
+  height: 100px;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.flashcard-front,
+.flashcard-back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+  transition: transform 0.6s;
+  font-size: 20px; /* Increased font size for flashcard text */
+}
+
+.flashcard-back {
+  background-color: #f8f9fa;
+  transform: rotateY(180deg);
+}
+
+.flashcard:hover .flashcard-front {
+  transform: rotateY(180deg);
+}
+
+.flashcard:hover .flashcard-back {
+  transform: rotateY(0deg);
+}
+
+.remove-flashcard-btn {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.remove-flashcard-btn:hover {
+  background-color: #c82333;
+}
+
+/* Styles for the Back to Home button */
+#back-to-home-btn {
+  display: inline-block;
+  padding: 8px 16px; /* Decreased padding for a tighter button */
+  font-size: 14px; /* Smaller font size for button text */
+  color: #fff;
+  background-color: #007bff; /* Primary color */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+}
+
+#back-to-home-btn:hover {
+  background-color: #0056b3; /* Darker shade for hover effect */
+}
+
+#back-to-home-btn:focus {
+  outline: none;
 }

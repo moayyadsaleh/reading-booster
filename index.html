@@ -14,6 +14,29 @@
         class="hero-image"
       />
       <h1>Reading Comprehension Booster</h1>
+      <button id="flashcard-btn">Create Flashcards</button>
+      <div id="flashcard-create-page" class="hidden">
+        <h2>Create Flashcard</h2>
+        <form id="flashcard-form">
+          <label for="flashcard-front">Front:</label>
+          <input
+            type="text"
+            id="flashcard-front"
+            name="flashcard-front"
+            required
+          />
+          <br />
+          <label for="flashcard-back">Back:</label>
+          <input
+            type="text"
+            id="flashcard-back"
+            name="flashcard-back"
+            required
+          />
+          <br />
+          <button type="button" id="save-flashcard-btn">Save Flashcard</button>
+        </form>
+      </div>
       <div id="domain-section">
         <h2>Choose a Domain</h2>
         <ul id="domain-list">
@@ -47,8 +70,13 @@
               Discuss your answers and understanding with your instructor. In
               one minute, summarize what you understood to your instructor.
             </li>
-
             <li>Refer to <strong>Translation</strong> when needed.</li>
+            <li>
+              Create and use <strong>flashcards</strong> on the go to reinforce
+              key terms and concepts. You can add, view, and manage your
+              flashcards from the flashcard page. Flashcards will save in your
+              browser.
+            </li>
           </ul>
         </div>
         <div class="text-section">

@@ -134,3 +134,26 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
 });
+document.addEventListener("DOMContentLoaded", () => {
+  const flashcardBtn = document.getElementById("flashcard-btn");
+  const flashcardCreatePage = document.getElementById("flashcard-create-page");
+  const flashcardForm = document.getElementById("flashcard-form");
+  const saveFlashcardBtn = document.getElementById("save-flashcard-btn");
+
+  flashcardBtn.addEventListener("click", () => {
+    flashcardCreatePage.classList.toggle("hidden");
+  });
+
+  saveFlashcardBtn.addEventListener("click", () => {
+    const front = document.getElementById("flashcard-front").value;
+    const back = document.getElementById("flashcard-back").value;
+
+    if (front && back) {
+      const flashcards = JSON.parse(localStorage.getItem("flashcards")) || [];
+      flashcards.push({ front, back });
+      localStorage.setItem("flashcards", JSON.stringify(flashcards));
+      flashcardForm.reset();
+      window.location.href = "flashcards.html"; // Redirect to flashcards page
+    }
+  });
+});

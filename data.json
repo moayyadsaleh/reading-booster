@@ -1407,65 +1407,21 @@
     }
 ,
         "Future Technologies": {
-        "text": "تتقدم التكنولوجيا بشكل سريع، مما يفتح آفاقاً جديدة لمستقبل البشرية. تعكس التكنولوجيا المستقبلية الابتكارات التي قد تغير طريقة حياتنا، عملنا، وتفاعلنا مع العالم. في هذا النص، سنستعرض بعضاً من أهم الاتجاهات التكنولوجية المستقبلية، وكيف يمكن أن تؤثر على المجتمع والاقتصاد. 1. الذكاء الاصطناعي وتعلم الآلة: يعد الذكاء الاصطناعي (AI) وتعلم الآلة (Machine Learning) من أبرز الاتجاهات التكنولوجية المستقبلية. يشمل الذكاء الاصطناعي استخدام الأنظمة البرمجية لمحاكاة الذكاء البشري واتخاذ قرارات ذكية. من المتوقع أن تساهم هذه التكنولوجيا في تحسين العديد من المجالات، بما في ذلك الرعاية الصحية، والخدمات المالية، والنقل. على سبيل المثال، قد يتمكن الذكاء الاصطناعي من تحليل البيانات الطبية للكشف المبكر عن الأمراض وتقديم تشخيصات دقيقة. 2. الواقع الافتراضي والمعزز: الواقع الافتراضي (VR) والواقع المعزز (AR) هما تقنيتان ستلعبان دوراً كبيراً في المستقبل. توفر هذه التقنيات تجارب غامرة للمستخدمين، مما يمكنهم من التفاعل مع بيئات افتراضية أو إضافة عناصر رقمية إلى العالم الحقيقي. يُتوقع أن تُستخدم هذه التقنيات في التعليم، والترفيه، والتدريب المهني. على سبيل المثال، يمكن للطلاب استخدام الواقع الافتراضي لاستكشاف مواقع تاريخية أو علمية بشكل تفاعلي. 3. الإنترنت من الأشياء (IoT): الإنترنت من الأشياء هو مفهوم يشير إلى ربط الأجهزة والآلات بالإنترنت لتبادل البيانات وتحسين العمليات. ستساهم هذه التقنية في إنشاء \"مدن ذكية\" حيث يتم مراقبة وإدارة البنية التحتية مثل النقل والطاقة بشكل أكثر كفاءة. قد تشمل التطبيقات المستقبلية للإنترنت من الأشياء تحسين إدارة الطاقة في المنازل، ومراقبة صحة المرضى عن بُعد، وتعزيز الأمن في المناطق العامة. 4. الروبوتات والأنظمة الذاتية: الروبوتات والأنظمة الذاتية (Autonomous Systems) ستكون جزءاً أساسياً من المستقبل. من المتوقع أن تستخدم الروبوتات في مجموعة واسعة من التطبيقات، من الرعاية الصحية إلى الصناعة والخدمات اللوجستية. الروبوتات قد تتمكن من أداء مهام معقدة مثل الجراحة الدقيقة أو إدارة سلاسل الإمداد بفعالية أكبر. كما يمكن أن تؤدي المركبات الذاتية القيادة إلى تحسين الأمان وتقليل الازدحام المروري. 5. التكنولوجيا الحيوية: التكنولوجيا الحيوية تتعلق باستخدام التقنيات الحديثة في مجال البيولوجيا لابتكار حلول جديدة في الرعاية الصحية والزراعة. يمكن للتكنولوجيا الحيوية أن تساهم في تطوير علاجات جديدة للأمراض، وتحسين إنتاج الغذاء، وتعزيز الاستدامة البيئية. على سبيل المثال، يمكن استخدام الهندسة الوراثية لتعديل النباتات لتحمل الظروف البيئية القاسية أو إنتاج أدوية مخصصة بناءً على الجينوم الفردي.",
-        "script": "Technology is advancing rapidly, opening new horizons for the future of humanity. Future technology reflects innovations that may change the way we live, work, and interact with the world. In this text, we will explore some of the most important future technology trends and how they could affect society and the economy. 1. Artificial Intelligence and Machine Learning: Artificial Intelligence (AI) and Machine Learning are among the most prominent future technology trends. AI involves using software systems to simulate human intelligence and make smart decisions. This technology is expected to contribute to improvements in various fields, including healthcare, financial services, and transportation. For example, AI might analyze medical data to detect diseases early and provide accurate diagnoses. 2. Virtual and Augmented Reality: Virtual Reality (VR) and Augmented Reality (AR) are technologies that will play a significant role in the future. These technologies provide immersive experiences for users, allowing them to interact with virtual environments or add digital elements to the real world. These technologies are expected to be used in education, entertainment, and professional training. For example, students could use VR to explore historical or scientific sites interactively. 3. Internet of Things (IoT): The Internet of Things is a concept referring to connecting devices and machines to the internet to exchange data and improve processes. This technology will contribute to creating "smart cities" where infrastructure such as transportation and energy is monitored and managed more efficiently. Future applications of IoT might include improving energy management in homes, remote patient monitoring, and enhancing security in public areas. 4. Robotics and Autonomous Systems: Robotics and Autonomous Systems will be an essential part of the future. Robots are expected to be used in a wide range of applications, from healthcare to industry and logistics. Robots might perform complex tasks such as precise surgery or managing supply chains more effectively. Autonomous vehicles could improve safety and reduce traffic congestion. 5. Biotechnology: Biotechnology involves using modern techniques in biology to create new solutions in healthcare and agriculture. Biotechnology can contribute to developing new treatments for diseases, improving food production, and enhancing environmental sustainability. For example, genetic engineering might be used to modify plants to withstand harsh environmental conditions or to produce personalized medicines based on individual genomes.",
-        "vocabulary": [
-            {"arabic": "تكنولوجيا", "english": "Technology"},
-            {"arabic": "ابتكارات", "english": "Innovations"},
-            {"arabic": "ذكاء اصطناعي", "english": "Artificial Intelligence"},
-            {"arabic": "تعلم الآلة", "english": "Machine Learning"},
-            {"arabic": "واقع افتراضي", "english": "Virtual Reality"},
-            {"arabic": "واقع معزز", "english": "Augmented Reality"},
-            {"arabic": "إنترنت من الأشياء", "english": "Internet of Things"},
-            {"arabic": "مدن ذكية", "english": "Smart Cities"},
-            {"arabic": "روبوتات", "english": "Robots"},
-            {"arabic": "أنظمة ذاتية", "english": "Autonomous Systems"},
-            {"arabic": "تكنولوجيا حيوية", "english": "Biotechnology"}
-        ],
-        "questions": [
-            {
-                "question": "ما هو الموضوع الرئيسي للنص؟",
-                "options": [
-                    "أ. تأثير التكنولوجيا على الاقتصاد",
-                    "ب. الاتجاهات التكنولوجية المستقبلية",
-                    "ج. تاريخ التكنولوجيا",
-                    "د. تطبيقات التكنولوجيا في الماضي"
-                ],
-                "correct": "b"
-            },
-            {
-                "question": "كيف يمكن أن يساهم الذكاء الاصطناعي في تحسين الرعاية الصحية؟",
-                "options": [
-                    "أ. من خلال توفير ألعاب تعليمية",
-                    "ب. بتحليل البيانات الطبية للكشف المبكر عن الأمراض",
-                    "ج. بإنشاء مدن ذكية",
-                    "د. بإضافة عناصر رقمية إلى العالم الحقيقي"
-                ],
-                "correct": "b"
-            },
-            {
-                "question": "ما هي التطبيقات المتوقعة للواقع الافتراضي؟",
-                "options": [
-                    "أ. تحليل البيانات الطبية",
-                    "ب. استخدامه في التعليم والترفيه والتدريب المهني",
-                    "ج. تحسين إدارة الطاقة في المنازل",
-                    "د. تطوير علاجات جديدة للأمراض"
-                ],
-                "correct": "b"
-            },
-            {
-                "question": "ما هو مفهوم الإنترنت من الأشياء؟",
-                "options": [
-                    "أ. استخدام الروبوتات في الصناعة",
-                    "ب. ربط الأجهزة والآلات بالإنترنت لتبادل البيانات",
-                    "ج. تطبيقات الواقع الافتراضي",
-                    "د. استخدام التكنولوجيا الحيوية في الزراعة"
-                ],
-                "correct": "b"
-            }
-        ]
-    }
-,
+            "text": "This is the text for the Future Technologies lesson.",
+            "script": "This is the script for the Future Technologies lesson.",
+            "vocabulary": [
+                {"arabic": "كلمة 47", "english": "Meaning 47"},
+                {"arabic": "كلمة 48", "english": "Meaning 48"}
+            ],
+            "questions": [
+                {
+                    "question": "What is the main topic of the text?",
+                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "correct": "b"
+                }
+            ]
+        }
+    },
     "Military and Security": {
         "Military Operations": {
             "text": "تُعتبر العمليات العسكرية من أهم أدوات الدول لتحقيق أهدافها الاستراتيجية وحماية أمنها القومي. تتطلب هذه العمليات تخطيطاً دقيقاً وتنسيقاً عالي المستوى بين الوحدات العسكرية المختلفة. سنستعرض في هذا النص مفهوم العمليات العسكرية، وأنواعها، ومراحل التخطيط والتنفيذ، والأهمية الاستراتيجية لهذه العمليات. 1. مفهوم العمليات العسكرية: العمليات العسكرية هي الإجراءات التي تقوم بها القوات المسلحة لتحقيق أهداف محددة تتعلق بالأمن والدفاع. تشمل هذه العمليات استخدام القوات البرية، والجوية، والبحرية، ووحدات العمليات الخاصة لتنفيذ المهام العسكرية المختلفة. 2. أنواع العمليات العسكرية: العمليات الهجومية: تهدف إلى مهاجمة وتدمير قوات العدو ومواقعه، وتتضمن الهجوم المباشر، والكمائن، والغارات الجوية. العمليات الدفاعية: تهدف إلى حماية المناطق الحيوية والحد من تقدم العدو، وتشمل الدفاع الثابت، والدفاع المتحرك، والتحصينات. عمليات الإنقاذ والإخلاء: تتضمن إجلاء المدنيين أو العسكريين من مناطق الخطر، وتقديم الدعم الطبي واللوجستي. العمليات الخاصة: تُنفذ بواسطة قوات العمليات الخاصة، وتهدف إلى تنفيذ مهام حساسة ومعقدة مثل التجسس، والاغتيالات، وإنقاذ الرهائن. 3. مراحل التخطيط والتنفيذ: التخطيط الاستراتيجي: يشمل تحديد الأهداف الاستراتيجية ووضع الخطة العامة للعملية العسكرية. يتضمن تحليل الاستخبارات، وتقييم قدرات العدو، واختيار الأساليب التكتيكية. الاستطلاع والمراقبة: تتضمن جمع المعلومات الاستخبارية عن العدو والميدان باستخدام وسائل مثل الطائرات بدون طيار، والأقمار الصناعية، ووحدات الاستطلاع. التعبئة والتحشيد: تشمل تحريك القوات والأسلحة والمعدات إلى مناطق العمليات، وتجهيز الجنود وتدريبهم على المهام الموكلة إليهم. التنفيذ والتكتيك: يتضمن تنفيذ الخطة العسكرية وفقاً للتكتيكات المرسومة، مثل الهجوم البري، والغارات الجوية، والضربات البحرية. التقييم والمراجعة: تشمل تقييم نتائج العملية وتحليل الدروس المستفادة لتحسين الأداء في المستقبل. 4. الأهمية الاستراتيجية للعمليات العسكرية: حماية السيادة الوطنية: تساعد العمليات العسكرية في حماية حدود الدولة ومنع أي اعتداءات خارجية. تحقيق الأهداف السياسية: تستخدم العمليات العسكرية لتحقيق أهداف سياسية مثل تغيير نظام حكم، أو فرض سلام، أو حماية مصالح الدولة. الردع: تُعتبر العمليات العسكرية وسيلة لردع الأعداء عن شن هجمات من خلال إظهار القدرة على الرد الفوري والحاسم. المساعدات الإنسانية: تُنفذ بعض العمليات العسكرية لتقديم المساعدات الإنسانية في مناطق النزاعات والكوارث.",
