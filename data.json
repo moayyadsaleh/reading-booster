@@ -682,269 +682,1207 @@
     }
 ,
         "Directions and Locations": {
-            "text": "This is the text for the Directions and Locations lesson.",
-            "script": "This is the script for the Directions and Locations lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 27", "english": "Meaning 27"},
-                {"arabic": "كلمة 28", "english": "Meaning 28"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "c"
-                }
-            ]
-        },
-        "Tourist Attractions": {
-            "text": "This is the text for the Tourist Attractions lesson.",
-            "script": "This is the script for the Tourist Attractions lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 29", "english": "Meaning 29"},
-                {"arabic": "كلمة 30", "english": "Meaning 30"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "d"
-                }
-            ]
-        }
-    },
+        "text": "السفر هو تجربة فريدة تتيح لنا اكتشاف عالم جديد، والتعرف على ثقافات متنوعة، واكتساب تجارب لا تُنسى. ومن بين الوجهات المشهورة التي تجذب المسافرين من جميع أنحاء العالم، نجد مدناً وأماكن تقدم مزيجاً رائعاً من التاريخ، والجمال الطبيعي، والتجارب الثقافية. باريس، عاصمة فرنسا، هي واحدة من أكثر الوجهات شعبية في العالم. تشتهر المدينة بـ 'مدينة النور' بفضل معالمها الرائعة مثل برج إيفل، ومتحف اللوفر، وكنيسة نوتردام. يمكن للزوار الاستمتاع بجولة عبر شوارعها الجميلة، وزيارة المقاهي الراقية، والتعرف على المطبخ الفرنسي الشهي. روما، عاصمة إيطاليا، تقدم تجربة سفر مليئة بالتاريخ والتراث. يمكن للزوار استكشاف الكولوسيوم، والفاتيكان، والساحات الرومانية القديمة. روما هي مدينة تستحضر في أذهان الزوار تاريخاً عظيماً وعراقة لا تضاهى. طوكيو، عاصمة اليابان، هي مدينة نابضة بالحياة تجمع بين الحداثة والتقاليد. في طوكيو، يمكن للزوار زيارة المعابد القديمة مثل معبد سينسوجي، والتجول في أسواقها الشعبية مثل سوق تسوكيجي، واكتشاف أحدث التطورات التكنولوجية في أحياء مثل أكيهابارا. نيوزيلندا، بتضاريسها الطبيعية المتنوعة، هي وجهة مثالية لعشاق الطبيعة والمغامرة. تقدم البلاد مناظر خلابة تشمل الجبال، والغابات، والشواطئ، فضلاً عن الأنشطة مثل التزلج على الجليد، وركوب الأمواج، والمشي لمسافات طويلة في المناطق الطبيعية. جزر المالديف، المعروفة بشواطئها الرملية البيضاء والمياه الفيروزية، هي وجهة مثالية للاسترخاء والاستجمام. يمكن للزوار الاستمتاع بالرياضات المائية مثل الغطس والسباحة مع الأسماك الملونة، وتقدير جمال الشعاب المرجانية في البحر. الوجهات الشهيرة الأخرى مثل نيوزيلندا، ذات المناظر الطبيعية الخلابة التي تشمل الجبال، والغابات، والشواطئ، تقدم تجربة متميزة للمغامرين. يمكن للزوار الاستمتاع بالتزلج، وركوب الأمواج، والمشي لمسافات طويلة في المناظر الطبيعية الهادئة.",
+        "script": "Travel is a unique experience that allows us to discover a new world, learn about diverse cultures, and gain unforgettable experiences. Among the famous destinations that attract travelers from all around the world are cities and places offering a wonderful mix of history, natural beauty, and cultural experiences. Paris, the capital of France, is one of the most popular destinations in the world. The city is known as the 'City of Light' due to its magnificent landmarks such as the Eiffel Tower, the Louvre Museum, and Notre Dame Cathedral. Visitors can enjoy a stroll through its beautiful streets, visit elegant cafes, and savor delicious French cuisine. Rome, the capital of Italy, offers a travel experience rich in history and heritage. Visitors can explore the Colosseum, the Vatican, and ancient Roman squares. Rome evokes in visitors' minds a grand history and unparalleled grandeur. Tokyo, the capital of Japan, is a vibrant city that combines modernity with tradition. In Tokyo, visitors can visit ancient temples like Sensoji Temple, wander through its bustling markets such as Tsukiji Market, and discover the latest technological advancements in districts like Akihabara. New Zealand, with its diverse natural landscapes, is a perfect destination for nature and adventure lovers. The country offers stunning scenery including mountains, forests, and beaches, along with activities such as skiing, surfing, and hiking in natural areas. The Maldives, known for its white sandy beaches and turquoise waters, is an ideal destination for relaxation and rejuvenation. Visitors can enjoy water sports like snorkeling and swimming with colorful fish, and appreciate the beauty of coral reefs in the sea. Other famous destinations such as New Zealand, with its breathtaking landscapes including mountains, forests, and beaches, offer a unique experience for adventurers. Visitors can enjoy skiing, surfing, and hiking in serene natural settings.",
+        "vocabulary": [
+            {"arabic": "تجربة", "english": "experience"},
+            {"arabic": "ثقافات", "english": "cultures"},
+            {"arabic": "وجهات", "english": "destinations"},
+            {"arabic": "جمال", "english": "beauty"},
+            {"arabic": "تجارب", "english": "experiences"},
+            {"arabic": "باريس", "english": "Paris"},
+            {"arabic": "برج إيفل", "english": "Eiffel Tower"},
+            {"arabic": "متحف اللوفر", "english": "Louvre Museum"},
+            {"arabic": "كنيسة نوتردام", "english": "Notre Dame Cathedral"},
+            {"arabic": "المطبخ الفرنسي", "english": "French cuisine"},
+            {"arabic": "روما", "english": "Rome"},
+            {"arabic": "الكولوسيوم", "english": "Colosseum"},
+            {"arabic": "الفاتيكان", "english": "Vatican"},
+            {"arabic": "الساحات الرومانية", "english": "Roman squares"},
+            {"arabic": "طوكيو", "english": "Tokyo"},
+            {"arabic": "معبد سينسوجي", "english": "Sensoji Temple"},
+            {"arabic": "سوق تسوكيجي", "english": "Tsukiji Market"},
+            {"arabic": "أكيهابارا", "english": "Akihabara"},
+            {"arabic": "نيوزيلندا", "english": "New Zealand"},
+            {"arabic": "التزلج على الجليد", "english": "skiing"},
+            {"arabic": "ركوب الأمواج", "english": "surfing"},
+            {"arabic": "المشي لمسافات طويلة", "english": "hiking"},
+            {"arabic": "جزر المالديف", "english": "Maldives"},
+            {"arabic": "الشواطئ الرملية", "english": "sandy beaches"},
+            {"arabic": "المياه الفيروزية", "english": "turquoise waters"},
+            {"arabic": "الغطس", "english": "snorkeling"},
+            {"arabic": "الشعاب المرجانية", "english": "coral reefs"}
+        ],
+        "questions": [
+            {
+                "question": "What does the text suggest as the primary reason for visiting Paris?",
+                "options": [
+                    "A. To attend a business conference",
+                    "B. To enjoy the beauty and historical landmarks of the city",
+                    "C. To participate in a cultural exchange program",
+                    "D. To explore New Zealand's natural landscapes"
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "How does Tokyo uniquely combine modernity and tradition according to the text?",
+                "options": [
+                    "A. By offering a range of shopping experiences and technological advancements",
+                    "B. By hosting historical reenactments and ancient festivals",
+                    "C. By blending traditional cuisine with modern restaurants",
+                    "D. By incorporating historical landmarks into contemporary architecture"
+                ],
+                "correct": "a"
+            },
+            {
+                "question": "What activities are recommended in New Zealand as per the text?",
+                "options": [
+                    "A. Relaxing on the beaches and visiting cultural landmarks",
+                    "B. Skiing, surfing, and hiking in natural areas",
+                    "C. Exploring historical sites and enjoying local cuisine",
+                    "D. Attending tech conferences and shopping in urban centers"
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "What unique feature of the Maldives makes it a popular destination for relaxation?",
+                "options": [
+                    "A. Its historical sites and cultural heritage",
+                    "B. Its white sandy beaches and turquoise waters",
+                    "C. Its advanced technological infrastructure",
+                    "D. Its vibrant city life and shopping options"
+                ],
+                "correct": "b"
+            }
+        ]
+    }
+,
+       "Tourist Attractions": {
+        "text": "تعتبر المعالم السياحية من أبرز عوامل الجذب التي تدفع الناس للسفر واستكشاف أماكن جديدة. فهي تجسد التراث الثقافي والتاريخي، وتقدم تجارب فريدة لكل من يزورها. من المعمار الرائع إلى المناظر الطبيعية الخلابة، إليك نظرة على بعض من أبرز المعالم السياحية حول العالم: 1. برج إيفل، باريس: يُعد برج إيفل أحد أشهر المعالم السياحية في العالم. بني في عام 1889 كمدخل لمعرض باريس العالمي، ويستمر في جذب ملايين الزوار سنوياً. يرتفع البرج إلى ارتفاع 324 متراً ويوفر إطلالات بانورامية رائعة على مدينة باريس. 2. الكولوسيوم، روما: الكولوسيوم هو معلم تاريخي بارز في قلب روما القديمة. تم بناء هذا المدرج الضخم في القرن الأول الميلادي وكان يستخدم للمباريات والمصارعات. يتميز بتصميمه الهندسي المدهش ويعتبر رمزاً لروعة الإمبراطورية الرومانية. 3. معبد سينسوجي، طوكيو: يعد معبد سينسوجي أقدم معبد بوذي في طوكيو ويُعد من أبرز المعالم السياحية في المدينة. يُعرف هذا المعبد بجوه الروحي ومعماره التقليدي، ويجذب الزوار للتعرف على الثقافة اليابانية والتقاليد الدينية. 4. تمثال الحرية، نيويورك: يُعتبر تمثال الحرية رمزاً للحرية والديمقراطية. يقع على جزيرة في ميناء نيويورك، وقد تم تقديمه كهدية من فرنسا إلى الولايات المتحدة في عام 1886. يعد التمثال من المعالم البارزة التي يستمتع الزوار بجولات حوله ويستعرضون مناظره الخلابة. 5. ماتشو بيتشو، بيرو: ماتشو بيتشو هو موقع أثري يعود إلى حضارة الإنكا ويقع في جبال الأنديز. يتميز بمعمار فريد ومناظر طبيعية خلابة، وقد أصبح من عجائب العالم السبع الحديثة. يُعد هذا الموقع وجهة مثالية لمحبي التاريخ والمغامرة. 6. تاج محل، الهند: تاج محل هو معلم معماري رائع شُيد من الرخام الأبيض ويُعتبر رمزاً للحب الخالص. بني في القرن السابع عشر بأمر من الإمبراطور المغولي شاه جهان كضريح لزوجته المفضلة. يتميز بتصميمه الفريد وحدائقه الجميلة. 7. سور الصين العظيم، الصين: سور الصين العظيم هو أحد أكبر المشاريع العمرانية في تاريخ البشرية. يمتد على آلاف الكيلومترات ويعكس قوة الصين القديمة في الدفاع عن أراضيها. يتيح للسياح تجربة تسلق أجزائه واستكشاف تاريخه العريق. 8. شلالات نياجارا، كندا والولايات المتحدة: تُعتبر شلالات نياجارا واحدة من أكثر الشلالات شهرة في العالم. تقع على الحدود بين كندا والولايات المتحدة، وتتميز بقوة تدفقها وتكوينها الرائع، مما يجعلها وجهة مفضلة للمصورين وعشاق الطبيعة.",
+        "script": "Tourist attractions are among the most compelling reasons for people to travel and explore new places. They embody cultural and historical heritage and offer unique experiences for those who visit them. From stunning architecture to breathtaking natural landscapes, here’s a look at some of the top tourist attractions around the world: 1. Eiffel Tower, Paris: The Eiffel Tower is one of the most famous tourist attractions in the world. Built in 1889 as an entrance to the Paris Exposition, it continues to attract millions of visitors annually. The tower rises to a height of 324 meters and provides spectacular panoramic views of Paris. 2. Colosseum, Rome: The Colosseum is a prominent historical landmark in the heart of ancient Rome. This massive amphitheater was built in the first century AD and was used for gladiatorial games and contests. It features impressive architectural design and is considered a symbol of the grandeur of the Roman Empire. 3. Sensoji Temple, Tokyo: Sensoji Temple is the oldest Buddhist temple in Tokyo and is one of the city's top tourist attractions. Known for its spiritual ambiance and traditional architecture, this temple attracts visitors to experience Japanese culture and religious traditions. 4. Statue of Liberty, New York: The Statue of Liberty is a symbol of freedom and democracy. Located on an island in New York Harbor, it was a gift from France to the United States in 1886. The statue is a prominent landmark where visitors enjoy tours and view its stunning vistas. 5. Machu Picchu, Peru: Machu Picchu is an archaeological site of the Inca civilization located in the Andes Mountains. It features unique architecture and breathtaking landscapes and has become one of the New Seven Wonders of the World. This site is a perfect destination for history enthusiasts and adventure seekers. 6. Taj Mahal, India: The Taj Mahal is a magnificent architectural landmark built of white marble and is a symbol of pure love. Constructed in the 17th century by Mughal Emperor Shah Jahan as a mausoleum for his favorite wife, it is known for its unique design and beautiful gardens. 7. Great Wall of China, China: The Great Wall of China is one of the largest construction projects in human history. Stretching over thousands of kilometers, it reflects ancient China's strength in defending its territory. It allows tourists to climb sections and explore its rich history. 8. Niagara Falls, Canada and the United States: Niagara Falls is one of the most famous waterfalls in the world. Located on the border between Canada and the United States, it is known for its powerful flow and stunning formation, making it a favorite destination for photographers and nature lovers.",
+        "vocabulary": [
+            {"arabic": "معالم سياحية", "english": "tourist attractions"},
+            {"arabic": "الجذب", "english": "attraction"},
+            {"arabic": "تراث", "english": "heritage"},
+            {"arabic": "معمار", "english": "architecture"},
+            {"arabic": "مناظر طبيعية", "english": "natural landscapes"},
+            {"arabic": "برج إيفل", "english": "Eiffel Tower"},
+            {"arabic": "الكولوسيوم", "english": "Colosseum"},
+            {"arabic": "معبد سينسوجي", "english": "Sensoji Temple"},
+            {"arabic": "تمثال الحرية", "english": "Statue of Liberty"},
+            {"arabic": "ماتشو بيتشو", "english": "Machu Picchu"},
+            {"arabic": "تاج محل", "english": "Taj Mahal"},
+            {"arabic": "سور الصين العظيم", "english": "Great Wall of China"},
+            {"arabic": "شلالات نياجارا", "english": "Niagara Falls"},
+            {"arabic": "تجارب", "english": "experiences"},
+            {"arabic": "معالم", "english": "landmarks"},
+            {"arabic": "حالة", "english": "condition"}
+        ],
+        "questions": [
+            {
+                "question": "What is a common characteristic of the tourist attractions mentioned in the text?",
+                "options": [
+                    "A. They are all located in urban areas.",
+                    "B. They each represent a significant aspect of cultural or historical heritage.",
+                    "C. They are primarily known for their modern architecture.",
+                    "D. They all offer similar recreational activities."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "Which landmark is known for its role in ancient entertainment and public spectacles?",
+                "options": [
+                    "A. Taj Mahal",
+                    "B. Colosseum",
+                    "C. Statue of Liberty",
+                    "D. Sensoji Temple"
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "How does the text describe the architectural and historical significance of Machu Picchu?",
+                "options": [
+                    "A. It is a modern city renowned for its technological advancements.",
+                    "B. It is an archaeological site with unique Incan architecture and stunning natural beauty.",
+                    "C. It is a contemporary structure symbolizing modern architecture.",
+                    "D. It is a historical landmark primarily known for its maritime history."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "What aspect of the Great Wall of China is highlighted in the text?",
+                "options": [
+                    "A. Its modern renovation and technological features",
+                    "B. Its extensive length and historical role in defense",
+                    "C. Its role as a cultural symbol in contemporary China",
+                    "D. Its popularity as a tourist shopping destination"
+                ],
+                "correct": "b"
+            }
+        ]
+    }
+},
     "Economic Policies": {
-        "Monetary Policies": {
-            "text": "This is the text for the Monetary Policies lesson.",
-            "script": "This is the script for the Monetary Policies lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 31", "english": "Meaning 31"},
-                {"arabic": "كلمة 32", "english": "Meaning 32"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "a"
-                }
-            ]
-        },
-        "Fiscal Policies": {
-            "text": "This is the text for the Fiscal Policies lesson.",
-            "script": "This is the script for the Fiscal Policies lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 33", "english": "Meaning 33"},
-                {"arabic": "كلمة 34", "english": "Meaning 34"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "b"
-                }
-            ]
-        },
+       "Monetary Policies": {
+        "text": "تعتبر السياسات الاقتصادية والسياسات النقدية من الأدوات الأساسية التي تستخدمها الحكومات والبنوك المركزية لتحقيق الاستقرار والنمو الاقتصادي. تلعب هذه السياسات دوراً مهماً في تشكيل اقتصاد الدول وتأثيرها على الحياة اليومية للأفراد والشركات. السياسات الاقتصادية تشمل السياسات الاقتصادية مجموعة من التدابير التي تتخذها الحكومات لتحقيق أهداف اقتصادية محددة، مثل تعزيز النمو الاقتصادي، وتقليل البطالة، وتحقيق الاستقرار المالي. تنقسم السياسات الاقتصادية إلى نوعين رئيسيين: السياسات المالية والسياسات النقدية. السياسات المالية: الإنفاق الحكومي: تشير إلى كيفية استخدام الحكومة للموارد المالية لتمويل البرامج والمشاريع العامة مثل البنية التحتية والتعليم والرعاية الصحية. يمكن أن يؤدي زيادة الإنفاق الحكومي إلى تحفيز النمو الاقتصادي، لكنه قد يسبب أيضاً زيادة في الدين العام. الضرائب: تشمل تحديد مستويات الضرائب وتعديلها. يمكن للحكومات استخدام الضرائب للتأثير على الاقتصاد من خلال زيادة الإيرادات أو تحفيز الإنفاق الاستهلاكي والاستثماري. تخفيض الضرائب يمكن أن يزيد من الدخل المتاح للأفراد والشركات، مما يعزز النمو الاقتصادي. السياسات النقدية: البنك المركزي: هو المؤسسة المسؤولة عن إدارة السياسات النقدية، والتي تتضمن التحكم في العرض النقدي وأسعار الفائدة. يهدف البنك المركزي إلى تحقيق استقرار الأسعار، والحفاظ على النمو الاقتصادي المستدام، واستقرار النظام المالي. أسعار الفائدة: تعد أسعار الفائدة أداة رئيسية في السياسة النقدية. من خلال تعديل أسعار الفائدة، يمكن للبنك المركزي التأثير على تكلفة الاقتراض والاستثمار، مما يؤثر على النشاط الاقتصادي. زيادة أسعار الفائدة يمكن أن يبطئ النمو الاقتصادي ويقلل التضخم، بينما خفضها يمكن أن يعزز النمو الاقتصادي ويزيد من الاستهلاك والاستثمار.",
+        "script": "Economic policies and monetary policies are fundamental tools used by governments and central banks to achieve economic stability and growth. These policies play a significant role in shaping the economies of countries and influencing the daily lives of individuals and businesses. Economic policies include a set of measures taken by governments to achieve specific economic goals, such as promoting economic growth, reducing unemployment, and ensuring financial stability. Economic policies are divided into two main types: fiscal policies and monetary policies. Fiscal Policies: Government Spending: Refers to how the government uses financial resources to fund public programs and projects such as infrastructure, education, and healthcare. Increasing government spending can stimulate economic growth but may also lead to an increase in public debt. Taxes: Involves setting and adjusting tax levels. Governments can use taxes to influence the economy by increasing revenues or stimulating consumer and investment spending. Reducing taxes can increase disposable income for individuals and businesses, thereby enhancing economic growth. Monetary Policies: Central Bank: Is the institution responsible for managing monetary policies, which include controlling the money supply and interest rates. The central bank aims to achieve price stability, maintain sustainable economic growth, and ensure financial system stability. Interest Rates: Are a key tool in monetary policy. By adjusting interest rates, the central bank can affect the cost of borrowing and investing, which influences economic activity. Increasing interest rates can slow economic growth and reduce inflation, while lowering them can boost economic growth and increase consumption and investment.",
+        "vocabulary": [
+            {"arabic": "السياسات الاقتصادية", "english": "economic policies"},
+            {"arabic": "السياسات النقدية", "english": "monetary policies"},
+            {"arabic": "الاستقرار", "english": "stability"},
+            {"arabic": "النمو الاقتصادي", "english": "economic growth"},
+            {"arabic": "الإنفاق الحكومي", "english": "government spending"},
+            {"arabic": "الضرائب", "english": "taxes"},
+            {"arabic": "البنك المركزي", "english": "central bank"},
+            {"arabic": "أسعار الفائدة", "english": "interest rates"},
+            {"arabic": "الاستثمار", "english": "investment"},
+            {"arabic": "التضخم", "english": "inflation"},
+            {"arabic": "الدين العام", "english": "public debt"},
+            {"arabic": "الاحتياطيات", "english": "reserves"}
+        ],
+        "questions": [
+            {
+                "question": "How do fiscal policies differ from monetary policies according to the text?",
+                "options": [
+                    "A. Fiscal policies involve government spending and taxation, while monetary policies involve managing the money supply and interest rates.",
+                    "B. Fiscal policies focus on regulating financial markets, while monetary policies focus on increasing public debt.",
+                    "C. Fiscal policies are implemented by the central bank, while monetary policies are managed by the government.",
+                    "D. Fiscal policies are concerned with international trade, while monetary policies are related to domestic labor markets."
+                ],
+                "correct": "a"
+            },
+            {
+                "question": "What role does the central bank play in economic stability as described in the text?",
+                "options": [
+                    "A. It regulates international trade policies and tariffs.",
+                    "B. It manages the money supply and sets interest rates to achieve price stability and sustainable economic growth.",
+                    "C. It monitors corporate financial statements and tax compliance.",
+                    "D. It controls government spending on public projects and services."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "What effect does increasing government spending typically have on the economy according to the text?",
+                "options": [
+                    "A. It always leads to a decrease in public debt.",
+                    "B. It can stimulate economic growth but may also increase public debt.",
+                    "C. It primarily focuses on reducing inflation.",
+                    "D. It decreases the amount of available financial resources in the market."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "Why might a central bank decide to lower interest rates based on the text?",
+                "options": [
+                    "A. To decrease the level of consumer spending and investment.",
+                    "B. To encourage borrowing, investment, and economic growth.",
+                    "C. To increase the rate of inflation and public debt.",
+                    "D. To limit government expenditures on infrastructure projects."
+                ],
+                "correct": "b"
+            }
+        ]
+    }
+,
+       "Fiscal Policies": {
+        "text": "تعتبر السياسات المالية أدوات أساسية تستخدمها الحكومات لإدارة الاقتصاد الوطني، وتحقيق الأهداف الاقتصادية الكلية مثل النمو الاقتصادي، والاستقرار المالي، وتقليل البطالة، وتحقيق العدالة الاجتماعية. تشمل السياسات المالية مجموعة من التدابير التي تتخذها الحكومة المتعلقة بالإنفاق الحكومي والضرائب. 1. الإنفاق الحكومي: الإنفاق الحكومي هو المبالغ التي تقوم الحكومة بصرفها على مشاريع وبرامج مختلفة مثل البنية التحتية، والتعليم، والرعاية الصحية، والدفاع، والخدمات العامة. يعد الإنفاق الحكومي أداة قوية للتأثير على الاقتصاد، حيث يمكن أن يسهم في: تحفيز النمو الاقتصادي: من خلال استثمار الأموال في مشاريع بنية تحتية أو تطوير قطاعات حيوية، يمكن للحكومة تعزيز النشاط الاقتصادي وخلق فرص عمل جديدة. تصحيح اختلالات اقتصادية: في فترات الركود أو الأزمات الاقتصادية، يمكن للإنفاق الحكومي أن يساعد في دعم الطلب الكلي وتحفيز النمو، وذلك بتوفير التمويل اللازم للأعمال والخدمات العامة. تحقيق التنمية الإقليمية: من خلال توجيه الاستثمارات إلى المناطق الأقل نمواً، يمكن للإنفاق الحكومي أن يساهم في تحقيق توازن تنموي على مستوى البلاد. 2. الضرائب: تشمل الضرائب المبالغ التي تجمعها الحكومة من الأفراد والشركات كجزء من إيراداتها. تلعب الضرائب دوراً مهماً في السياسات المالية، حيث يمكن أن تؤثر على الاقتصاد من خلال: تمويل الأنشطة الحكومية: توفر الضرائب الأموال اللازمة لتمويل البرامج والخدمات العامة، مما يمكن الحكومة من تحقيق أهدافها التنموية. توجيه السلوك الاقتصادي: يمكن للحكومة استخدام الضرائب لتشجيع أو تثبيط بعض الأنشطة الاقتصادية. على سبيل المثال، يمكن تخفيض الضرائب على الاستثمار في التكنولوجيا لتعزيز الابتكار، أو زيادة الضرائب على التبغ للحد من استهلاكه. تحقيق العدالة الاجتماعية: يمكن أن تُستخدم الضرائب لتحقيق التوزيع العادل للثروات، حيث يتم فرض ضرائب تصاعدية على الأفراد ذوي الدخل المرتفع وتمويل برامج الدعم الاجتماعي للفئات الأكثر احتياجاً.",
+        "script": "Fiscal policies are essential tools used by governments to manage the national economy and achieve macroeconomic goals such as economic growth, financial stability, reducing unemployment, and ensuring social justice. Fiscal policies encompass a range of measures taken by the government related to government spending and taxation. 1. Government Spending: Government spending refers to the amounts spent by the government on various projects and programs such as infrastructure, education, healthcare, defense, and public services. Government spending is a powerful tool for influencing the economy and can contribute to: Stimulating Economic Growth: By investing money in infrastructure projects or developing vital sectors, the government can enhance economic activity and create new job opportunities. Correcting Economic Imbalances: During periods of recession or economic crises, government spending can help support aggregate demand and stimulate growth by providing necessary funding for businesses and public services. Achieving Regional Development: By directing investments to less developed areas, government spending can contribute to achieving developmental balance across the country. 2. Taxes: Taxes refer to the amounts collected by the government from individuals and businesses as part of its revenue. Taxes play an important role in fiscal policies and can affect the economy by: Financing Government Activities: Taxes provide the necessary funds to finance public programs and services, enabling the government to achieve its developmental goals. Guiding Economic Behavior: The government can use taxes to encourage or discourage certain economic activities. For example, reducing taxes on investment in technology can promote innovation, or increasing taxes on tobacco can reduce its consumption. Achieving Social Justice: Taxes can be used to achieve equitable distribution of wealth by imposing progressive taxes on higher-income individuals and funding social support programs for those in greater need.",
+        "vocabulary": [
+            {"arabic": "السياسات المالية", "english": "fiscal policies"},
+            {"arabic": "الإنفاق الحكومي", "english": "government spending"},
+            {"arabic": "الضرائب", "english": "taxes"},
+            {"arabic": "النمو الاقتصادي", "english": "economic growth"},
+            {"arabic": "الاستقرار المالي", "english": "financial stability"},
+            {"arabic": "العدالة الاجتماعية", "english": "social justice"},
+            {"arabic": "اختلالات اقتصادية", "english": "economic imbalances"},
+            {"arabic": "التنمية الإقليمية", "english": "regional development"},
+            {"arabic": "التمويل", "english": "financing"},
+            {"arabic": "توجيه السلوك الاقتصادي", "english": "guiding economic behavior"},
+            {"arabic": "البرامج الاجتماعية", "english": "social programs"},
+            {"arabic": "الاستثمار في التكنولوجيا", "english": "investment in technology"}
+        ],
+        "questions": [
+            {
+                "question": "How does government spending contribute to economic growth according to the text?",
+                "options": [
+                    "A. By increasing taxes on businesses.",
+                    "B. By investing in infrastructure projects and vital sectors, thereby enhancing economic activity and creating job opportunities.",
+                    "C. By reducing public debt through higher tax revenues.",
+                    "D. By limiting government expenditures to essential services only."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "In what way can government spending help correct economic imbalances during a recession?",
+                "options": [
+                    "A. By increasing interest rates to control inflation.",
+                    "B. By providing funding for businesses and public services to support aggregate demand.",
+                    "C. By cutting taxes to reduce government revenue.",
+                    "D. By reducing investment in public infrastructure."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "What role do taxes play in achieving social justice as described in the text?",
+                "options": [
+                    "A. Taxes are used to provide subsidies to large corporations.",
+                    "B. Taxes are used to achieve equitable distribution of wealth by imposing progressive taxes on higher-income individuals and funding social support programs.",
+                    "C. Taxes are primarily used to increase government debt.",
+                    "D. Taxes are used to limit the government's spending on social programs."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "How can taxes influence economic behavior according to the text?",
+                "options": [
+                    "A. By increasing the cost of borrowing for businesses.",
+                    "B. By encouraging or discouraging certain economic activities, such as promoting innovation through tax reductions on technology investments or reducing tobacco consumption through higher taxes.",
+                    "C. By limiting access to public services.",
+                    "D. By controlling the supply of money in the economy."
+                ],
+                "correct": "b"
+            }
+        ]
+    }
+,
         "Economic Theories": {
-            "text": "This is the text for the Economic Theories lesson.",
-            "script": "This is the script for the Economic Theories lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 35", "english": "Meaning 35"},
-                {"arabic": "كلمة 36", "english": "Meaning 36"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "c"
-                }
-            ]
-        }
-    },
+        "text": "النظريات الاقتصادية هي مجموعة من الأفكار والمفاهيم التي تسعى إلى تفسير كيفية عمل الاقتصاد وتحديد كيفية تأثير السياسات الاقتصادية على النشاط الاقتصادي. تعتبر هذه النظريات أساساً لفهم السلوك الاقتصادي للأفراد والشركات، وتساعد في توجيه السياسات العامة والقرارات الاقتصادية. سنستعرض في هذا النص بعضاً من أبرز النظريات الاقتصادية: 1. النظرية الكينزية: تعتبر النظرية الكينزية، التي طوّرها الاقتصادي البريطاني جون ماينارد كينز خلال فترة الكساد الكبير في الثلاثينيات، من النظريات الاقتصادية الأساسية. تُركز النظرية على دور الطلب الكلي في تحديد مستوى النشاط الاقتصادي. وفقاً للكينزية: الطلب الكلي: هو المحرك الأساسي للنمو الاقتصادي. في حالات الركود، يمكن للحكومة تعزيز الطلب الكلي من خلال زيادة الإنفاق الحكومي وتخفيض الضرائب. السياسة المالية: تُعتبر أداة فعالة لتحفيز الاقتصاد. تتطلب النظرية أن تتدخل الحكومة بشكل نشط لضبط الاقتصاد وتخفيف الأزمات الاقتصادية. 2. النظرية الكلاسيكية: تُعد النظرية الكلاسيكية، التي بدأت مع أعمال آدم سميث في القرن الثامن عشر، واحدة من أقدم النظريات الاقتصادية. تشدد النظرية على أن: الأسواق تعمل بشكل فعال: من خلال قوى العرض والطلب، تعمل الأسواق على تحقيق التوازن وتوزيع الموارد بكفاءة. اليد الخفية: يشير مفهوم \"اليد الخفية\" إلى أن الأفراد الذين يسعون لتحقيق مصالحهم الشخصية يساهمون بشكل غير مباشر في تحقيق الخير العام. توازن السوق: يتجه الاقتصاد نحو التوازن تلقائياً دون الحاجة لتدخل حكومي كبير.",
+        "script": "Economic theories are a set of ideas and concepts that aim to explain how the economy works and how economic policies affect economic activity. These theories form the basis for understanding the economic behavior of individuals and businesses and help guide public policies and economic decisions. Here we review some of the major economic theories: 1. Keynesian Theory: Developed by British economist John Maynard Keynes during the Great Depression in the 1930s, Keynesian theory is one of the foundational economic theories. It focuses on the role of aggregate demand in determining the level of economic activity. According to Keynesian theory: Aggregate Demand: This is the primary driver of economic growth. In times of recession, the government can boost aggregate demand through increased government spending and tax cuts. Fiscal Policy: This is considered an effective tool for stimulating the economy. The theory requires that the government actively intervene to regulate the economy and alleviate economic crises. 2. Classical Theory: Classical theory, which began with the works of Adam Smith in the 18th century, is one of the oldest economic theories. The theory emphasizes that: Markets Operate Efficiently: Through the forces of supply and demand, markets achieve equilibrium and allocate resources efficiently. The Invisible Hand: The concept of the 'invisible hand' suggests that individuals pursuing their personal interests indirectly contribute to the public good. Market Equilibrium: The economy tends toward equilibrium automatically without the need for significant government intervention.",
+        "vocabulary": [
+            {"arabic": "النظريات الاقتصادية", "english": "economic theories"},
+            {"arabic": "الطلب الكلي", "english": "aggregate demand"},
+            {"arabic": "السياسة المالية", "english": "fiscal policy"},
+            {"arabic": "الركود", "english": "recession"},
+            {"arabic": "الإنفاق الحكومي", "english": "government spending"},
+            {"arabic": "الضرائب", "english": "taxes"},
+            {"arabic": "الأسواق", "english": "markets"},
+            {"arabic": "قوى العرض والطلب", "english": "supply and demand forces"},
+            {"arabic": "اليد الخفية", "english": "invisible hand"},
+            {"arabic": "توازن السوق", "english": "market equilibrium"},
+            {"arabic": "التدخل الحكومي", "english": "government intervention"},
+            {"arabic": "النمو الاقتصادي", "english": "economic growth"}
+        ],
+        "questions": [
+            {
+                "question": "According to Keynesian theory, how can government spending affect economic growth during a recession?",
+                "options": [
+                    "A. By reducing the amount of money in circulation.",
+                    "B. By increasing aggregate demand through higher government spending and tax cuts.",
+                    "C. By raising interest rates to control inflation.",
+                    "D. By restricting government expenditure to essential services only."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "What does the 'invisible hand' concept in Classical theory suggest about individual economic behavior?",
+                "options": [
+                    "A. It suggests that individuals pursuing their own interests can lead to market inefficiencies.",
+                    "B. It implies that government intervention is necessary to ensure market efficiency.",
+                    "C. It indicates that individuals acting in their own interest can unintentionally contribute to the public good.",
+                    "D. It argues that market outcomes are solely driven by government policies."
+                ],
+                "correct": "c"
+            },
+            {
+                "question": "How does Classical theory view the role of markets in achieving economic equilibrium?",
+                "options": [
+                    "A. Markets need constant government regulation to maintain equilibrium.",
+                    "B. Markets automatically tend towards equilibrium without significant government intervention.",
+                    "C. Markets require external forces to correct imbalances.",
+                    "D. Markets are inefficient and need continuous oversight to function properly."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "What is a primary focus of Keynesian theory in terms of economic activity?",
+                "options": [
+                    "A. Ensuring that markets operate without any form of government regulation.",
+                    "B. Emphasizing the role of aggregate demand in determining economic activity levels.",
+                    "C. Advocating for minimal government involvement in economic matters.",
+                    "D. Focusing on the efficiency of supply and demand forces without considering government policies."
+                ],
+                "correct": "b"
+            }
+        ]
+    }
+},
     "Political Issues": {
         "Government Structures": {
-            "text": "This is the text for the Government Structures lesson.",
-            "script": "This is the script for the Government Structures lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 37", "english": "Meaning 37"},
-                {"arabic": "كلمة 38", "english": "Meaning 38"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "a"
-                }
-            ]
-        },
-        "Political Parties": {
-            "text": "This is the text for the Political Parties lesson.",
-            "script": "This is the script for the Political Parties lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 39", "english": "Meaning 39"},
-                {"arabic": "كلمة 40", "english": "Meaning 40"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "b"
-                }
-            ]
-        },
-        "Election Processes": {
-            "text": "This is the text for the Election Processes lesson.",
-            "script": "This is the script for the Election Processes lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 41", "english": "Meaning 41"},
-                {"arabic": "كلمة 42", "english": "Meaning 42"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "c"
-                }
-            ]
-        }
+        "text": "تُعتبر هياكل الحكومة الأساس الذي يُنظم كيفية إدارة الدول وتوزيع السلطة بين مختلف مؤسسات الدولة. تختلف هياكل الحكومات من دولة إلى أخرى بناءً على نظمها السياسية وتاريخها الثقافي، لكن جميعها تسعى إلى تحقيق أهداف مشتركة مثل الاستقرار السياسي، وتنفيذ القوانين، وتقديم الخدمات العامة. سنستعرض في هذا النص الأنواع الرئيسية لهياكل الحكومة والخصائص الأساسية لكل منها: 1. النظام الرئاسي: في النظام الرئاسي، يكون رئيس الدولة هو رئيس الحكومة أيضاً، ويجمع بين السلطة التنفيذية والسلطة التنفيذية. يتميز هذا النظام بعدة خصائص: تركيز السلطة: يتولى الرئيس السلطة التنفيذية ويكون له دور كبير في صنع القرار، وهو غالباً ما يكون رئيساً للدولة والحكومة. الانتخاب المباشر: يُنتخب الرئيس مباشرة من قبل الشعب، مما يعزز الشرعية الشعبية لقيادته. استقلالية السلطة: يضمن النظام الرئاسي استقلالية السلطة التنفيذية عن السلطة التشريعية، مما يعزز الفصل بين السلطات ويقلل من احتمال حدوث تجاوزات. 2. النظام البرلماني: في النظام البرلماني، يكون رئيس الحكومة هو المسؤول عن تنفيذ السياسات ويُنتخب من قبل البرلمان. يتميز هذا النظام بخصائص مثل: تفويض السلطة: رئيس الحكومة هو قائد الحزب أو الائتلاف الذي يمتلك أغلبية في البرلمان. يقوم بتشكيل الحكومة وتنفيذ السياسات بناءً على دعم البرلمان. المرونة السياسية: يمكن للبرلمان سحب الثقة من الحكومة، مما يؤدي إلى استقالتها أو إجراء انتخابات جديدة. هذا يعزز المسؤولية السياسية للحكومة. التمثيل المباشر: يعكس النظام البرلماني التنوع السياسي من خلال تمثيل الأحزاب المختلفة في البرلمان.",
+        "script": "Government structures form the foundation for how countries are managed and how power is distributed among various state institutions. Government structures vary from country to country based on their political systems and cultural history, but they all aim to achieve common goals such as political stability, law enforcement, and public service delivery. This text reviews the main types of government structures and their key characteristics: 1. Presidential System: In a presidential system, the head of state is also the head of government, combining executive and legislative powers. This system is characterized by: Concentration of Power: The president holds executive power and plays a significant role in decision-making, often serving as both the head of state and government. Direct Election: The president is elected directly by the people, which enhances the legitimacy of their leadership. Separation of Powers: The presidential system ensures the independence of the executive branch from the legislative branch, promoting checks and balances and reducing the risk of overreach. 2. Parliamentary System: In a parliamentary system, the head of government is responsible for implementing policies and is elected by the parliament. This system is characterized by: Delegated Authority: The head of government is the leader of the party or coalition that holds a majority in parliament. They form the government and implement policies based on parliamentary support. Political Flexibility: Parliament can withdraw confidence from the government, leading to its resignation or new elections. This enhances the government's political accountability. Direct Representation: The parliamentary system reflects political diversity by representing various parties in the parliament.",
+        "vocabulary": [
+            {"arabic": "السلطة التنفيذية", "english": "executive authority"},
+            {"arabic": "السلطة التشريعية", "english": "legislative authority"},
+            {"arabic": "الانتخاب المباشر", "english": "direct election"},
+            {"arabic": "استقلالية السلطة", "english": "separation of powers"},
+            {"arabic": "تفويض السلطة", "english": "delegated authority"},
+            {"arabic": "المرونة السياسية", "english": "political flexibility"},
+            {"arabic": "التمثيل المباشر", "english": "direct representation"},
+            {"arabic": "الاستقرار السياسي", "english": "political stability"},
+            {"arabic": "تنفيذ القوانين", "english": "law enforcement"},
+            {"arabic": "الخدمات العامة", "english": "public service"}
+        ],
+        "questions": [
+            {
+                "question": "In a presidential system, what is the role of the president in relation to executive and legislative powers?",
+                "options": [
+                    "A. The president holds only legislative power and is elected by parliament.",
+                    "B. The president combines both executive and legislative powers and is elected directly by the people.",
+                    "C. The president is limited to ceremonial duties with no real power.",
+                    "D. The president acts as a neutral mediator between the executive and legislative branches."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "What characteristic of the parliamentary system allows for political flexibility?",
+                "options": [
+                    "A. The direct election of the head of government.",
+                    "B. The ability of the parliament to withdraw confidence from the government.",
+                    "C. The separation of executive and legislative powers.",
+                    "D. The concentration of power in the executive branch."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "How does the presidential system ensure the separation of powers?",
+                "options": [
+                    "A. By allowing the executive branch to oversee the legislative process.",
+                    "B. By keeping the executive branch independent from the legislative branch.",
+                    "C. By enabling the legislative branch to control executive appointments.",
+                    "D. By merging executive and legislative responsibilities into a single office."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "What does 'direct representation' in a parliamentary system mean?",
+                "options": [
+                    "A. The parliament has direct control over executive decisions.",
+                    "B. Various political parties are represented directly in parliament, reflecting political diversity.",
+                    "C. Citizens directly elect their representatives to the executive branch.",
+                    "D. The government is appointed based on recommendations from external bodies."
+                ],
+                "correct": "b"
+            }
+        ]
+    }
+,
+       "Political Parties": {
+        "text": "تتنوع الأحزاب السياسية بناءً على أيديولوجياتها وأهدافها، ومن أبرز الأنواع: 1. الأحزاب الليبرالية: تركز على حرية الأفراد، وحقوق الإنسان، وتعزيز الاقتصاد الحر. تسعى هذه الأحزاب إلى تقليص دور الدولة في الاقتصاد وتعزيز دور السوق. 2. الأحزاب اليسارية: تهدف إلى تحقيق العدالة الاجتماعية والمساواة من خلال زيادة تدخل الدولة في الاقتصاد، وتقديم برامج اجتماعية تهدف إلى دعم الفئات الضعيفة. 3. الأحزاب اليمينية: تركز على الحفاظ على القيم التقليدية، وتعزيز الأمن الوطني، وقد تدعو إلى تقليل دور الدولة في بعض المجالات الاجتماعية. 4. الأحزاب الخضراء: تركز على قضايا البيئة والتنمية المستدامة، وتسعى إلى معالجة التحديات البيئية من خلال سياسات تحمي البيئة وتعزز الاستدامة. 5. الأحزاب القومية: تسعى إلى تعزيز مصالح القومية أو الهوية الوطنية الخاصة بشعب معين، وقد تركز على تعزيز الثقافة، واللغة، والتقاليد القومية. 6. الأحزاب الاشتراكية: تروج للملكية الجماعية أو العامة لوسائل الإنتاج، وتسعى لتحقيق توزيع عادل للثروات وتحقيق العدالة الاجتماعية.",
+        "script": "Political parties vary based on their ideologies and goals. Some of the main types include: 1. Liberal Parties: Focus on individual freedom, human rights, and promoting a free market economy. They aim to reduce the state's role in the economy and enhance the role of the market. 2. Leftist Parties: Seek to achieve social justice and equality by increasing state intervention in the economy and providing social programs to support vulnerable groups. 3. Right-Wing Parties: Emphasize preserving traditional values, enhancing national security, and may advocate reducing the state's role in certain social areas. 4. Green Parties: Focus on environmental issues and sustainable development, aiming to address environmental challenges through policies that protect the environment and promote sustainability. 5. Nationalist Parties: Strive to promote the interests or national identity of a specific people, focusing on enhancing culture, language, and national traditions. 6. Socialist Parties: Advocate for collective or public ownership of the means of production, aiming for fair distribution of wealth and social justice.",
+        "vocabulary": [
+            {"arabic": "الأحزاب الليبرالية", "english": "liberal parties"},
+            {"arabic": "الأحزاب اليسارية", "english": "leftist parties"},
+            {"arabic": "الأحزاب اليمينية", "english": "right-wing parties"},
+            {"arabic": "الأحزاب الخضراء", "english": "green parties"},
+            {"arabic": "الأحزاب القومية", "english": "nationalist parties"},
+            {"arabic": "الأحزاب الاشتراكية", "english": "socialist parties"},
+            {"arabic": "العدالة الاجتماعية", "english": "social justice"},
+            {"arabic": "الاقتصاد الحر", "english": "free market economy"},
+            {"arabic": "التنمية المستدامة", "english": "sustainable development"},
+            {"arabic": "الملكية الجماعية", "english": "collective ownership"}
+        ],
+        "questions": [
+            {
+                "question": "Which party type is most likely to advocate for reducing state intervention in social welfare programs?",
+                "options": [
+                    "A. Socialist Parties",
+                    "B. Green Parties",
+                    "C. Right-Wing Parties",
+                    "D. Leftist Parties"
+                ],
+                "correct": "c"
+            },
+            {
+                "question": "In what way do socialist parties typically differ from liberal parties in their approach to economic policy?",
+                "options": [
+                    "A. Socialist parties support increased private sector involvement, while liberal parties advocate for collective ownership.",
+                    "B. Socialist parties advocate for collective ownership of production, whereas liberal parties promote a free market economy.",
+                    "C. Socialist parties emphasize environmental sustainability, while liberal parties focus on social justice.",
+                    "D. Socialist parties reduce state intervention in the economy, unlike liberal parties which support it."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "Which type of party is most likely to focus on policies aimed at enhancing environmental protection and sustainability?",
+                "options": [
+                    "A. Right-Wing Parties",
+                    "B. Green Parties",
+                    "C. Nationalist Parties",
+                    "D. Liberal Parties"
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "How do nationalist parties generally differ from leftist parties in terms of their focus and policy objectives?",
+                "options": [
+                    "A. Nationalist parties focus on social justice, while leftist parties emphasize national identity.",
+                    "B. Nationalist parties seek to enhance national culture and identity, whereas leftist parties aim for social justice and equality.",
+                    "C. Nationalist parties support free market economics, while leftist parties advocate for collective ownership.",
+                    "D. Nationalist parties prioritize environmental issues, while leftist parties focus on reducing state intervention."
+                ],
+                "correct": "b"
+            }
+        ]
     },
+    "Election Processes": {
+        "text": "تُعتبر الانتخابات من أبرز المظاهر الديمقراطية التي تتيح للمواطنين المشاركة في اختيار قياداتهم وصنع القرارات السياسية. تعد عملية الانتخابات جوهرية في أنظمة الحكم الديمقراطية، حيث تضمن تمثيل إرادة الشعب وتساهم في استقرار النظام السياسي. سنستعرض في هذا النص مراحل عملية الانتخابات، وأهمية كل مرحلة، والتحديات المرتبطة بها. 1. التحضير للانتخابات: تبدأ عملية الانتخابات بالتحضير المبكر الذي يشمل عدة خطوات أساسية: تحديد موعد الانتخابات: يتم تحديد موعد الانتخابات بناءً على القوانين والنظم المعمول بها، وقد يشمل ذلك تحديد يوم الانتخابات وتواريخ التسجيل. إعداد القوائم الانتخابية: يشمل ذلك تسجيل الناخبين وتحديث القوائم لضمان شمولها لجميع المواطنين المؤهلين للتصويت. يتطلب ذلك التحقق من هوية الناخبين وضمان صحة المعلومات. تطوير النظام الانتخابي: يتضمن ذلك تحديد نوع النظام الانتخابي الذي سيتم استخدامه، مثل النظام النسبي، أو النظام الأغلبية، أو النظام المختلط، وذلك بناءً على الأهداف والتقاليد السياسية للدولة. 2. الحملات الانتخابية: تعتبر الحملات الانتخابية مرحلة حيوية في عملية الانتخابات، حيث يقوم المرشحون والأحزاب بالترويج لبرامجهم وأفكارهم: الترويج والاتصال: ينظم المرشحون حملات دعائية تشمل الاجتماعات العامة، والمنشورات، ووسائل الإعلام، ووسائل التواصل الاجتماعي للتواصل مع الناخبين. المناظرات السياسية: تُنظم مناظرات بين المرشحين لعرض برامجهم ومواقفهم من القضايا الرئيسية، مما يوفر للناخبين فرصة لمقارنة الخيارات المتاحة. التمويل: يشمل جمع التبرعات وتنظيم الموارد المالية لدعم الحملات الانتخابية، مع التأكد من الالتزام بالقوانين المتعلقة بتمويل الحملات. 3. يوم الانتخابات: يعد يوم الانتخابات هو المرحلة النهائية التي يتم فيها التصويت، ويتضمن: فتح مراكز الاقتراع: تُفتح مراكز الاقتراع في أماكن محددة، وتكون مفتوحة لفترة زمنية معينة للسماح للناخبين بالتصويت. التصويت: يتوجه الناخبون إلى مراكز الاقتراع للإدلاء بأصواتهم، ويقومون بعملية التصويت سراً لضمان نزاهة العملية. رصد العملية: تُراقب عملية التصويت من قبل المراقبين المستقلين للتأكد من سلامة الإجراءات وعدم حدوث مخالفات. 4. عد الأصوات وإعلان النتائج: بعد انتهاء يوم الانتخابات، تبدأ عملية عد الأصوات وإعلان النتائج.",
+        "script": "Election processes involve several key steps that can vary by country but generally include: 1. Nomination: Candidates are selected or nominated to run for office through primaries, caucuses, or party conventions. 2. Campaigning: Candidates and their parties work to gain public support through speeches, advertisements, and debates. 3. Voting: On election day, citizens cast their votes using methods such as in-person voting, mail-in ballots, or electronic voting. 4. Counting and Certification: Votes are counted, and results are certified by relevant authorities. 5. Election Results: The candidate with the majority of votes is declared the winner and assumes office.",
+        "vocabulary": [
+            {"arabic": "الترشيح", "english": "nomination"},
+            {"arabic": "الحملة الانتخابية", "english": "campaigning"},
+            {"arabic": "التصويت", "english": "voting"},
+            {"arabic": "فرز الأصوات", "english": "vote counting"},
+            {"arabic": "النتائج الانتخابية", "english": "election results"},
+            {"arabic": "الاقتراع", "english": "polling"},
+            {"arabic": "التسجيل", "english": "registration"},
+            {"arabic": "التمويل", "english": "fundraising"},
+            {"arabic": "المناظرات", "english": "debates"},
+            {"arabic": "الرقابة", "english": "monitoring"},
+            {"arabic": "الالتزام بالقوانين", "english": "compliance with regulations"},
+            {"arabic": "التحديث", "english": "updating"}
+        ],
+        "questions": [
+            {
+                "question": "How might the 'Preparation for Elections' phase influence the effectiveness of the 'Campaigning' phase?",
+                "options": [
+                    "A. Early preparation ensures better candidate selection and system setup, which can streamline campaigning efforts.",
+                    "B. Preparation delays can enhance campaign strategies by providing more time to adapt.",
+                    "C. The preparation phase has no impact on the campaigning phase, as both are independent processes.",
+                    "D. Campaigning can only be effective if preparation is completed after the election date is set."
+                ],
+                "correct": "a"
+            },
+            {
+                "question": "What are potential consequences of inadequate 'Voter Registration' during the 'Preparation for Elections' phase?",
+                "options": [
+                    "A. Increased voter turnout and greater election integrity.",
+                    "B. A decrease in the number of eligible voters and potential disputes over election results.",
+                    "C. Enhanced accuracy in vote counting due to improved voter lists.",
+                    "D. Immediate correction of voter registration issues through the campaigning phase."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "In what way does the 'Campaigning' stage provide critical information to voters compared to the 'Debates' stage?",
+                "options": [
+                    "A. Campaigning offers a broader range of policy information and personal candidate interactions beyond debates.",
+                    "B. Debates provide more in-depth policy analysis compared to campaigning.",
+                    "C. Campaigning and debates offer similar levels of detail and information.",
+                    "D. Campaigning focuses solely on personal endorsements, whereas debates offer policy comparisons."
+                ],
+                "correct": "a"
+            },
+            {
+                "question": "What role does 'Vote Counting' play in ensuring the fairness of 'Election Results'?",
+                "options": [
+                    "A. Vote counting confirms the accuracy of the election results and ensures all votes are correctly included.",
+                    "B. Vote counting determines the campaign strategies used by candidates.",
+                    "C. Vote counting provides preliminary results that can be adjusted before final certification.",
+                    "D. Vote counting primarily impacts the nomination process rather than the final election results."
+                ],
+                "correct": "a"
+            },
+            {
+                "question": "Why might the introduction of electronic voting systems be challenging in some democratic processes?",
+                "options": [
+                    "A. Electronic systems may create technical issues and require extensive training for both voters and election officials.",
+                    "B. Electronic voting systems are universally accepted and improve the accuracy of vote counting.",
+                    "C. Electronic voting simplifies the preparation and campaigning phases of elections.",
+                    "D. Electronic systems have no significant impact on the democratic processes of elections."
+                ],
+                "correct": "a"
+            },
+            {
+                "question": "Infer the impact of effective 'Fundraising' on the overall success of a 'Campaigning' phase. Why might this be important?",
+                "options": [
+                    "A. Effective fundraising ensures adequate resources for outreach and advertising, which can enhance voter engagement and support.",
+                    "B. Fundraising effectiveness has no direct impact on campaigning, as all campaign activities are predetermined.",
+                    "C. Effective fundraising primarily impacts the 'Vote Counting' phase by providing additional resources for technical improvements.",
+                    "D. Fundraising is only important for 'Debates' to ensure candidates have enough to participate."
+                ],
+                "correct": "a"
+            },
+            {
+                "question": "How might 'Monitoring' during 'Voting' affect the overall integrity of the election process?",
+                "options": [
+                    "A. Monitoring ensures compliance with voting regulations and helps detect and prevent irregularities, thus maintaining election integrity.",
+                    "B. Monitoring primarily affects the 'Preparation for Elections' phase by setting standards for campaign conduct.",
+                    "C. Monitoring is more relevant for 'Counting and Certification' rather than the voting process itself.",
+                    "D. Monitoring has minimal impact on the election process as it is mostly symbolic."
+                ],
+                "correct": "a"
+            }
+        ]
+    }
+},
     "Science and Technology": {
         "Scientific Discoveries": {
-            "text": "This is the text for the Scientific Discoveries lesson.",
-            "script": "This is the script for the Scientific Discoveries lesson.",
+            "text": "يعتبر البحث العلمي العمود الفقري للاكتشافات العلمية، حيث يتيح لنا: فهم الظواهر الطبيعية: يساعد البحث العلمي في فهم القوانين التي تحكم الكون، بدءاً من الجسيمات الدقيقة وصولاً إلى الأجرام السماوية. تطوير التكنولوجيا: يؤدي البحث العلمي إلى تطوير تقنيات جديدة تُستخدم في مختلف المجالات مثل الطب، والهندسة، والزراعة. حل المشكلات: يسهم البحث العلمي في إيجاد حلول للمشكلات البيئية، والصحية، والاقتصادية التي تواجه المجتمعات. تحقيق التقدم الاجتماعي: يساهم البحث العلمي في تحسين نوعية الحياة من خلال اكتشاف علاجات جديدة للأمراض وتطوير مصادر طاقة مستدامة. 3. اكتشافات علمية بارزة: شهد التاريخ العديد من الاكتشافات العلمية التي أحدثت تغييراً كبيراً في مسار البشرية، ومن أبرزها: اكتشاف البنسلين: في عام 1928، اكتشف العالم ألكسندر فليمنغ البنسلين، وهو أول مضاد حيوي. هذا الاكتشاف أنقذ ملايين الأرواح وساهم في علاج العديد من الأمراض البكتيرية. النظرية النسبية: قدم ألبرت أينشتاين نظريتي النسبية الخاصة والعامة في أوائل القرن العشرين. غيرت هذه النظريات فهمنا للزمان والمكان والجاذبية وأدت إلى تطوير تقنيات مثل نظام تحديد المواقع العالمي (GPS). الحمض النووي (DNA): اكتشف العلماء جيمس واطسون وفرانسيس كريك التركيب الحلزوني المزدوج للحمض النووي في عام 1953. ساعد هذا الاكتشاف في فهم كيفية انتقال الصفات الوراثية وفتح الباب أمام تطورات في علم الوراثة والهندسة الوراثية. الانفجار الكبير (Big Bang): تعد نظرية الانفجار الكبير من أبرز الاكتشافات في علم الكونيات، حيث تشرح أصل الكون وتطوره. قدمت هذه النظرية إطاراً لفهم نشأة الكون والعناصر التي يتكون منها. الذكاء الاصطناعي: تُعتبر تطورات الذكاء الاصطناعي من أبرز الاكتشافات في العصر الحديث، حيث يتم استخدام تقنيات الذكاء الاصطناعي في مختلف المجالات مثل الطب، والتمويل، والصناعة لتحسين الكفاءة واتخاذ قرارات دقيقة.",
+            "script": "Scientific research is the backbone of scientific discoveries, allowing us to: Understand natural phenomena: Scientific research helps us understand the laws that govern the universe, from subatomic particles to celestial bodies. Develop technology: Scientific research leads to the development of new technologies used in various fields such as medicine, engineering, and agriculture. Solve problems: Scientific research helps find solutions to environmental, health, and economic problems facing societies. Achieve social progress: Scientific research contributes to improving quality of life by discovering new treatments for diseases and developing sustainable energy sources. Notable Scientific Discoveries: History has witnessed many scientific discoveries that have significantly changed the course of humanity, including: Discovery of penicillin: In 1928, scientist Alexander Fleming discovered penicillin, the first antibiotic. This discovery saved millions of lives and helped treat many bacterial diseases. Theory of relativity: Albert Einstein presented the theories of special and general relativity in the early 20th century. These theories changed our understanding of time, space, and gravity and led to the development of technologies like the Global Positioning System (GPS). DNA: Scientists James Watson and Francis Crick discovered the double-helix structure of DNA in 1953. This discovery helped understand how genetic traits are transmitted and opened the door to advances in genetics and genetic engineering. Big Bang theory: The Big Bang theory is one of the most important discoveries in cosmology, explaining the origin and evolution of the universe. This theory provided a framework for understanding the universe's creation and its constituent elements. Artificial intelligence: Developments in artificial intelligence are among the most notable discoveries of modern times, with AI technologies being used in various fields such as medicine, finance, and industry to improve efficiency and make accurate decisions.",
             "vocabulary": [
-                {"arabic": "كلمة 43", "english": "Meaning 43"},
-                {"arabic": "كلمة 44", "english": "Meaning 44"}
+                {"arabic": "الظواهر الطبيعية", "english": "natural phenomena"},
+                {"arabic": "تطوير التكنولوجيا", "english": "develop technology"},
+                {"arabic": "حل المشكلات", "english": "solve problems"},
+                {"arabic": "التقدم الاجتماعي", "english": "social progress"},
+                {"arabic": "اكتشاف البنسلين", "english": "discovery of penicillin"},
+                {"arabic": "النظرية النسبية", "english": "theory of relativity"},
+                {"arabic": "الحمض النووي", "english": "DNA"},
+                {"arabic": "الانفجار الكبير", "english": "Big Bang"},
+                {"arabic": "الذكاء الاصطناعي", "english": "artificial intelligence"},
+                {"arabic": "الجسيمات الدقيقة", "english": "subatomic particles"},
+                {"arabic": "الأجرام السماوية", "english": "celestial bodies"},
+                {"arabic": "نظام تحديد المواقع العالمي", "english": "Global Positioning System (GPS)"}
             ],
             "questions": [
                 {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "d"
-                }
-            ]
-        },
-        "Technological Advancements": {
-            "text": "This is the text for the Technological Advancements lesson.",
-            "script": "This is the script for the Technological Advancements lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 45", "english": "Meaning 45"},
-                {"arabic": "كلمة 46", "english": "Meaning 46"}
-            ],
-            "questions": [
+                    "question": "How does scientific research contribute to 'Developing Technology'?",
+                    "options": [
+                        "A. By understanding natural laws that govern the universe.",
+                        "B. By leading to the development of new technologies used in various fields.",
+                        "C. By solving environmental and economic problems.",
+                        "D. By discovering new treatments for diseases."
+                    ],
+                    "correct": "b"
+                },
                 {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "question": "What is a significant impact of the 'Discovery of Penicillin'?",
+                    "options": [
+                        "A. Changing our understanding of time and space.",
+                        "B. Providing a framework for understanding the universe's creation.",
+                        "C. Saving millions of lives and treating bacterial diseases.",
+                        "D. Leading to the development of the Global Positioning System."
+                    ],
+                    "correct": "c"
+                },
+                {
+                    "question": "In what way did the 'Theory of Relativity' influence modern technology?",
+                    "options": [
+                        "A. By explaining the origin and evolution of the universe.",
+                        "B. By contributing to advancements in genetics and genetic engineering.",
+                        "C. By changing our understanding of gravity and leading to technologies like GPS.",
+                        "D. By improving efficiency and decision-making in various fields."
+                    ],
+                    "correct": "c"
+                },
+                {
+                    "question": "What is the relationship between the 'Big Bang Theory' and our understanding of the universe?",
+                    "options": [
+                        "A. The Big Bang Theory explains the origin and evolution of the universe.",
+                        "B. The Big Bang Theory contributes to developing new technologies.",
+                        "C. The Big Bang Theory helps find solutions to health problems.",
+                        "D. The Big Bang Theory improves decision-making in finance and industry."
+                    ],
                     "correct": "a"
-                }
-            ]
-        },
-        "Future Technologies": {
-            "text": "This is the text for the Future Technologies lesson.",
-            "script": "This is the script for the Future Technologies lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 47", "english": "Meaning 47"},
-                {"arabic": "كلمة 48", "english": "Meaning 48"}
-            ],
-            "questions": [
+                },
                 {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "question": "Why is 'Artificial Intelligence' considered a notable discovery in modern times?",
+                    "options": [
+                        "A. Because it explains the laws that govern the universe.",
+                        "B. Because it is used to improve efficiency and make accurate decisions in various fields.",
+                        "C. Because it helps understand genetic traits and advances in genetic engineering.",
+                        "D. Because it provides a framework for understanding the universe's creation."
+                    ],
+                    "correct": "b"
+                },
+                {
+                    "question": "Infer the role of scientific research in 'Achieving Social Progress'?",
+                    "options": [
+                        "A. Scientific research primarily focuses on the natural laws governing the universe.",
+                        "B. It plays a critical role in improving quality of life through medical and sustainable energy discoveries.",
+                        "C. Social progress is not significantly impacted by scientific research.",
+                        "D. Scientific research mainly contributes to economic problem-solving."
+                    ],
+                    "correct": "b"
+                },
+                {
+                    "question": "How did the discovery of the double-helix structure of DNA revolutionize genetics?",
+                    "options": [
+                        "A. By improving the development of new technologies.",
+                        "B. By leading to the understanding of how genetic traits are transmitted.",
+                        "C. By explaining the origin and evolution of the universe.",
+                        "D. By enhancing artificial intelligence technologies."
+                    ],
                     "correct": "b"
                 }
             ]
         }
-    },
+    ,
+    "Technological Advancements": {
+        "text": "أبرز مجالات التقدمات التكنولوجية: الاتصالات: شهدت تكنولوجيا الاتصالات تطوراً كبيراً مع اختراع الهاتف المحمول والإنترنت وتكنولوجيا الألياف البصرية. هذه التقدمات جعلت من السهل التواصل مع الآخرين في أي مكان وزمان، مما أسهم في تعزيز العولمة والتعاون الدولي. الطب: أحدثت التقدمات التكنولوجية ثورة في مجال الطب من خلال تطوير الأجهزة الطبية المتقدمة، وتقنيات التشخيص الحديثة، والعلاجات المبتكرة. على سبيل المثال، أسهمت تقنيات التصوير بالرنين المغناطيسي (MRI) والجراحة بالروبوتات في تحسين دقة التشخيص والعلاج. الذكاء الاصطناعي: يُعتبر الذكاء الاصطناعي من أكثر التقدمات التكنولوجية تأثيراً في العصر الحديث. يتم استخدام تقنيات الذكاء الاصطناعي في مجالات مثل تحليل البيانات، والتعرف على الصوت والصور، والسيارات الذاتية القيادة، مما يسهم في تحسين الكفاءة واتخاذ قرارات دقيقة. الطاقة: تطورت تكنولوجيا الطاقة بشكل كبير مع التركيز على تطوير مصادر الطاقة المتجددة مثل الطاقة الشمسية، وطاقة الرياح، والطاقة الكهرومائية. هذه التقدمات تساعد في تقليل الاعتماد على الوقود الأحفوري والحد من التلوث البيئي. التعليم: أسهمت التقدمات التكنولوجية في تحسين جودة التعليم من خلال استخدام الأدوات الرقمية والمنصات التعليمية عبر الإنترنت. يتيح التعليم الإلكتروني الوصول إلى المعرفة والموارد التعليمية بسهولة وفعالية. الواقع الافتراضي والمعزز: تُستخدم تقنيات الواقع الافتراضي (VR) والواقع المعزز (AR) في مجالات متعددة مثل الترفيه، والتدريب، والتعليم، لتوفير تجارب تفاعلية وواقعية. تأثير التقدمات التكنولوجية على المجتمع: تحسين جودة الحياة: أسهمت التقدمات التكنولوجية في تحسين نوعية الحياة من خلال توفير حلول فعالة للمشكلات الصحية، والاجتماعية، والبيئية. زيادة الإنتاجية: تساعد التكنولوجيا في تحسين الكفاءة وزيادة الإنتاجية في مختلف الصناعات من خلال أتمتة العمليات وتحليل البيانات. تعزيز الاتصال والتواصل: تتيح تقنيات الاتصال الحديثة للأفراد والشركات التواصل بسهولة وتبادل المعلومات بسرعة وفعالية. خلق فرص عمل جديدة: تؤدي التقدمات التكنولوجية إلى ظهور مجالات ووظائف جديدة تتطلب مهارات تقنية متقدمة، مما يساهم في تنمية الاقتصاد.",
+        "script": "Key Areas of Technological Advancements: Communications: Communication technology has seen significant development with the invention of mobile phones, the internet, and fiber optics. These advancements have made it easy to communicate with others anywhere and anytime, enhancing globalization and international cooperation. Medicine: Technological advancements have revolutionized the field of medicine by developing advanced medical devices, modern diagnostic techniques, and innovative treatments. For example, MRI technology and robotic surgery have improved diagnostic and treatment accuracy. Artificial Intelligence: AI is one of the most impactful technological advancements of the modern era. AI technologies are used in areas such as data analysis, voice and image recognition, and self-driving cars, contributing to improved efficiency and accurate decision-making. Energy: Energy technology has significantly evolved with a focus on developing renewable energy sources like solar, wind, and hydroelectric power. These advancements help reduce dependence on fossil fuels and minimize environmental pollution. Education: Technological advancements have improved education quality through the use of digital tools and online learning platforms. E-learning allows easy and effective access to knowledge and educational resources. Virtual and Augmented Reality: VR and AR technologies are used in various fields such as entertainment, training, and education to provide interactive and realistic experiences. Impact of Technological Advancements on Society: Improving Quality of Life: Technological advancements have improved quality of life by providing effective solutions to health, social, and environmental problems. Increasing Productivity: Technology helps improve efficiency and increase productivity across industries by automating processes and analyzing data. Enhancing Communication: Modern communication technologies allow individuals and businesses to communicate easily and exchange information quickly and effectively. Creating New Job Opportunities: Technological advancements lead to the emergence of new fields and jobs that require advanced technical skills, contributing to economic growth.",
+        "vocabulary": [
+            {"arabic": "الاتصالات", "english": "communications"},
+            {"arabic": "الهاتف المحمول", "english": "mobile phone"},
+            {"arabic": "الإنترنت", "english": "internet"},
+            {"arabic": "الألياف البصرية", "english": "fiber optics"},
+            {"arabic": "العولمة", "english": "globalization"},
+            {"arabic": "التعاون الدولي", "english": "international cooperation"},
+            {"arabic": "الطب", "english": "medicine"},
+            {"arabic": "الأجهزة الطبية المتقدمة", "english": "advanced medical devices"},
+            {"arabic": "تقنيات التشخيص الحديثة", "english": "modern diagnostic techniques"},
+            {"arabic": "العلاجات المبتكرة", "english": "innovative treatments"},
+            {"arabic": "التصوير بالرنين المغناطيسي", "english": "MRI technology"},
+            {"arabic": "الجراحة بالروبوتات", "english": "robotic surgery"},
+            {"arabic": "الذكاء الاصطناعي", "english": "artificial intelligence"},
+            {"arabic": "تحليل البيانات", "english": "data analysis"},
+            {"arabic": "التعرف على الصوت والصور", "english": "voice and image recognition"},
+            {"arabic": "السيارات الذاتية القيادة", "english": "self-driving cars"},
+            {"arabic": "الطاقة", "english": "energy"},
+            {"arabic": "مصادر الطاقة المتجددة", "english": "renewable energy sources"},
+            {"arabic": "الطاقة الشمسية", "english": "solar power"},
+            {"arabic": "طاقة الرياح", "english": "wind power"},
+            {"arabic": "الطاقة الكهرومائية", "english": "hydroelectric power"},
+            {"arabic": "الوقود الأحفوري", "english": "fossil fuels"},
+            {"arabic": "التلوث البيئي", "english": "environmental pollution"},
+            {"arabic": "التعليم", "english": "education"},
+            {"arabic": "الأدوات الرقمية", "english": "digital tools"},
+            {"arabic": "المنصات التعليمية عبر الإنترنت", "english": "online learning platforms"},
+            {"arabic": "التعليم الإلكتروني", "english": "e-learning"},
+            {"arabic": "الواقع الافتراضي", "english": "virtual reality (VR)"},
+            {"arabic": "الواقع المعزز", "english": "augmented reality (AR)"},
+            {"arabic": "الترفيه", "english": "entertainment"},
+            {"arabic": "التدريب", "english": "training"},
+            {"arabic": "تجارب تفاعلية وواقعية", "english": "interactive and realistic experiences"},
+            {"arabic": "تحسين جودة الحياة", "english": "improving quality of life"},
+            {"arabic": "زيادة الإنتاجية", "english": "increasing productivity"},
+            {"arabic": "أتمتة العمليات", "english": "automating processes"},
+            {"arabic": "تحليل البيانات", "english": "analyzing data"},
+            {"arabic": "تعزيز الاتصال والتواصل", "english": "enhancing communication"},
+            {"arabic": "خلق فرص عمل جديدة", "english": "creating new job opportunities"},
+            {"arabic": "مهارات تقنية متقدمة", "english": "advanced technical skills"},
+            {"arabic": "تنمية الاقتصاد", "english": "economic growth"}
+        ],
+        "questions": [
+            {
+                "question": "Based on the text, why might the author believe that advancements in communication technology have enhanced globalization?",
+                "options": [
+                    "A. Because they enable people to work remotely.",
+                    "B. Because they improve the quality of medical diagnostics.",
+                    "C. Because they allow for easier and more effective communication worldwide.",
+                    "D. Because they help in reducing environmental pollution."
+                ],
+                "correct": "c"
+            },
+            {
+                "question": "Which detail from the text best supports the idea that AI has a significant impact on modern industries?",
+                "options": [
+                    "A. AI is used in data analysis and self-driving cars.",
+                    "B. AI technologies are constantly evolving.",
+                    "C. AI helps in voice and image recognition.",
+                    "D. AI contributes to developing renewable energy sources."
+                ],
+                "correct": "a"
+            },
+            {
+                "question": "Infer why the author considers renewable energy advancements important for environmental sustainability.",
+                "options": [
+                    "A. Because they are cheaper than fossil fuels.",
+                    "B. Because they reduce dependence on non-renewable energy sources and minimize pollution.",
+                    "C. Because they are more efficient than traditional energy sources.",
+                    "D. Because they create new job opportunities."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "What can be inferred about the impact of technological advancements on education from the text?",
+                "options": [
+                    "A. They have made traditional classrooms obsolete.",
+                    "B. They have allowed for more interactive and realistic learning experiences.",
+                    "C. They have reduced the cost of education.",
+                    "D. They have limited access to educational resources."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "Which statement best supports the author's view on the role of technological advancements in creating new job opportunities?",
+                "options": [
+                    "A. Technological advancements require advanced technical skills, which contribute to economic growth.",
+                    "B. Technological advancements automate processes and analyze data.",
+                    "C. Technological advancements improve communication and exchange of information.",
+                    "D. Technological advancements enhance the quality of life by providing effective solutions to health problems."
+                ],
+                "correct": "a"
+            }
+        ]
+    }
+,
+        "Future Technologies": {
+        "text": "تتقدم التكنولوجيا بشكل سريع، مما يفتح آفاقاً جديدة لمستقبل البشرية. تعكس التكنولوجيا المستقبلية الابتكارات التي قد تغير طريقة حياتنا، عملنا، وتفاعلنا مع العالم. في هذا النص، سنستعرض بعضاً من أهم الاتجاهات التكنولوجية المستقبلية، وكيف يمكن أن تؤثر على المجتمع والاقتصاد. 1. الذكاء الاصطناعي وتعلم الآلة: يعد الذكاء الاصطناعي (AI) وتعلم الآلة (Machine Learning) من أبرز الاتجاهات التكنولوجية المستقبلية. يشمل الذكاء الاصطناعي استخدام الأنظمة البرمجية لمحاكاة الذكاء البشري واتخاذ قرارات ذكية. من المتوقع أن تساهم هذه التكنولوجيا في تحسين العديد من المجالات، بما في ذلك الرعاية الصحية، والخدمات المالية، والنقل. على سبيل المثال، قد يتمكن الذكاء الاصطناعي من تحليل البيانات الطبية للكشف المبكر عن الأمراض وتقديم تشخيصات دقيقة. 2. الواقع الافتراضي والمعزز: الواقع الافتراضي (VR) والواقع المعزز (AR) هما تقنيتان ستلعبان دوراً كبيراً في المستقبل. توفر هذه التقنيات تجارب غامرة للمستخدمين، مما يمكنهم من التفاعل مع بيئات افتراضية أو إضافة عناصر رقمية إلى العالم الحقيقي. يُتوقع أن تُستخدم هذه التقنيات في التعليم، والترفيه، والتدريب المهني. على سبيل المثال، يمكن للطلاب استخدام الواقع الافتراضي لاستكشاف مواقع تاريخية أو علمية بشكل تفاعلي. 3. الإنترنت من الأشياء (IoT): الإنترنت من الأشياء هو مفهوم يشير إلى ربط الأجهزة والآلات بالإنترنت لتبادل البيانات وتحسين العمليات. ستساهم هذه التقنية في إنشاء \"مدن ذكية\" حيث يتم مراقبة وإدارة البنية التحتية مثل النقل والطاقة بشكل أكثر كفاءة. قد تشمل التطبيقات المستقبلية للإنترنت من الأشياء تحسين إدارة الطاقة في المنازل، ومراقبة صحة المرضى عن بُعد، وتعزيز الأمن في المناطق العامة. 4. الروبوتات والأنظمة الذاتية: الروبوتات والأنظمة الذاتية (Autonomous Systems) ستكون جزءاً أساسياً من المستقبل. من المتوقع أن تستخدم الروبوتات في مجموعة واسعة من التطبيقات، من الرعاية الصحية إلى الصناعة والخدمات اللوجستية. الروبوتات قد تتمكن من أداء مهام معقدة مثل الجراحة الدقيقة أو إدارة سلاسل الإمداد بفعالية أكبر. كما يمكن أن تؤدي المركبات الذاتية القيادة إلى تحسين الأمان وتقليل الازدحام المروري. 5. التكنولوجيا الحيوية: التكنولوجيا الحيوية تتعلق باستخدام التقنيات الحديثة في مجال البيولوجيا لابتكار حلول جديدة في الرعاية الصحية والزراعة. يمكن للتكنولوجيا الحيوية أن تساهم في تطوير علاجات جديدة للأمراض، وتحسين إنتاج الغذاء، وتعزيز الاستدامة البيئية. على سبيل المثال، يمكن استخدام الهندسة الوراثية لتعديل النباتات لتحمل الظروف البيئية القاسية أو إنتاج أدوية مخصصة بناءً على الجينوم الفردي.",
+        "script": "Technology is advancing rapidly, opening new horizons for the future of humanity. Future technology reflects innovations that may change the way we live, work, and interact with the world. In this text, we will explore some of the most important future technology trends and how they could affect society and the economy. 1. Artificial Intelligence and Machine Learning: Artificial Intelligence (AI) and Machine Learning are among the most prominent future technology trends. AI involves using software systems to simulate human intelligence and make smart decisions. This technology is expected to contribute to improvements in various fields, including healthcare, financial services, and transportation. For example, AI might analyze medical data to detect diseases early and provide accurate diagnoses. 2. Virtual and Augmented Reality: Virtual Reality (VR) and Augmented Reality (AR) are technologies that will play a significant role in the future. These technologies provide immersive experiences for users, allowing them to interact with virtual environments or add digital elements to the real world. These technologies are expected to be used in education, entertainment, and professional training. For example, students could use VR to explore historical or scientific sites interactively. 3. Internet of Things (IoT): The Internet of Things is a concept referring to connecting devices and machines to the internet to exchange data and improve processes. This technology will contribute to creating "smart cities" where infrastructure such as transportation and energy is monitored and managed more efficiently. Future applications of IoT might include improving energy management in homes, remote patient monitoring, and enhancing security in public areas. 4. Robotics and Autonomous Systems: Robotics and Autonomous Systems will be an essential part of the future. Robots are expected to be used in a wide range of applications, from healthcare to industry and logistics. Robots might perform complex tasks such as precise surgery or managing supply chains more effectively. Autonomous vehicles could improve safety and reduce traffic congestion. 5. Biotechnology: Biotechnology involves using modern techniques in biology to create new solutions in healthcare and agriculture. Biotechnology can contribute to developing new treatments for diseases, improving food production, and enhancing environmental sustainability. For example, genetic engineering might be used to modify plants to withstand harsh environmental conditions or to produce personalized medicines based on individual genomes.",
+        "vocabulary": [
+            {"arabic": "تكنولوجيا", "english": "Technology"},
+            {"arabic": "ابتكارات", "english": "Innovations"},
+            {"arabic": "ذكاء اصطناعي", "english": "Artificial Intelligence"},
+            {"arabic": "تعلم الآلة", "english": "Machine Learning"},
+            {"arabic": "واقع افتراضي", "english": "Virtual Reality"},
+            {"arabic": "واقع معزز", "english": "Augmented Reality"},
+            {"arabic": "إنترنت من الأشياء", "english": "Internet of Things"},
+            {"arabic": "مدن ذكية", "english": "Smart Cities"},
+            {"arabic": "روبوتات", "english": "Robots"},
+            {"arabic": "أنظمة ذاتية", "english": "Autonomous Systems"},
+            {"arabic": "تكنولوجيا حيوية", "english": "Biotechnology"}
+        ],
+        "questions": [
+            {
+                "question": "ما هو الموضوع الرئيسي للنص؟",
+                "options": [
+                    "أ. تأثير التكنولوجيا على الاقتصاد",
+                    "ب. الاتجاهات التكنولوجية المستقبلية",
+                    "ج. تاريخ التكنولوجيا",
+                    "د. تطبيقات التكنولوجيا في الماضي"
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "كيف يمكن أن يساهم الذكاء الاصطناعي في تحسين الرعاية الصحية؟",
+                "options": [
+                    "أ. من خلال توفير ألعاب تعليمية",
+                    "ب. بتحليل البيانات الطبية للكشف المبكر عن الأمراض",
+                    "ج. بإنشاء مدن ذكية",
+                    "د. بإضافة عناصر رقمية إلى العالم الحقيقي"
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "ما هي التطبيقات المتوقعة للواقع الافتراضي؟",
+                "options": [
+                    "أ. تحليل البيانات الطبية",
+                    "ب. استخدامه في التعليم والترفيه والتدريب المهني",
+                    "ج. تحسين إدارة الطاقة في المنازل",
+                    "د. تطوير علاجات جديدة للأمراض"
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "ما هو مفهوم الإنترنت من الأشياء؟",
+                "options": [
+                    "أ. استخدام الروبوتات في الصناعة",
+                    "ب. ربط الأجهزة والآلات بالإنترنت لتبادل البيانات",
+                    "ج. تطبيقات الواقع الافتراضي",
+                    "د. استخدام التكنولوجيا الحيوية في الزراعة"
+                ],
+                "correct": "b"
+            }
+        ]
+    }
+,
     "Military and Security": {
         "Military Operations": {
-            "text": "This is the text for the Military Operations lesson.",
-            "script": "This is the script for the Military Operations lesson.",
+            "text": "تُعتبر العمليات العسكرية من أهم أدوات الدول لتحقيق أهدافها الاستراتيجية وحماية أمنها القومي. تتطلب هذه العمليات تخطيطاً دقيقاً وتنسيقاً عالي المستوى بين الوحدات العسكرية المختلفة. سنستعرض في هذا النص مفهوم العمليات العسكرية، وأنواعها، ومراحل التخطيط والتنفيذ، والأهمية الاستراتيجية لهذه العمليات. 1. مفهوم العمليات العسكرية: العمليات العسكرية هي الإجراءات التي تقوم بها القوات المسلحة لتحقيق أهداف محددة تتعلق بالأمن والدفاع. تشمل هذه العمليات استخدام القوات البرية، والجوية، والبحرية، ووحدات العمليات الخاصة لتنفيذ المهام العسكرية المختلفة. 2. أنواع العمليات العسكرية: العمليات الهجومية: تهدف إلى مهاجمة وتدمير قوات العدو ومواقعه، وتتضمن الهجوم المباشر، والكمائن، والغارات الجوية. العمليات الدفاعية: تهدف إلى حماية المناطق الحيوية والحد من تقدم العدو، وتشمل الدفاع الثابت، والدفاع المتحرك، والتحصينات. عمليات الإنقاذ والإخلاء: تتضمن إجلاء المدنيين أو العسكريين من مناطق الخطر، وتقديم الدعم الطبي واللوجستي. العمليات الخاصة: تُنفذ بواسطة قوات العمليات الخاصة، وتهدف إلى تنفيذ مهام حساسة ومعقدة مثل التجسس، والاغتيالات، وإنقاذ الرهائن. 3. مراحل التخطيط والتنفيذ: التخطيط الاستراتيجي: يشمل تحديد الأهداف الاستراتيجية ووضع الخطة العامة للعملية العسكرية. يتضمن تحليل الاستخبارات، وتقييم قدرات العدو، واختيار الأساليب التكتيكية. الاستطلاع والمراقبة: تتضمن جمع المعلومات الاستخبارية عن العدو والميدان باستخدام وسائل مثل الطائرات بدون طيار، والأقمار الصناعية، ووحدات الاستطلاع. التعبئة والتحشيد: تشمل تحريك القوات والأسلحة والمعدات إلى مناطق العمليات، وتجهيز الجنود وتدريبهم على المهام الموكلة إليهم. التنفيذ والتكتيك: يتضمن تنفيذ الخطة العسكرية وفقاً للتكتيكات المرسومة، مثل الهجوم البري، والغارات الجوية، والضربات البحرية. التقييم والمراجعة: تشمل تقييم نتائج العملية وتحليل الدروس المستفادة لتحسين الأداء في المستقبل. 4. الأهمية الاستراتيجية للعمليات العسكرية: حماية السيادة الوطنية: تساعد العمليات العسكرية في حماية حدود الدولة ومنع أي اعتداءات خارجية. تحقيق الأهداف السياسية: تستخدم العمليات العسكرية لتحقيق أهداف سياسية مثل تغيير نظام حكم، أو فرض سلام، أو حماية مصالح الدولة. الردع: تُعتبر العمليات العسكرية وسيلة لردع الأعداء عن شن هجمات من خلال إظهار القدرة على الرد الفوري والحاسم. المساعدات الإنسانية: تُنفذ بعض العمليات العسكرية لتقديم المساعدات الإنسانية في مناطق النزاعات والكوارث.",
+            "script": "Military Operations are one of the most important tools for states to achieve their strategic goals and protect their national security. These operations require precise planning and high-level coordination between different military units. This text will cover the concept of military operations, their types, planning and execution stages, and their strategic importance. 1. Concept of Military Operations: Military operations are actions undertaken by the armed forces to achieve specific security and defense objectives. These operations include the use of land, air, naval, and special operations units to carry out various military tasks. 2. Types of Military Operations: Offensive operations: Aim to attack and destroy enemy forces and positions, including direct assaults, ambushes, and air raids. Defensive operations: Aim to protect vital areas and limit enemy advances, including static defense, mobile defense, and fortifications. Rescue and evacuation operations: Include evacuating civilians or military personnel from danger zones and providing medical and logistical support. Special operations: Conducted by special operations forces, aimed at executing sensitive and complex tasks such as espionage, assassinations, and hostage rescues. 3. Planning and Execution Stages: Strategic planning: Involves determining strategic objectives and setting the overall plan for the military operation. This includes intelligence analysis, assessing enemy capabilities, and choosing tactical methods. Reconnaissance and surveillance: Involves gathering intelligence on the enemy and the field using means such as drones, satellites, and reconnaissance units. Mobilization and deployment: Includes moving troops, weapons, and equipment to the operational areas, and preparing and training soldiers for their assigned tasks. Execution and tactics: Involves carrying out the military plan according to the outlined tactics, such as ground assaults, air raids, and naval strikes. Evaluation and review: Includes assessing the operation's outcomes and analyzing the lessons learned to improve future performance. 4. Strategic Importance of Military Operations: Protecting national sovereignty: Military operations help protect the country's borders and prevent external aggressions. Achieving political objectives: Military operations are used to achieve political goals such as changing regimes, imposing peace, or protecting the state's interests. Deterrence: Military operations serve as a means to deter enemies from launching attacks by demonstrating the ability to respond swiftly and decisively. Humanitarian assistance: Some military operations are conducted to provide humanitarian aid in conflict and disaster areas.",
             "vocabulary": [
-                {"arabic": "كلمة 49", "english": "Meaning 49"},
-                {"arabic": "كلمة 50", "english": "Meaning 50"}
+                {"arabic": "العمليات العسكرية", "english": "military operations"},
+                {"arabic": "أمن قومي", "english": "national security"},
+                {"arabic": "تخطيط دقيق", "english": "precise planning"},
+                {"arabic": "تنسيق عالي المستوى", "english": "high-level coordination"},
+                {"arabic": "القوات المسلحة", "english": "armed forces"},
+                {"arabic": "قوات برية", "english": "land forces"},
+                {"arabic": "قوات جوية", "english": "air forces"},
+                {"arabic": "قوات بحرية", "english": "naval forces"},
+                {"arabic": "وحدات العمليات الخاصة", "english": "special operations units"},
+                {"arabic": "العمليات الهجومية", "english": "offensive operations"},
+                {"arabic": "العمليات الدفاعية", "english": "defensive operations"},
+                {"arabic": "عمليات الإنقاذ والإخلاء", "english": "rescue and evacuation operations"},
+                {"arabic": "التخطيط الاستراتيجي", "english": "strategic planning"},
+                {"arabic": "تحليل الاستخبارات", "english": "intelligence analysis"},
+                {"arabic": "تقييم قدرات العدو", "english": "assessing enemy capabilities"},
+                {"arabic": "الاستطلاع والمراقبة", "english": "reconnaissance and surveillance"},
+                {"arabic": "طائرات بدون طيار", "english": "drones"},
+                {"arabic": "الأقمار الصناعية", "english": "satellites"},
+                {"arabic": "التعبئة والتحشيد", "english": "mobilization and deployment"},
+                {"arabic": "تنفيذ التكتيكات", "english": "execution and tactics"},
+                {"arabic": "التقييم والمراجعة", "english": "evaluation and review"},
+                {"arabic": "السيادة الوطنية", "english": "national sovereignty"},
+                {"arabic": "الأهداف السياسية", "english": "political objectives"},
+                {"arabic": "الردع", "english": "deterrence"},
+                {"arabic": "المساعدات الإنسانية", "english": "humanitarian assistance"}
             ],
             "questions": [
                 {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "question": "Based on the text, why might the author believe that strategic planning is crucial in military operations?",
+                    "options": [
+                        "A. Because it involves the use of drones and satellites.",
+                        "B. Because it includes intelligence analysis and assessing enemy capabilities.",
+                        "C. Because it ensures the protection of vital areas.",
+                        "D. Because it helps in providing humanitarian aid."
+                    ],
+                    "correct": "b"
+                },
+                {
+                    "question": "Which detail from the text best supports the idea that special operations require a high level of expertise?",
+                    "options": [
+                        "A. They are conducted by special operations forces.",
+                        "B. They involve tasks such as espionage, assassinations, and hostage rescues.",
+                        "C. They include the use of advanced weapons and equipment.",
+                        "D. They require precise planning and high-level coordination."
+                    ],
+                    "correct": "b"
+                },
+                {
+                    "question": "Infer why the author considers reconnaissance and surveillance important in military operations.",
+                    "options": [
+                        "A. Because they involve gathering intelligence on the enemy and the field.",
+                        "B. Because they include moving troops and equipment to operational areas.",
+                        "C. Because they involve executing the military plan according to tactics.",
+                        "D. Because they help in assessing the operation's outcomes."
+                    ],
+                    "correct": "a"
+                },
+                {
+                    "question": "What can be inferred about the role of military operations in achieving political objectives from the text?",
+                    "options": [
+                        "A. They are used to provide humanitarian aid in conflict areas.",
+                        "B. They help protect the country's borders from external aggressions.",
+                        "C. They can be employed to change regimes, impose peace, or protect state interests.",
+                        "D. They involve the use of special operations forces for sensitive tasks."
+                    ],
                     "correct": "c"
-                }
-            ]
-        },
-        "Defense Policies": {
-            "text": "This is the text for the Defense Policies lesson.",
-            "script": "This is the script for the Defense Policies lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 51", "english": "Meaning 51"},
-                {"arabic": "كلمة 52", "english": "Meaning 52"}
-            ],
-            "questions": [
+                },
                 {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "d"
-                }
-            ]
-        },
-        "Security Threats": {
-            "text": "This is the text for the Security Threats lesson.",
-            "script": "This is the script for the Security Threats lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 53", "english": "Meaning 53"},
-                {"arabic": "كلمة 54", "english": "Meaning 54"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
+                    "question": "Which statement best supports the author's view on the strategic importance of military operations in deterring enemies?",
+                    "options": [
+                        "A. Military operations demonstrate the ability to respond swiftly and decisively.",
+                        "B. Military operations help in protecting national sovereignty and interests.",
+                        "C. Military operations provide humanitarian assistance in disaster areas.",
+                        "D. Military operations involve detailed planning and coordination."
+                    ],
                     "correct": "a"
                 }
             ]
         }
-    },
+    ,
+    "Defense Policies": {
+        "text": "السياسات الدفاعية هي الخطط والإجراءات التي تعتمدها الحكومات لضمان حماية أراضيها ومصالحها الوطنية من التهديدات الخارجية والداخلية. تشمل هذه السياسات تنظيم القوات المسلحة، وتطوير الاستراتيجيات العسكرية، وإدارة الموارد الدفاعية، والتعاون مع الحلفاء والشركاء. أهداف السياسات الدفاعية: حماية السيادة الوطنية: تسعى السياسات الدفاعية إلى ضمان عدم التعدي على حدود الدولة وحماية حقوقها وسيادتها من أي اعتداءات خارجية. تعزيز الاستقرار الداخلي: تهدف السياسات الدفاعية إلى ضمان الاستقرار الداخلي من خلال التصدي للأخطار الداخلية مثل الجماعات المسلحة أو النزاعات الداخلية. ردع الأعداء: تهدف السياسات الدفاعية إلى ردع أي تهديدات محتملة من خلال إظهار القدرة على الرد الفعال والقوي على أي اعتداءات. التعاون الدولي: تشجع السياسات الدفاعية على التعاون مع الدول الأخرى والحلفاء لتعزيز الأمن الجماعي وتبادل المعلومات الاستخبارية والتكنولوجيا العسكرية. مكونات السياسات الدفاعية: التخطيط الاستراتيجي: يشمل تطوير استراتيجيات دفاعية طويلة المدى تستند إلى تحليل التهديدات والقدرات العسكرية. يتضمن ذلك تحديد الأهداف الدفاعية وتطوير خطط الطوارئ. تطوير القوات المسلحة: يتضمن تحسين وتحديث القوات البرية، والجوية، والبحرية، وضمان جاهزيتها للتعامل مع أي تهديدات. يشمل ذلك التدريب والتطوير المستمر للعناصر العسكرية. الاستثمار في التكنولوجيا: تشمل السياسات الدفاعية الاستثمار في التكنولوجيا العسكرية المتقدمة مثل أنظمة الدفاع الصاروخي، والطائرات بدون طيار، والذكاء الاصطناعي لتعزيز القدرات القتالية. إدارة الموارد الدفاعية: تتضمن إدارة الميزانيات الدفاعية، وتوريد الأسلحة والمعدات، وضمان الاستدامة والفعالية في استخدام الموارد. الاستجابة للطوارئ: تطوير خطط للاستجابة للأزمات مثل الهجمات الإرهابية، والكوارث الطبيعية، والنزاعات المسلحة. يشمل ذلك التنسيق بين القوات المسلحة والوكالات المدنية.",
+        "script": "Defense policies are plans and measures adopted by governments to ensure the protection of their territories and national interests from external and internal threats. These policies include organizing the armed forces, developing military strategies, managing defense resources, and cooperating with allies and partners. Objectives of defense policies: Protecting national sovereignty: Defense policies aim to ensure that the country's borders are not violated and to protect its rights and sovereignty from external aggression. Enhancing internal stability: Defense policies aim to ensure internal stability by addressing internal threats such as armed groups or internal conflicts. Deterrence of enemies: Defense policies aim to deter potential threats by demonstrating the capability to respond effectively and forcefully to any aggression. International cooperation: Defense policies encourage cooperation with other countries and allies to enhance collective security and share intelligence and military technology. Components of defense policies: Strategic planning: Involves developing long-term defensive strategies based on threat analysis and military capabilities. This includes setting defensive objectives and developing contingency plans. Developing the armed forces: Involves improving and updating land, air, and naval forces, and ensuring their readiness to handle any threats. This includes ongoing training and development of military personnel. Investing in technology: Defense policies include investing in advanced military technologies such as missile defense systems, drones, and artificial intelligence to enhance combat capabilities. Managing defense resources: Involves managing defense budgets, supplying weapons and equipment, and ensuring sustainability and effectiveness in resource use. Emergency response: Developing plans for responding to crises such as terrorist attacks, natural disasters, and armed conflicts. This includes coordination between the armed forces and civilian agencies.",
+        "vocabulary": [
+            {"arabic": "السياسات الدفاعية", "english": "defense policies"},
+            {"arabic": "حماية السيادة الوطنية", "english": "protecting national sovereignty"},
+            {"arabic": "تعزيز الاستقرار الداخلي", "english": "enhancing internal stability"},
+            {"arabic": "ردع الأعداء", "english": "deterrence of enemies"},
+            {"arabic": "التعاون الدولي", "english": "international cooperation"},
+            {"arabic": "التخطيط الاستراتيجي", "english": "strategic planning"},
+            {"arabic": "تطوير القوات المسلحة", "english": "developing the armed forces"},
+            {"arabic": "الاستثمار في التكنولوجيا", "english": "investing in technology"},
+            {"arabic": "إدارة الموارد الدفاعية", "english": "managing defense resources"},
+            {"arabic": "الاستجابة للطوارئ", "english": "emergency response"}
+        ],
+        "questions": [
+            {
+                "question": "Infer the main goal of defense policies based on their components and objectives mentioned in the text.",
+                "options": [
+                    "A. To enhance international trade.",
+                    "B. To protect the country's borders and manage internal and external threats.",
+                    "C. To improve economic stability.",
+                    "D. To promote cultural exchange."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "Which detail from the text most strongly supports the idea that investing in technology is crucial for defense policies?",
+                "options": [
+                    "A. It includes ongoing training and development of military personnel.",
+                    "B. It involves managing defense budgets and resources.",
+                    "C. It involves investing in advanced military technologies to enhance combat capabilities.",
+                    "D. It includes developing long-term defensive strategies."
+                ],
+                "correct": "c"
+            },
+            {
+                "question": "What can be inferred about the role of strategic planning in defense policies?",
+                "options": [
+                    "A. It is focused on improving diplomatic relations.",
+                    "B. It involves setting defensive objectives and developing contingency plans based on threat analysis.",
+                    "C. It is mainly concerned with economic development.",
+                    "D. It is unrelated to managing defense resources."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "Which aspect of defense policies is most likely to directly support international cooperation?",
+                "options": [
+                    "A. Developing advanced weaponry.",
+                    "B. Enhancing internal stability.",
+                    "C. Sharing intelligence and military technology with allies.",
+                    "D. Managing defense budgets."
+                ],
+                "correct": "c"
+            },
+            {
+                "question": "How does the text suggest defense policies contribute to internal stability?",
+                "options": [
+                    "A. By focusing on international trade agreements.",
+                    "B. By addressing internal threats such as armed groups or conflicts.",
+                    "C. By developing economic strategies.",
+                    "D. By improving cultural relations."
+                ],
+                "correct": "b"
+            }
+        ]
+    }
+,
+      "Security Threats": {
+        "text": "أنواع التهديدات الأمنية: التهديدات الإرهابية: تشمل الهجمات التي تقوم بها جماعات متطرفة تهدف إلى نشر الخوف والدمار. تستخدم الجماعات الإرهابية أساليب متنوعة مثل التفجيرات، والهجمات المسلحة، والخطف لخلق الفوضى وإجبار الحكومات على الاستجابة لمطالبها. التهديدات السيبرانية: تتعلق بالهجمات الإلكترونية التي تستهدف الأنظمة والشبكات الحاسوبية لسرقة البيانات، أو تعطيل الخدمات، أو التسبب في أضرار تقنية. تشمل هذه التهديدات القرصنة، والهجمات بالفيروسات، والهجمات على البنية التحتية الرقمية. التهديدات العسكرية: تشمل التهديدات التي تأتي من الدول أو الجماعات المسلحة التي تسعى إلى استخدام القوة العسكرية لفرض سيطرتها أو تحقيق أهداف سياسية. تشمل هذه التهديدات الحروب التقليدية، والعمليات العسكرية غير النظامية، والتسلح النووي. التهديدات البيئية: تتعلق بالمخاطر التي تؤثر على البيئة وتؤدي إلى أزمات إنسانية. تشمل هذه التهديدات الكوارث الطبيعية مثل الزلازل، والفيضانات، والأعاصير، بالإضافة إلى التغيرات المناخية التي يمكن أن تؤدي إلى أزمات غذائية ومائية. التهديدات الاقتصادية: تشمل المخاطر التي تؤثر على الاستقرار الاقتصادي للدولة مثل الأزمات المالية، والأزمات التجارية، والممارسات الاقتصادية غير المشروعة. يمكن أن تؤدي هذه التهديدات إلى زعزعة الاستقرار الاجتماعي والاقتصادي. التهديدات الاجتماعية: تتعلق بالاضطرابات الاجتماعية مثل الاحتجاجات العنيفة، والتظاهرات، والنزاعات العرقية أو الطائفية. تؤثر هذه التهديدات على استقرار المجتمعات وتؤدي إلى توترات داخلية. مصادر التهديدات الأمنية: الجماعات الإرهابية: منظمات مثل القاعدة، وداعش، التي تسعى إلى تنفيذ هجمات تهدف إلى زعزعة الاستقرار. الدول المعادية: دول تسعى إلى تعزيز قدراتها العسكرية أو فرض نفوذها على الدول الأخرى، مما يهدد الأمن الإقليمي والعالمي. المجرمون السيبرانيون: أفراد أو مجموعات تسعى لاستغلال الثغرات الأمنية في الأنظمة الإلكترونية لسرقة المعلومات أو تعطيل الخدمات. المنظمات الإجرامية: تشمل عصابات التهريب، وتجارة المخدرات، والجريمة المنظمة التي تؤثر على الاستقرار الاجتماعي والاقتصادي. تأثير التهديدات الأمنية على الأمن: تآكل الاستقرار: يمكن أن تؤدي التهديدات الأمنية إلى تآكل الاستقرار السياسي والاقتصادي والاجتماعي، مما يؤثر على نوعية الحياة ويزيد من مستويات التوتر. خسائر بشرية ومادية: تسبب التهديدات الأمنية خسائر في الأرواح والأضرار في الممتلكات والبنية التحتية، مما يؤدي إلى تكاليف اقتصادية كبيرة. تأثيرات نفسية: يمكن أن تؤدي التهديدات الأمنية إلى قلق وخوف بين السكان، مما يؤثر على صحتهم النفسية وجودة حياتهم. تأثيرات على العلاقات الدولية: قد تؤدي التهديدات الأمنية إلى توترات دبلوماسية بين الدول، وتعزيز النزاعات الإقليمية، وتعطيل التعاون الدولي.",
+        "script": "Types of security threats: Terrorist threats: Include attacks by extremist groups aiming to spread fear and destruction. Terrorist groups use various methods such as bombings, armed assaults, and kidnappings to create chaos and force governments to respond to their demands. Cyber threats: Involve electronic attacks targeting systems and networks to steal data, disrupt services, or cause technical damage. These threats include hacking, virus attacks, and attacks on digital infrastructure. Military threats: Include threats from states or armed groups seeking to use military force to impose control or achieve political objectives. These threats encompass conventional wars, unconventional military operations, and nuclear armament. Environmental threats: Relate to risks affecting the environment leading to humanitarian crises. These threats include natural disasters such as earthquakes, floods, and hurricanes, as well as climate changes that could lead to food and water crises. Economic threats: Include risks affecting the economic stability of a state such as financial crises, trade crises, and illegal economic practices. These threats can destabilize social and economic stability. Social threats: Concern social disturbances such as violent protests, demonstrations, and ethnic or sectarian conflicts. These threats affect community stability and lead to internal tensions. Sources of security threats: Terrorist groups: Organizations like Al-Qaeda and ISIS aiming to execute attacks to destabilize. Hostile states: States seeking to enhance their military capabilities or exert influence over other states, threatening regional and global security. Cybercriminals: Individuals or groups exploiting security vulnerabilities in electronic systems to steal information or disrupt services. Criminal organizations: Include smuggling gangs, drug trafficking, and organized crime affecting social and economic stability. Impact of security threats on security: Erosion of stability: Security threats can erode political, economic, and social stability, affecting quality of life and increasing stress levels. Human and material losses: Security threats cause loss of life and damage to property and infrastructure, leading to significant economic costs. Psychological effects: Security threats can lead to anxiety and fear among populations, affecting mental health and quality of life. Impact on international relations: Security threats may lead to diplomatic tensions between countries, enhance regional conflicts, and disrupt international cooperation.",
+        "vocabulary": [
+            {"arabic": "التهديدات الإرهابية", "english": "terrorist threats"},
+            {"arabic": "التهديدات السيبرانية", "english": "cyber threats"},
+            {"arabic": "التهديدات العسكرية", "english": "military threats"},
+            {"arabic": "التهديدات البيئية", "english": "environmental threats"},
+            {"arabic": "التهديدات الاقتصادية", "english": "economic threats"},
+            {"arabic": "التهديدات الاجتماعية", "english": "social threats"},
+            {"arabic": "الجماعات الإرهابية", "english": "terrorist groups"},
+            {"arabic": "الدول المعادية", "english": "hostile states"},
+            {"arabic": "المجرمون السيبرانيون", "english": "cybercriminals"},
+            {"arabic": "المنظمات الإجرامية", "english": "criminal organizations"}
+        ],
+        "questions": [
+            {
+                "question": "Based on the text, what can be inferred about the relationship between environmental threats and humanitarian crises?",
+                "options": [
+                    "A. Environmental threats are unrelated to humanitarian crises.",
+                    "B. Environmental threats can lead to humanitarian crises by affecting food and water resources.",
+                    "C. Humanitarian crises primarily cause environmental threats.",
+                    "D. Environmental threats are only related to economic issues."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "Which type of security threat is most likely to directly affect digital infrastructure?",
+                "options": [
+                    "A. Terrorist threats",
+                    "B. Cyber threats",
+                    "C. Military threats",
+                    "D. Social threats"
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "What detail in the text supports the idea that social threats can destabilize communities?",
+                "options": [
+                    "A. Social threats can lead to violent protests and demonstrations.",
+                    "B. Social threats cause damage to physical infrastructure.",
+                    "C. Social threats are unrelated to internal tensions.",
+                    "D. Social threats primarily affect economic stability."
+                ],
+                "correct": "a"
+            },
+            {
+                "question": "How do economic threats impact social stability according to the text?",
+                "options": [
+                    "A. By leading to loss of life.",
+                    "B. By causing destabilization of economic and social stability.",
+                    "C. By improving infrastructure.",
+                    "D. By reducing environmental risks."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "Infer the likely impact of hostile states on international security from the text.",
+                "options": [
+                    "A. Hostile states have no impact on international security.",
+                    "B. Hostile states enhance regional conflicts and disrupt international cooperation.",
+                    "C. Hostile states primarily focus on internal stability.",
+                    "D. Hostile states improve diplomatic relations."
+                ],
+                "correct": "b"
+            }
+        ]
+    }
+},
     "Cultural Topics": {
         "Historical Events": {
-            "text": "This is the text for the Historical Events lesson.",
-            "script": "This is the script for the Historical Events lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 55", "english": "Meaning 55"},
-                {"arabic": "كلمة 56", "english": "Meaning 56"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "b"
-                }
-            ]
-        },
-        "Cultural Traditions": {
-            "text": "This is the text for the Cultural Traditions lesson.",
-            "script": "This is the script for the Cultural Traditions lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 57", "english": "Meaning 57"},
-                {"arabic": "كلمة 58", "english": "Meaning 58"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "d"
-                }
-            ]
-        },
-        "Modern Cultural Practices": {
-            "text": "This is the text for the Modern Cultural Practices lesson.",
-            "script": "This is the script for the Modern Cultural Practices lesson.",
-            "vocabulary": [
-                {"arabic": "كلمة 59", "english": "Meaning 59"},
-                {"arabic": "كلمة 60", "english": "Meaning 60"}
-            ],
-            "questions": [
-                {
-                    "question": "What is the main topic of the text?",
-                    "options": ["Option A", "Option B", "Option C", "Option D"],
-                    "correct": "a"
-                }
-            ]
-        }
+        "text": "أبرز الأمثلة على الأحداث التاريخية: ثورة الفرنسية (1789-1799): تعد الثورة الفرنسية واحدة من أهم الأحداث التاريخية في تاريخ أوروبا والعالم. بدأت في عام 1789 بثورة ضد النظام الملكي الفرنسي، وأسفرت عن تغييرات جذرية في النظام السياسي والاجتماعي في فرنسا. أسست الثورة الجمهورية الفرنسية، وأثرت بشكل كبير على تطور الفكر السياسي والحقوق الإنسانية في العالم. الحرب العالمية الأولى (1914-1918): كانت الحرب العالمية الأولى نزاعاً عسكرياً شاملاً شاركت فيه معظم الدول الكبرى. بدأت الحرب في أوروبا وتوسعت لتشمل مناطق أخرى من العالم. أثرت الحرب بشكل عميق على السياسة الدولية، وأدت إلى تغييرات جذرية في الأنظمة السياسية والحدود الجغرافية. الهبوط على القمر (1969): يُعتبر الهبوط على القمر في عام 1969 من أبرز الأحداث التاريخية في مجال الفضاء. قامت وكالة ناسا الأمريكية بإرسال مركبة فضائية تحمل الرواد نيل أرمسترونغ وباز ألدرين إلى سطح القمر، حيث أصبح أرمسترونغ أول إنسان يخطو على سطح القمر. ساهم هذا الحدث في تعزيز التقدم العلمي والتكنولوجي وأثّر على فهم البشرية للفضاء. ثورة المعلومات (القرن العشرين): شهد القرن العشرون ثورة كبيرة في مجال المعلومات والتكنولوجيا. بدأت هذه الثورة مع اختراع الحواسيب، وتطور الإنترنت، وانتشار التكنولوجيا الرقمية. أثرت هذه التغيرات على جميع جوانب الحياة اليومية، من طريقة التواصل إلى أساليب العمل والتعليم. استقلال الدول المستعمرة (النصف الثاني من القرن العشرين): شهد النصف الثاني من القرن العشرين حركة واسعة لاستقلال الدول المستعمرة. كان من أبرز الأحداث في هذه الفترة حصول العديد من الدول الأفريقية والآسيوية على استقلالها عن القوى الاستعمارية الأوروبية. أسفرت هذه الحركات عن تغييرات سياسية كبيرة وأثرت على توزيع القوى العالمية.",
+        "script": "Key historical events: The French Revolution (1789-1799): The French Revolution is one of the most significant historical events in European and world history. It began in 1789 with a revolt against the French monarchy and led to radical changes in the political and social system in France. The revolution established the French Republic and significantly impacted the development of political thought and human rights worldwide. World War I (1914-1918): World War I was a comprehensive military conflict involving most major powers. The war began in Europe and expanded to other parts of the world. It deeply affected international politics, leading to radical changes in political systems and geographical boundaries. The Moon Landing (1969): The Moon landing in 1969 is considered one of the most significant historical events in space exploration. NASA sent astronauts Neil Armstrong and Buzz Aldrin to the Moon's surface, where Armstrong became the first human to walk on the Moon. This event contributed to scientific and technological advancement and altered humanity's understanding of space. The Information Revolution (20th Century): The 20th century witnessed a major revolution in information and technology. This revolution began with the invention of computers, the development of the Internet, and the spread of digital technology. These changes impacted all aspects of daily life, from communication methods to working and educational practices. Decolonization (Second Half of the 20th Century): The second half of the 20th century saw a broad movement for the independence of colonized countries. Notable events included the independence of many African and Asian nations from European colonial powers. These movements resulted in significant political changes and affected global power distribution.",
+        "vocabulary": [
+            {"arabic": "ثورة الفرنسية", "english": "French Revolution"},
+            {"arabic": "الحرب العالمية الأولى", "english": "World War I"},
+            {"arabic": "الهبوط على القمر", "english": "Moon Landing"},
+            {"arabic": "ثورة المعلومات", "english": "Information Revolution"},
+            {"arabic": "استقلال الدول المستعمرة", "english": "Decolonization"}
+        ],
+        "questions": [
+            {
+                "question": "What can be inferred about the impact of the French Revolution on political thought?",
+                "options": [
+                    "A. It had no impact on political thought.",
+                    "B. It significantly influenced the development of political ideas and human rights.",
+                    "C. It primarily affected economic systems.",
+                    "D. It led to the immediate dissolution of the French Republic."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "Which event is most directly associated with advancements in space exploration?",
+                "options": [
+                    "A. The French Revolution",
+                    "B. World War I",
+                    "C. The Moon Landing",
+                    "D. The Information Revolution"
+                ],
+                "correct": "c"
+            },
+            {
+                "question": "What detail supports the idea that decolonization had a major impact on global power distribution?",
+                "options": [
+                    "A. The independence of many African and Asian nations from European colonial powers.",
+                    "B. The invention of computers.",
+                    "C. The establishment of the French Republic.",
+                    "D. The development of the Internet."
+                ],
+                "correct": "a"
+            },
+            {
+                "question": "How did the Information Revolution influence daily life according to the text?",
+                "options": [
+                    "A. By causing a decline in technological advancements.",
+                    "B. By impacting all aspects of daily life, including communication and education.",
+                    "C. By leading to the decline of space exploration.",
+                    "D. By focusing only on economic systems."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "Based on the text, what can be inferred about the impact of World War I on political systems?",
+                "options": [
+                    "A. It led to the immediate end of all wars.",
+                    "B. It caused radical changes in political systems and geographical boundaries.",
+                    "C. It had no effect on political systems.",
+                    "D. It primarily influenced social structures."
+                ],
+                "correct": "b"
+            }
+        ]
     }
+,
+        "Cultural Traditions": {
+        "text": "التقاليد الثقافية هي مجموعة من العادات، والممارسات، والطقوس التي يتم تبادلها من جيل إلى جيل داخل مجتمع معين. تعكس هذه التقاليد القيم والمعتقدات التي يعتنقها أفراد المجتمع، وتساهم في تعزيز الانتماء والهوية الثقافية. أمثلة على التقاليد الثقافية: الاحتفالات والمهرجانات: تعتبر الاحتفالات والمهرجانات جزءاً مهماً من التقاليد الثقافية في العديد من المجتمعات. تشمل هذه الفعاليات الأعياد الدينية، والمهرجانات الموسمية، والاحتفالات التاريخية. على سبيل المثال، يحتفل المسلمون بعيد الفطر وعيد الأضحى، بينما يحتفل المسيحيون بعيد الميلاد وعيد الفصح. في الهند، يعتبر مهرجان ديwali من أبرز الاحتفالات الثقافية. الطقوس والعادات: تشمل الطقوس والعادات التي يتم تنفيذها في المناسبات الخاصة مثل الزواج، والختان، والاحتفالات الوطنية. على سبيل المثال، في اليابان، يتبع العرسان تقاليد الزفاف التقليدية مثل ارتداء الكيمونو وإجراء مراسم الشاي. الطعام والشراب: يعتبر الطعام جزءاً من التقاليد الثقافية التي تعكس تنوع الممارسات الغذائية حول العالم. في إيطاليا، تعد البيتزا والمعكرونة من الأطباق التقليدية، بينما في المغرب، يعتبر الكسكس والطاجين من الأطباق الشهيرة. لكل مجتمع طبق خاص يعبر عن هويته الثقافية. الملابس التقليدية: تعبر الملابس التقليدية عن التراث الثقافي للمجتمعات. في اسكتلندا، يرتدي الرجال التنانير التقليدية، بينما في بعض الدول الأفريقية، يرتدي الأفراد أزياء ملونة وزاهية تعبر عن ثقافاتهم. الفنون والحرف اليدوية: تعكس الفنون والحرف اليدوية التقاليد الثقافية للمجتمعات. تشمل هذه الفنون الرسم، والنحت، والحرف اليدوية مثل النسيج والفخار. في المكسيك، تعتبر الزخارف الفخارية والتطريز اليدوي جزءاً من التراث الثقافي.",
+        "script": "Cultural traditions are a set of customs, practices, and rituals passed down from generation to generation within a specific community. These traditions reflect the values and beliefs held by the community members and contribute to strengthening cultural identity and belonging. Examples of cultural traditions include celebrations and festivals such as religious holidays and seasonal events. For instance, Muslims celebrate Eid al-Fitr and Eid al-Adha, while Christians celebrate Christmas and Easter. In India, Diwali is one of the major cultural festivals. Rituals and customs performed during special occasions like weddings and national celebrations are also part of cultural traditions. For example, in Japan, traditional wedding ceremonies include wearing kimonos and performing tea ceremonies. Food and drink are integral to cultural traditions, reflecting diverse culinary practices worldwide. In Italy, pizza and pasta are traditional dishes, while in Morocco, couscous and tagine are popular. Traditional clothing expresses cultural heritage, such as kilts in Scotland and colorful garments in some African countries. Arts and crafts also reflect cultural traditions, including painting, sculpture, and handicrafts like weaving and pottery. In Mexico, pottery decorations and embroidery are part of the cultural heritage.",
+        "vocabulary": [
+            {"arabic": "التقاليد الثقافية", "english": "Cultural Traditions"},
+            {"arabic": "الاحتفالات والمهرجانات", "english": "Celebrations and Festivals"},
+            {"arabic": "الطقوس والعادات", "english": "Rituals and Customs"},
+            {"arabic": "الطعام والشراب", "english": "Food and Drink"},
+            {"arabic": "الملابس التقليدية", "english": "Traditional Clothing"},
+            {"arabic": "الفنون والحرف اليدوية", "english": "Arts and Crafts"}
+        ],
+        "questions": [
+            {
+                "question": "How do cultural traditions contribute to a community's identity?",
+                "options": [
+                    "A. By providing a source of conflict and division.",
+                    "B. By reflecting values and beliefs and enhancing cultural identity.",
+                    "C. By eliminating the need for modern practices.",
+                    "D. By focusing solely on economic benefits."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "Which tradition is most likely to be observed during a wedding in Japan according to the text?",
+                "options": [
+                    "A. Wearing traditional kimonos and performing tea ceremonies.",
+                    "B. Eating pizza and pasta.",
+                    "C. Celebrating Diwali.",
+                    "D. Wearing kilts."
+                ],
+                "correct": "a"
+            },
+            {
+                "question": "What role does food play in cultural traditions based on the text?",
+                "options": [
+                    "A. Food is irrelevant to cultural traditions.",
+                    "B. Food reflects the diverse culinary practices and cultural identity of a community.",
+                    "C. Food is only considered during festivals.",
+                    "D. Food primarily influences economic stability."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "What is a significant way in which traditional clothing reflects cultural heritage?",
+                "options": [
+                    "A. By being adopted by all modern fashion trends.",
+                    "B. By representing historical and cultural identities specific to each community.",
+                    "C. By being exclusively worn during international events.",
+                    "D. By focusing only on comfort and utility."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "Which cultural tradition is linked with the creation of unique handicrafts according to the text?",
+                "options": [
+                    "A. Traditional clothing.",
+                    "B. Food and drink.",
+                    "C. Arts and crafts.",
+                    "D. Festivals and celebrations."
+                ],
+                "correct": "c"
+            }
+        ]
+    }
+,
+        "Modern Cultural Practices": {
+        "text": "الممارسات الثقافية الحديثة هي الأنشطة والعادات التي تطورت في العصر الحديث نتيجة للتقدم التكنولوجي، والتغيرات الاجتماعية، والتأثيرات العالمية. تشمل هذه الممارسات الاستخدامات الجديدة للتكنولوجيا، والاتجاهات الاجتماعية، والأساليب الحديثة للتفاعل والتعبير الثقافي. أمثلة على الممارسات الثقافية الحديثة: التكنولوجيا الرقمية ووسائل التواصل الاجتماعي: أصبحت وسائل التواصل الاجتماعي مثل فيسبوك، وتويتر، وإنستجرام جزءاً أساسياً من الحياة اليومية. تسمح هذه المنصات للأفراد بالتواصل ومشاركة المحتوى الثقافي، مما يعزز من انتشار الأفكار والتوجهات الثقافية عبر الحدود. تُعتبر الظواهر مثل \"الهاشتاج\" والتحديات الاجتماعية عبر الإنترنت جزءاً من الممارسات الثقافية الحديثة. الاحتفالات الافتراضية: مع تقدم التكنولوجيا، أصبحت الاحتفالات والمناسبات الاجتماعية تُنظم عبر الإنترنت. يشمل ذلك الحفلات الموسيقية الافتراضية، والمؤتمرات عبر الفيديو، والمناسبات الاجتماعية التي تُنظم عبر منصات مثل Zoom وTeams. هذه الاحتفالات توفر بديلاً للتجمعات التقليدية وتسمح بالمشاركة من أماكن متعددة. التعددية الثقافية والاندماج: تزايدت أهمية التعددية الثقافية في المجتمعات الحديثة، حيث تسعى إلى تعزيز التفاهم والاحترام بين ثقافات مختلفة. يشمل ذلك دعم التنوع في مجالات مثل العمل، والتعليم، والفنون، حيث تُقدَّر الثقافات المختلفة وتُدمج في الأنشطة والممارسات اليومية. الاهتمام بالاستدامة: أصبحت قضايا الاستدامة والبيئة جزءاً مهماً من الممارسات الثقافية الحديثة. يشمل ذلك التحول إلى نمط حياة أكثر استدامة، مثل استخدام المواد القابلة لإعادة التدوير، وتبني طرق الزراعة المستدامة، والدعوة إلى تقليل الاستهلاك. يعكس هذا الاتجاه التزاماً بالحفاظ على البيئة للأجيال القادمة. الرياضة الإلكترونية (eSports): أصبحت الرياضة الإلكترونية من الأنشطة الثقافية الحديثة التي تحظى بشعبية كبيرة. يشمل ذلك مسابقات الألعاب الإلكترونية التي تجذب الجمهور من جميع أنحاء العالم، وتوفر منصات للتنافس والتفاعل بين اللاعبين. الابتكارات في الفن والموسيقى: يتمثل التقدم في الفن والموسيقى في استخدام التكنولوجيا الرقمية لإنشاء أعمال فنية وموسيقية جديدة. يشمل ذلك استخدام البرمجيات لإنشاء الموسيقى، والتكنولوجيا ثلاثية الأبعاد في الفن، والفنون الرقمية التي تتفاعل مع الجمهور عبر الإنترنت.",
+        "script": "Modern cultural practices are activities and customs that have evolved in the modern era due to technological advancements, social changes, and global influences. These practices include new uses of technology, social trends, and contemporary methods of interaction and cultural expression. Examples of modern cultural practices include digital technology and social media. Social media platforms like Facebook, Twitter, and Instagram have become integral to daily life, allowing individuals to connect and share cultural content, which enhances the spread of ideas and cultural trends across borders. Phenomena such as hashtags and online social challenges are part of modern cultural practices. Virtual celebrations: With technological advancements, social events and celebrations are now organized online. This includes virtual concerts, video conferences, and social events held through platforms like Zoom and Teams. These celebrations provide an alternative to traditional gatherings and allow participation from multiple locations. Multiculturalism and integration: The importance of multiculturalism has increased in modern societies, aiming to enhance understanding and respect among different cultures. This includes supporting diversity in areas such as work, education, and the arts, where different cultures are valued and integrated into daily activities and practices. Sustainability focus: Sustainability and environmental issues have become an important part of modern cultural practices. This includes shifting to more sustainable lifestyles, such as using recyclable materials, adopting sustainable farming methods, and advocating for reduced consumption. This trend reflects a commitment to preserving the environment for future generations. E-sports: E-sports have become a popular modern cultural activity. This includes electronic gaming competitions that attract audiences from around the world, providing platforms for competition and interaction among players. Innovations in art and music: Advances in art and music are reflected in the use of digital technology to create new artistic and musical works. This includes using software to create music, 3D technology in art, and digital art that interacts with audiences online.",
+        "vocabulary": [
+            {"arabic": "التكنولوجيا الرقمية", "english": "Digital Technology"},
+            {"arabic": "وسائل التواصل الاجتماعي", "english": "Social Media"},
+            {"arabic": "الاحتفالات الافتراضية", "english": "Virtual Celebrations"},
+            {"arabic": "التعددية الثقافية", "english": "Multiculturalism"},
+            {"arabic": "الاستدامة", "english": "Sustainability"},
+            {"arabic": "الرياضة الإلكترونية", "english": "E-sports"},
+            {"arabic": "الابتكارات الفنية والموسيقية", "english": "Innovations in Art and Music"}
+        ],
+        "questions": [
+            {
+                "question": "How have digital technology and social media transformed modern cultural practices?",
+                "options": [
+                    "A. By reducing communication and cultural exchange.",
+                    "B. By allowing global spread of ideas and cultural trends.",
+                    "C. By eliminating traditional forms of cultural expression.",
+                    "D. By focusing solely on local cultural practices."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "What are virtual celebrations, and how do they differ from traditional gatherings?",
+                "options": [
+                    "A. They involve physical attendance at events.",
+                    "B. They are organized online and allow participation from multiple locations.",
+                    "C. They require no technological involvement.",
+                    "D. They focus only on individual participation."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "What role does multiculturalism play in modern societies based on the text?",
+                "options": [
+                    "A. It emphasizes the dominance of a single culture.",
+                    "B. It promotes understanding and integration among diverse cultures.",
+                    "C. It limits cultural interactions to local communities.",
+                    "D. It disregards cultural diversity in daily activities."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "In what way is sustainability reflected in modern cultural practices?",
+                "options": [
+                    "A. By promoting excessive consumption.",
+                    "B. By encouraging environmentally-friendly lifestyles and practices.",
+                    "C. By focusing on non-recyclable materials.",
+                    "D. By avoiding environmental concerns altogether."
+                ],
+                "correct": "b"
+            },
+            {
+                "question": "How have innovations in art and music influenced contemporary cultural expression?",
+                "options": [
+                    "A. By rejecting digital technology in creative processes.",
+                    "B. By incorporating digital technology to create new forms of art and music.",
+                    "C. By limiting art and music to traditional methods only.",
+                    "D. By focusing solely on physical art forms."
+                ],
+                "correct": "b"
+            }
+        ]
+    }
+}
 }
