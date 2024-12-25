@@ -1,397 +1,245 @@
-/* General styles for the body */
-body {
-  font-family: "Arial", sans-serif;
-  background-color: #f5f5f5; /* Slightly lighter gray background */
+/* Root Variables */
+:root {
+  --primary-color: #0078ff;
+  --secondary-color: #ff4081;
+  --background-color: #f9f9f9;
+  --card-background: #ffffff;
+  --text-color: #333;
+  --header-font: "Poppins", sans-serif;
+  --body-font: "Roboto", sans-serif;
+  --border-radius: 12px;
+  --box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  --transition-speed: 0.3s;
+}
+
+/* General Reset */
+* {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
-/* Container styling */
+body {
+  font-family: var(--body-font);
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+/* Container */
 .container {
-  width: 90%;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 20px;
-  background-color: #ffffff; /* White background for the container */
-  border-radius: 10px;
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Enhanced shadow for depth */
+  padding: 2rem;
+  background-color: var(--card-background);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  overflow: hidden;
 }
 
-/* Heading styles */
+/* Heading */
 h1,
 h2 {
-  color: #0033a0; /* Primary blue */
+  font-family: var(--header-font);
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
   text-align: center;
-  font-size: 1.8em; /* Slightly smaller font size for headings */
 }
 
-#domain-section,
-#subdomain-section,
-#lesson-section {
-  margin: 20px 0;
+h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
 }
 
-#domain-list,
-#subdomain-list,
-table {
-  width: 100%;
-  list-style-type: none;
-  padding: 0;
-}
-
-#domain-list li,
-#subdomain-list li {
-  background-color: #0033a0; /* Primary blue */
-  color: #ffffff;
-  margin: 8px 0; /* Slightly increased margin */
-  padding: 15px; /* Decreased padding for a tighter look */
-  border-radius: 6px; /* Slightly more rounded corners */
-  cursor: pointer;
-  text-align: center;
-  font-size: 1.1em; /* Smaller font size for list items */
-}
-
-#domain-list li:hover,
-#subdomain-list li:hover {
-  background-color: #002080; /* Secondary blue */
-}
-
-.audio-section {
-  text-align: center;
-  margin: 20px 0;
-}
-
-audio {
-  width: 100%;
-  max-width: 650px; /* Slightly larger max-width for audio */
-}
-
-#show-script-btn {
-  display: block;
-  margin: 20px auto;
-  padding: 10px 20px; /* Decreased padding for a tighter button */
-  background-color: #4caf50; /* Accent green */
-  color: #ffffff;
+/* Buttons */
+button {
+  background-color: var(--primary-color);
+  color: #fff;
+  padding: 1rem 2rem;
   border: none;
-  border-radius: 8px; /* Slightly more rounded corners */
+  border-radius: var(--border-radius);
+  font-size: 1rem;
+  font-weight: bold;
   cursor: pointer;
-  font-size: 1.1em; /* Smaller font size for button text */
+  transition: background-color var(--transition-speed),
+    transform var(--transition-speed);
 }
 
-#show-script-btn:hover {
-  background-color: #388e3c; /* Darker green */
+button:hover {
+  background-color: var(--secondary-color);
+  transform: scale(1.05);
 }
 
-#script {
-  margin: 20px 0;
-  padding: 15px; /* Decreased padding for better readability */
-  background-color: #f0f0f0; /* Light gray */
-  border-radius: 6px; /* Slightly more rounded corners */
-  font-size: 1.1em; /* Smaller font size for script text */
-}
-
-#vocabulary h2,
-#questions h2 {
-  text-align: left;
-  color: #0033a0; /* Primary blue */
-  font-size: 1.4em; /* Smaller font size for section headings */
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 20px 0;
-}
-
-table,
-th,
-td {
-  border: 1px solid #ddd;
-}
-
-th,
-td {
-  padding: 15px; /* Decreased padding for better readability */
-  text-align: left;
-  font-size: 1.1em; /* Smaller font size for table cells */
-}
-
-th {
-  background-color: #0033a0; /* Primary blue */
-  color: #ffffff;
-}
-
-#quiz-form {
-  margin: 20px 0;
-}
-
-.question {
-  margin: 15px 0; /* Increased margin between questions */
-}
-
-.question p {
-  margin: 0 0 10px; /* Decreased margin below paragraphs */
-  font-size: 1.1em; /* Smaller font size for question text */
-}
-
-.question label {
-  display: block;
-  margin: 10px 0; /* Increased margin for labels */
-  font-size: 1.1em; /* Smaller font size for labels */
-}
-
-#submit-quiz-btn,
-#next-lesson-btn {
-  display: block; /* Ensure the button is set to block */
-  margin: 20px auto;
-  padding: 10px 20px; /* Decreased padding for a tighter button */
-  background-color: #d32f2f; /* Accent red */
-  color: #ffffff;
-  border: none;
-  border-radius: 8px; /* Slightly more rounded corners */
-  cursor: pointer;
-  font-size: 1.1em; /* Smaller font size for button text */
-}
-
-/* Hide elements with class 'hidden' */
 .hidden {
   display: none;
 }
 
-/* Style for the hero image */
-.hero-image {
-  width: 100%;
-  height: auto;
-  max-height: 500px; /* Adjusted to a more manageable size */
-  object-fit: contain; /* Ensures the entire image fits within the container */
-  border-radius: 8px; /* Rounded corners to match the container */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
-  margin-bottom: 20px; /* Space below the image */
-  border: 3px solid #0033a0; /* Primary blue border around the image */
-}
-
-/* Styles for Arabic text section */
-.text-section {
-  direction: rtl; /* Right-to-left text direction for Arabic */
-}
-
-#lesson-text {
-  font-size: 1.4em; /* Smaller font size for lesson text */
-}
-
-#vocabulary td,
-#vocabulary th {
-  font-size: 1.1em; /* Smaller font size for vocabulary text */
-}
-
-/* Styles for the instructions section */
-#instructions {
-  margin: 20px 0;
-  padding: 15px; /* Decreased padding for better readability */
-  background-color: #f5f5f5; /* Light background for contrast */
-  border: 1px solid #ddd; /* Subtle border for definition */
-  border-radius: 6px; /* Slightly more rounded corners */
-}
-
-#instructions h2 {
-  color: #0033a0; /* Primary blue for consistency */
-}
-
-#instructions ul {
-  list-style-type: disc;
-  margin-left: 25px; /* Increased indent for list items */
-}
-
-#instructions li {
-  margin-bottom: 10px; /* Decreased margin below list items */
-  font-size: 1.1em; /* Smaller font size for readability */
-}
-
-/* Add a style for vocabulary rows if needed */
-#vocabulary tr {
-  text-align: center; /* Center text horizontally for table rows */
-}
-
-/* Flashcard button */
-#flashcard-btn {
-  margin: 20px;
-  padding: 8px 16px; /* Decreased padding for a tighter button */
-  font-size: 14px; /* Smaller font size for button text */
-  background-color: #007bff;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-#flashcard-btn:hover {
-  background-color: #0056b3;
-}
-
-/* Flashcard section */
-#flashcards-section {
-  margin: 20px;
-}
-
-.flashcard {
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  margin: 10px 0;
-  padding: 10px;
-  position: relative;
-  width: 200px;
-  height: 100px;
-  background-color: #fff;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
-
-.flashcard-front,
-.flashcard-back {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  backface-visibility: hidden;
-  transition: transform 0.6s;
-}
-
-.flashcard-back {
-  background-color: #f8f9fa;
-  transform: rotateY(180deg);
-}
-
-.flashcard:hover .flashcard-front {
-  transform: rotateY(180deg);
-}
-
-.flashcard:hover .flashcard-back {
-  transform: rotateY(0deg);
-}
-
-/* Flashcard form */
+/* Flashcard Form */
 #flashcard-form {
-  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1.5rem;
+  background-color: var(--card-background);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
 }
 
 #flashcard-form label {
-  display: block;
-  margin-bottom: 8px; /* Decreased margin for labels */
+  font-weight: bold;
 }
 
 #flashcard-form input {
-  width: calc(100% - 20px);
-  padding: 8px;
-  margin-bottom: 8px; /* Decreased margin for inputs */
-  border-radius: 5px;
-  border: 1px solid #ddd;
+  padding: 0.8rem;
+  border: 1px solid #ccc;
+  border-radius: var(--border-radius);
+  transition: border-color var(--transition-speed);
 }
 
-#save-flashcard-btn {
-  padding: 8px 16px; /* Decreased padding for a tighter button */
-  font-size: 14px; /* Smaller font size for button text */
-  background-color: #28a745;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-#save-flashcard-btn:hover {
-  background-color: #218838;
-}
-
-/* Hide elements */
-.hidden {
-  display: none;
-}
-
-/* Flashcard section */
-#flashcards-section {
-  margin: 20px;
-}
-
-.flashcard {
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  margin: 10px 0;
-  padding: 10px;
-  position: relative;
-  width: 200px;
-  height: 100px;
-  background-color: #fff;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
-
-.flashcard-front,
-.flashcard-back {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  backface-visibility: hidden;
-  transition: transform 0.6s;
-  font-size: 20px; /* Increased font size for flashcard text */
-}
-
-.flashcard-back {
-  background-color: #f8f9fa;
-  transform: rotateY(180deg);
-}
-
-.flashcard:hover .flashcard-front {
-  transform: rotateY(180deg);
-}
-
-.flashcard:hover .flashcard-back {
-  transform: rotateY(0deg);
-}
-
-.remove-flashcard-btn {
-  position: absolute;
-  top: 5px;
-  right: 5px;
-  background-color: #dc3545;
-  color: white;
-  border: none;
-  border-radius: 3px;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.remove-flashcard-btn:hover {
-  background-color: #c82333;
-}
-
-/* Styles for the Back to Home button */
-#back-to-home-btn {
-  display: inline-block;
-  padding: 8px 16px; /* Decreased padding for a tighter button */
-  font-size: 14px; /* Smaller font size for button text */
-  color: #fff;
-  background-color: #007bff; /* Primary color */
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-}
-
-#back-to-home-btn:hover {
-  background-color: #0056b3; /* Darker shade for hover effect */
-}
-
-#back-to-home-btn:focus {
+#flashcard-form input:focus {
+  border-color: var(--primary-color);
   outline: none;
+}
+
+/* Domain & Subdomain Sections */
+#domain-section,
+#subdomain-section {
+  margin-bottom: 2rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 1rem;
+  background-color: var(--card-background);
+  padding: 1rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  transition: transform var(--transition-speed),
+    background-color var(--transition-speed);
+}
+
+ul li:hover {
+  transform: scale(1.02);
+  background-color: var(--primary-color);
+  color: #fff;
+  cursor: pointer;
+}
+
+/* Text Section */
+.text-section {
+  background-color: var(--card-background);
+  padding: 2rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  margin-bottom: 2rem;
+}
+
+.text-section p {
+  margin-bottom: 1.5rem;
+  line-height: 1.8;
+}
+
+/* Vocabulary Table */
+#vocabulary table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+
+#vocabulary th,
+#vocabulary td {
+  border: 1px solid #ccc;
+  text-align: left;
+  padding: 1rem;
+}
+
+#vocabulary th {
+  background-color: var(--primary-color);
+  color: #fff;
+  font-weight: bold;
+}
+
+#vocabulary td {
+  background-color: var(--card-background);
+}
+
+#vocabulary td:hover {
+  background-color: var(--secondary-color);
+  color: #fff;
+}
+
+/* Questions Section */
+#quiz-form .question {
+  margin-bottom: 2rem;
+  background-color: var(--card-background);
+  padding: 1.5rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+}
+
+#quiz-form .question label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+#quiz-form button {
+  margin-top: 1rem;
+}
+
+/* Instructions */
+.instructions {
+  background-color: var(--card-background);
+  padding: 2rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  margin-bottom: 2rem;
+}
+
+.instructions ul {
+  margin-left: 1.5rem;
+  list-style: disc;
+}
+
+.instructions ul li {
+  margin-bottom: 0.8rem;
+  line-height: 1.8;
+}
+
+/* Footer Buttons */
+#show-script-btn,
+#next-lesson-btn {
+  margin-top: 1rem;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  button {
+    font-size: 0.9rem;
+    padding: 0.8rem 1.5rem;
+  }
+
+  #flashcard-form {
+    padding: 1rem;
+  }
+
+  ul li {
+    font-size: 0.9rem;
+  }
 }
